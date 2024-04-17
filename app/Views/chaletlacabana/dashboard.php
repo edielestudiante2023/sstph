@@ -260,7 +260,7 @@ footer {
                 <a class="nav-link active" aria-current="page" href="https://cycloidtalent.com/" target="_blank">Cycloid Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="XXXXX" target="blank">Indicadores SST</a>
+                <a class="nav-link" href="https://lookerstudio.google.com/reporting/06e2ebfc-c368-4e47-9fc4-0d1a93961a14" target="blank">Indicadores SST</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="https://wa.me/573132123799" target="_blank">Escríbenos por WhatsApp</a>
@@ -371,7 +371,7 @@ footer {
     <!-- SECCIÓN DE IMAGEN A LOOKER STUDIO -->
     <section>
         <div class="hero-inferior">
-          <a href="XXXXX" target="_blank">
+          <a href="https://lookerstudio.google.com/reporting/06e2ebfc-c368-4e47-9fc4-0d1a93961a14" target="_blank">
             <img class="hero-inferior-imagen img-fluid" src="imagenes/indicadores.PNG" alt="kpi">
           </a>
 
@@ -403,7 +403,7 @@ footer {
                     <td><h6>1.1.1 Responsable del SG-SST</h6></td>
                     <td> 
                       
-                      <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                      <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                     
                     </td>
                     <td>--</td>
