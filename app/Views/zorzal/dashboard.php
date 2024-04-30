@@ -842,7 +842,7 @@ footer {
                   <br><br>06/02/2024
                   <br><br>19/03/2024
                   <br><br>24/04/2024 ULTIMO
-                  <br><br>--
+                  <br><br>FECHA DE PRUEBA
                   <br><br>--
                   <br><br>--
                   <br><br>--
