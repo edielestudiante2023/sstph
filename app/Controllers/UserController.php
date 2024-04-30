@@ -35,14 +35,14 @@ class UserController extends BaseController
 
                 $user = $model->where('email', $this->request->getVar('email'))
                     ->first();
-
+                //var_dump( $user );
                 // Stroing session values
                 $this->setUserSession($user);
 
                 // Redirecting to dashboard after login
                 if($user['role'] == "alegria4"){
-
-                    return redirect()->to(base_url('alegria4'));
+                   //redirect('View/alegria4/dashboard');
+                   return redirect()->to(base_url('alegria4'));
 
                 }elseif($user['role'] == "heliconia"){
 
