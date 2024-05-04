@@ -1027,7 +1027,7 @@ footer {
                   <a href="https://drive.google.com/file/d/16sSDMkBKGC8nvD6NALPFgWLKzTk-awtW/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>30/04/2024</td>
+                <td>30/04/2024 </td>
               </tr>
               <tr>
                 <th scope="row">2</th>
