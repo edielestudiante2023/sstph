@@ -827,7 +827,7 @@ footer {
                   <a href="https://drive.google.com/file/d/1qq4FRFlohPyvoQRZi9BrD-MLk8rH-681/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="https://drive.google.com/file/d/1ipd-tGsQFxeZP3rs30Y-YNzYoESB8U47/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="https://drive.google.com/file/d/1RymDT6JBQqUev-RPe8DYPdG6vHiC3Foc/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a href="https://drive.google.com/file/d/1kZW6SPYqsjkbDrHyFmDX_y1e9mEoTUmS/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -841,7 +841,7 @@ footer {
                 <td> 01/01/2024
                   <br><br>08/02/2024
                   <br><br>04/03/2024
-                  <br><br>--
+                  <br><br>08/04/2024
                   <br><br>--
                   <br><br>--
                   <br><br>--
@@ -899,7 +899,7 @@ footer {
                   <a href="https://drive.google.com/file/d/13Q1e8wxoBgguKjDL5imPTZ0Od4xUnfI9/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="https://drive.google.com/file/d/1P1voURpiooTFPa1Vk8He72gPalpX_b9G/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="https://drive.google.com/file/d/18WHA6zccMq4AS0K-5BRD55P42R3oIPV-/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a href="https://drive.google.com/file/d/1nPERkwJSZJMVk_mT_NYaDwe1XH_tlfXz/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -913,7 +913,7 @@ footer {
                 <td>31/01/2024
                   <br><br>28/02/2024
                   <br><br>31/03/2024
-                  <br><br>--
+                  <br><br>30/04/2024
                   <br><br>--
                   <br><br>--
                   <br><br>--
@@ -1104,10 +1104,10 @@ footer {
                 <td><h6>Ocurrencia de Peligros</h6></td>
                 <td> 
                   
-                  <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a href="https://drive.google.com/file/d/1ORuX2mpk7cPHRjAqlS9dycVACGUDGg6T/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>--</td>
+                <td>11/04/2024</td>
               </tr>
               <tr>
                 <th scope="row">4</th>

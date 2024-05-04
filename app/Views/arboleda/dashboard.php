@@ -597,7 +597,7 @@ footer {
                   <td><h6>4.1.1 Metodología para la identificación de peligros</h6></td>
                   <td> 
                     
-                    <a href="https://docs.google.com/document/d/1IGvkB3gi6-wbhUwLuC9Fn-yxunuB-TVs/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true"> </i></a></i><br>Documento
+                    <a href="https://docs.google.com/document/d/1IGvkB3gi6-wbhUwLuC9Fn-yxunuB-TVs/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true"> target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Documento
                   
                   </td>
                   <td>01/03/2024</td>
@@ -825,7 +825,7 @@ footer {
                   
                   <a href="https://drive.google.com/file/d/1sGXoV9l4ohl3Zoc4xc3Ze8jHF7-kbvhq/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="https://drive.google.com/file/d/1lCuNsjMKfnLMF-jtSpqGaNjK1cE8lhpt/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a href="https://drive.google.com/file/d/16ZocgStI82GcaLFLVzDbqV_7gBzL9m2t/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -839,7 +839,7 @@ footer {
                 </td> 
                 <td> 26/01/2024
                   <br><br>06/03/2024
-                  <br><br>--
+                  <br><br>11/04/2024
                   <br><br>--
                   <br><br>--
                   <br><br>--
@@ -898,7 +898,7 @@ footer {
                   <a href="https://drive.google.com/file/d/1JDaaGsaeNl4W5Ieiz8arAotbPziNQpdk/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="https://drive.google.com/file/d/1iLPa5qqH9wDGdZLQjHq8-gHioTgSoImC/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="https://drive.google.com/file/d/1is6nZEOEDOVM--Y2_aMnTs2PjdLaMEmo/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a href="https://drive.google.com/file/d/1qck06xnNsAJCGOEDjJ-gMDoWG0X5ZgYN/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -912,7 +912,7 @@ footer {
                 <td>31/01/2024
                   <br><br>28/02/2024
                   <br><br>31/03/2024
-                  <br><br>--
+                  <br><br>30/04/2024
                   <br><br>--
                   <br><br>--
                   <br><br>--
@@ -1093,20 +1093,20 @@ footer {
                 <td><h6>Matriz de Vulnerabilidad por Amenazas</h6></td>
                 <td> 
                   
-                  <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a href="https://drive.google.com/file/d/1v58TMaYJHllmI_26DLL2HbNB5oIjB9vU/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>--</td>
+                <td>11/04/2024</td>
               </tr>
               <tr>
                 <th scope="row">3</th>
                 <td><h6>Ocurrencia de Peligros</h6></td>
                 <td> 
                   
-                  <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a href="https://drive.google.com/file/d/11Bx501CdoPOOWOtloXSN7uaJxzEQVvCB/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>--</td>
+                <td>11/04/2024</td>
               </tr>
               <tr>
                 <th scope="row">4</th>
