@@ -863,7 +863,7 @@ footer {
                 </td>
                 <td>01/01/2024
                   <br><br>29/02/2024
-                  <br><br>PENDIENTE
+                  <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
