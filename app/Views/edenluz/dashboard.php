@@ -17,18 +17,18 @@
     <title>Cliente</title>
 
     <!-- FAVICON -->
-    <link rel="icon" type="image/x-icon" href="imagenes/LOGO_SST.png">
+    <link rel="icon" type="image/x-icon"  href="imagenes/LOGO_SST.png">
     <!-- BOOTSTRAP -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="stylesheet"  href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <!-- ICONS  -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link  href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <!-- CSS -->
     
 
     <!-- FUENTES DE GOOGLE -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Arima:wght@100..700&display=swap" rel="stylesheet">
+    <link rel="preconnect"  href="https://fonts.googleapis.com">
+    <link rel="preconnect"  href="https://fonts.gstatic.com" crossorigin>
+    <link  href="https://fonts.googleapis.com/css2?family=Arima:wght@100..700&display=swap" rel="stylesheet">
 
 <style>
   .navbar {
@@ -252,27 +252,27 @@ footer {
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbar-toggler">
-            <a class="navbar-brand" href="https://cycloidtalent.com/index.php/consultoria-sst" target="_blank">
+            <a class="navbar-brand"  href="https://cycloidtalent.com/index.php/consultoria-sst" target="_blank">
                 <img src="imagenes/LOGO_SST.png" width="100" alt="Logo Página">
             </a>
             <ul class="navbar-nav d-flex justify-content-center align-items-center">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="https://cycloidtalent.com/" target="_blank">Cycloid Home</a>
+                <a class="nav-link active" aria-current="page"  href="https://cycloidtalent.com/" target="_blank">Cycloid Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="https://lookerstudio.google.com/reporting/bf258154-8d64-4a99-8e41-683b6a00b1a4" target="blank">Indicadores SST</a>
+                <a class="nav-link"  href="https://lookerstudio.google.com/reporting/bf258154-8d64-4a99-8e41-683b6a00b1a4" target="blank">Indicadores SST</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="https://wa.me/573132123799" target="_blank">Escríbenos por WhatsApp</a>
+                <a class="nav-link"  href="https://wa.me/573132123799" target="_blank">Escríbenos por WhatsApp</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="mailto:edison.cuervo@cycloidtalent.com" target="_blank">Escribenos Por Email</a>
+                <a class="nav-link"  href="mailto:edison.cuervo@cycloidtalent.com" target="_blank">Escribenos Por Email</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="<?= site_url('logout') ?>">Salir</a>
+                <a class="nav-link"  href="<?= site_url('logout') ?>">Salir</a>
               </li>
             </ul>
-            <a class="navbar-brand" href="https://cycloidtalent.com/" target="_blank">
+            <a class="navbar-brand"  href="https://cycloidtalent.com/" target="_blank">
                 <img src="imagenes/CYCLOID_ TALENT_SIN_FONDO.png" width="100" alt="Logo Página">
             </a>
           </div>
@@ -299,32 +299,32 @@ footer {
                     <div class="flotarcaja col-sm-4 col-lg-4">
                         <h2>Ciclo del SG-SST</h2>
                         <ol class="list-group list-group-numbered">
-                            <a href="#planear" class="flotartextofila list-group-item list-group-item-action">Planear</a>
-                            <a href="#hacer" class="flotartextofila list-group-item list-group-item-action">Hacer</a>
-                            <a href="#verificar" class="flotartextofila list-group-item list-group-item-action">Verificar</a>
-                            <a href="#actuar" class="flotartextofila list-group-item list-group-item-action">Actuar</a>
+                            <a  href="#planear" class="flotartextofila list-group-item list-group-item-action">Planear</a>
+                            <a  href="#hacer" class="flotartextofila list-group-item list-group-item-action">Hacer</a>
+                            <a  href="#verificar" class="flotartextofila list-group-item list-group-item-action">Verificar</a>
+                            <a  href="#actuar" class="flotartextofila list-group-item list-group-item-action">Actuar</a>
                         </ol>
 
                     </div>
                     <div class="flotarcaja col-sm-4 col-lg-4">
                         <h2>Inspecciones</h2>
                         <ol class="list-group list-group-numbered">
-                            <a href="#inspecciones" class="flotartextofila list-group-item list-group-item-action">Inspección General</a>
-                            <a href="#inspecciones" class="flotartextofila list-group-item list-group-item-action">Inspección Extintores</a>
-                            <a href="#inspecciones" class="flotartextofila list-group-item list-group-item-action">Inspección Botiquines</a>
-                            <a href="#inspecciones" class="flotartextofila list-group-item list-group-item-action">Inspección Gabinetes Contra Incendio</a>
-                            <a href="#inspecciones" class="flotartextofila list-group-item list-group-item-action">Inspección Recursos para la Seguridad</a>
+                            <a  href="#inspecciones" class="flotartextofila list-group-item list-group-item-action">Inspección General</a>
+                            <a  href="#inspecciones" class="flotartextofila list-group-item list-group-item-action">Inspección Extintores</a>
+                            <a  href="#inspecciones" class="flotartextofila list-group-item list-group-item-action">Inspección Botiquines</a>
+                            <a  href="#inspecciones" class="flotartextofila list-group-item list-group-item-action">Inspección Gabinetes Contra Incendio</a>
+                            <a  href="#inspecciones" class="flotartextofila list-group-item list-group-item-action">Inspección Recursos para la Seguridad</a>
                         </ol>
 
                     </div>
                     <div class="flotarcaja col-sm-4 col-lg-4">
                         <h2>Reportes</h2>
                         <ol class="list-group list-group-numbered">
-                            <a href="#reportes" class="flotartextofila list-group-item list-group-item-action">Acta de Visita</a>
-                            <a href="#reportes" class="flotartextofila list-group-item list-group-item-action">Capacitaciones</a>
-                            <a href="#reportes" class="flotartextofila list-group-item list-group-item-action">Reporte Estándares Mínimos (Min. Trabajo)</a>
-                            <a href="#reportes" class="flotartextofila list-group-item list-group-item-action">Reporte Cierre de Mes</a>
-                            <a href="#reportes" class="flotartextofila list-group-item list-group-item-action">Simulacro de Evacuación</a>
+                            <a  href="#reportes" class="flotartextofila list-group-item list-group-item-action">Acta de Visita</a>
+                            <a  href="#reportes" class="flotartextofila list-group-item list-group-item-action">Capacitaciones</a>
+                            <a  href="#reportes" class="flotartextofila list-group-item list-group-item-action">Reporte Estándares Mínimos (Min. Trabajo)</a>
+                            <a  href="#reportes" class="flotartextofila list-group-item list-group-item-action">Reporte Cierre de Mes</a>
+                            <a  href="#reportes" class="flotartextofila list-group-item list-group-item-action">Simulacro de Evacuación</a>
                         </ol>
 
                     </div>
@@ -335,10 +335,10 @@ footer {
                     <div class="flotarcaja col-sm-4 col-lg-4">
                         <h2>Evaluación de Proveedores</h2>
                         <ol class="list-group list-group-numbered">
-                            <a href="#proveedores" class="flotartextofila list-group-item list-group-item-action">Seguridad Social</a>
-                            <a href="#proveedores" class="flotartextofila list-group-item list-group-item-action">Dotaciones</a>
-                            <a href="#proveedores" class="flotartextofila list-group-item list-group-item-action">Examenes médicos periódicos</a>
-                            <a href="#proveedores" class="flotartextofila list-group-item list-group-item-action">Calificación ARL</a>
+                            <a  href="#proveedores" class="flotartextofila list-group-item list-group-item-action">Seguridad Social</a>
+                            <a  href="#proveedores" class="flotartextofila list-group-item list-group-item-action">Dotaciones</a>
+                            <a  href="#proveedores" class="flotartextofila list-group-item list-group-item-action">Examenes médicos periódicos</a>
+                            <a  href="#proveedores" class="flotartextofila list-group-item list-group-item-action">Calificación ARL</a>
                             
                         </ol>
 
@@ -346,22 +346,22 @@ footer {
                     <div class="flotarcaja col-sm-4 col-lg-4">
                         <h2>Plan de Emergencia</h2>
                         <ol class="list-group list-group-numbered">
-                            <a href="#emergencia" class="flotartextofila list-group-item list-group-item-action">Plan de Emergencia de la Copropiedad</a>
-                            <a href="#emergencia" class="flotartextofila list-group-item list-group-item-action">Matriz de Vulnerabilidad por Amenazas</a>
-                            <a href="#emergencia" class="flotartextofila list-group-item list-group-item-action">Ocurrencia de Peligros</a>
-                            <a href="#emergencia" class="flotartextofila list-group-item list-group-item-action">Evidencias de Simulacro</a>
-                            <a href="#emergencia" class="flotartextofila list-group-item list-group-item-action">Brigadistas de la Copropiedad</a>
+                            <a  href="#emergencia" class="flotartextofila list-group-item list-group-item-action">Plan de Emergencia de la Copropiedad</a>
+                            <a  href="#emergencia" class="flotartextofila list-group-item list-group-item-action">Matriz de Vulnerabilidad por Amenazas</a>
+                            <a  href="#emergencia" class="flotartextofila list-group-item list-group-item-action">Ocurrencia de Peligros</a>
+                            <a  href="#emergencia" class="flotartextofila list-group-item list-group-item-action">Evidencias de Simulacro</a>
+                            <a  href="#emergencia" class="flotartextofila list-group-item list-group-item-action">Brigadistas de la Copropiedad</a>
                           </ol>
 
                     </div>
                     <div class="flotarcaja col-sm-4 col-lg-4">
                         <h2>Saneamiento Básico</h2>
                         <ol class="list-group list-group-numbered">
-                            <a href="#saneamiento" class="flotartextofila list-group-item list-group-item-action">Auditoria Items Secretaría</a>
-                            <a href="#saneamiento" class="flotartextofila list-group-item list-group-item-action">Manejo de Plagas</a>
-                            <a href="#saneamiento" class="flotartextofila list-group-item list-group-item-action">Agua Potable</a>
-                            <a href="#saneamiento" class="flotartextofila list-group-item list-group-item-action">Manejo de Residuos</a>
-                            <a href="#saneamiento" class="flotartextofila list-group-item list-group-item-action">Shuts de Basuras</a>
+                            <a  href="#saneamiento" class="flotartextofila list-group-item list-group-item-action">Auditoria Items Secretaría</a>
+                            <a  href="#saneamiento" class="flotartextofila list-group-item list-group-item-action">Manejo de Plagas</a>
+                            <a  href="#saneamiento" class="flotartextofila list-group-item list-group-item-action">Agua Potable</a>
+                            <a  href="#saneamiento" class="flotartextofila list-group-item list-group-item-action">Manejo de Residuos</a>
+                            <a  href="#saneamiento" class="flotartextofila list-group-item list-group-item-action">Shuts de Basuras</a>
                           </ol>
 
                     </div>
@@ -373,7 +373,7 @@ footer {
     <!-- SECCIÓN DE IMAGEN A LOOKER STUDIO -->
     <section>
         <div class="hero-inferior">
-          <a href="https://lookerstudio.google.com/reporting/bf258154-8d64-4a99-8e41-683b6a00b1a4" target="_blank">
+          <a  href="https://lookerstudio.google.com/reporting/bf258154-8d64-4a99-8e41-683b6a00b1a4" target="_blank">
             <img class="hero-inferior-imagen img-fluid" src="imagenes/indicadores.PNG" alt="kpi">
           </a>
 
@@ -387,7 +387,7 @@ footer {
             <table class="table caption-top table-striped table-bordered">
                 <div class="flex-container">
                     <div id="planear"><h5>Planear (1)</h5></div>
-                    <div><a href="#inicio">Ir al Inicio</a></div>
+                    <div><a  href="#inicio">Ir al Inicio</a></div>
 
                 </div>
                 
@@ -402,75 +402,75 @@ footer {
                 <tbody>
                   <tr>
                     <th scope="row">1</th>
-                    <td><h6>1.1.1 Responsable del SG-SST</h6></td>
-                    <td> 
+                     <td> <h6>1.1.1 Responsable del SG-SST</h6></td>
+                     <td>  
                       
-                      <a href="https://docs.google.com/document/d/1kSPT9RgEwK0r5UPur_ydGQ1MSWdCqF4d/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                      <a  href="https://docs.google.com/document/d/1kSPT9RgEwK0r5UPur_ydGQ1MSWdCqF4d/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                     
                     </td>
-                    <td>01/01/2024</td>
+                     <td> 01/01/2024</td>
                   </tr>
                   <tr>
                     <th scope="row">2</th>
-                    <td><h6>1.1.2 Responsabilidades</h6></td>
-                    <td> 
-                      <a href="https://docs.google.com/spreadsheets/d/1ff5hyq20KDDU2KCc31OVsvf93WIpj7xe/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Asignación de Funciones <br> 
+                     <td> <h6>1.1.2 Responsabilidades</h6></td>
+                     <td>  
+                      <a  href="https://docs.google.com/spreadsheets/d/1ff5hyq20KDDU2KCc31OVsvf93WIpj7xe/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Asignación de Funciones <br> 
                       
-                      <a href="https://docs.google.com/document/d/16BuDdPxUOF7sB20u996BAxNCllnGj06i/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Procedimiento</td>
+                      <a  href="https://docs.google.com/document/d/16BuDdPxUOF7sB20u996BAxNCllnGj06i/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Procedimiento</td>
 
-                    <td> 01/02/2024
+                     <td>  01/02/2024
                       <br><br> 01/02/2024
                     </td>
                   </tr>
                   <tr>
                     <th scope="row">3</th>
-                    <td><h6>1.1.3 Asignación de recursos - presupuesto</h6></td>
-                    <td> 
+                     <td> <h6>1.1.3 Asignación de recursos - presupuesto</h6></td>
+                     <td>  
                       
-                      <a href="https://docs.google.com/spreadsheets/d/1sg8BaTQWL6DxxkSTmYm9M1CLFKMKqDLh/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b> 
+                      <a  href="https://docs.google.com/spreadsheets/d/1sg8BaTQWL6DxxkSTmYm9M1CLFKMKqDLh/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b> 
                     
                     </td>
-                    <td>01/02/2024</td>
+                     <td> 01/02/2024</td>
                   </tr>
                   <tr>
                     <th scope="row">4</th>
-                    <td><h6>1.1.6 Elección de Vigía</h6></td>
-                    <td> 
+                     <td> <h6>1.1.6 Elección de Vigía</h6></td>
+                     <td>  
 
-                      <a href="https://docs.google.com/document/d/1fKB0RiiMs0Un0NJaqKr4V7pd1T-1sNIG/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                      <a  href="https://docs.google.com/document/d/1fKB0RiiMs0Un0NJaqKr4V7pd1T-1sNIG/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                     
                     </td>
-                    <td>01/02/2024</td>
+                     <td> 01/02/2024</td>
                   </tr>
                   <tr>
                     <th scope="row">5</th>
-                    <td><h6>1.1.8 Comité de Convivencia Laboral</h6></td>
-                    <td> 
+                     <td> <h6>1.1.8 Comité de Convivencia Laboral</h6></td>
+                     <td>  
                       
-                      <a href="https://docs.google.com/document/d/1FIjdXmaJholgJ4ljk6ctDXGfu4v5qDob/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                      <a  href="https://docs.google.com/document/d/1FIjdXmaJholgJ4ljk6ctDXGfu4v5qDob/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                     
                     </td>
-                    <td>01/02/2024</td>
+                     <td> 01/02/2024</td>
                   </tr>
                   <tr>
                     <th scope="row">6</th>
-                    <td><h6>1.2.1 Programa de capacitación PYP</h6></td>
-                    <td> 
+                     <td> <h6>1.2.1 Programa de capacitación PYP</h6></td>
+                     <td>  
                       
-                      <a href="https://docs.google.com/document/d/1KxSXk0Z523A2w-G61j2woyBbq3qEaxgO/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                      <a  href="https://docs.google.com/document/d/1KxSXk0Z523A2w-G61j2woyBbq3qEaxgO/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                     
                     </td>
-                    <td>01/02/2024</td>
+                     <td> 01/02/2024</td>
                   </tr>
                   <tr>
                     <th scope="row">7</th>
-                    <td><h6>1.2.2 Inducción y Reinducción SST</h6></td>
-                    <td> 
+                     <td> <h6>1.2.2 Inducción y Reinducción SST</h6></td>
+                     <td>  
                       
-                      <a href="https://docs.google.com/document/d/16cNIc5nVBnhl4jZjS67NGXfPpMmJz4Yo/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                      <a  href="https://docs.google.com/document/d/16cNIc5nVBnhl4jZjS67NGXfPpMmJz4Yo/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                     
                     </td>
-                    <td>01/02/2024</td>
+                     <td> 01/02/2024</td>
                   </tr>
               </table>
         </div>
@@ -479,7 +479,7 @@ footer {
           <table class="table caption-top table-striped table-bordered">
               <div class="flex-container">
                   <div id="planear"><h5>Planear (2)</h5></div>
-                  <div><a href="#inicio">Ir al Inicio</a></div>
+                  <div><a  href="#inicio">Ir al Inicio</a></div>
 
               </div>
               
@@ -494,16 +494,16 @@ footer {
               <tbody>
                 <tr>
                   <th scope="row">1</th>
-                  <td><h6>2.1.1 Políticas de SST</h6></td>
-                  <td> 
+                   <td> <h6>2.1.1 Políticas de SST</h6></td>
+                   <td>  
                     
-                    <a href="https://docs.google.com/document/d/1A_cX2f2PDJmYghuUQIda2PqRyO0A3-Ws/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política de SST
-                    <a href="https://docs.google.com/document/d/1UMOmNbhUrLqUZ0Eu4UkivbDboViXtL1J/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política No Alcohol
-                    <a href="https://docs.google.com/document/d/1RpFh_Bbi4xDeAWL7X39OjIs_SSJ_hKVm/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política Emergencias
-                    <a href="https://docs.google.com/document/d/1dePc9GW4G2aQiXR2k38-0zq2ZWjnmfjr/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política EPP´S
+                    <a  href="https://docs.google.com/document/d/1A_cX2f2PDJmYghuUQIda2PqRyO0A3-Ws/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política de SST
+                    <a  href="https://docs.google.com/document/d/1UMOmNbhUrLqUZ0Eu4UkivbDboViXtL1J/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política No Alcohol
+                    <a  href="https://docs.google.com/document/d/1RpFh_Bbi4xDeAWL7X39OjIs_SSJ_hKVm/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política Emergencias
+                    <a  href="https://docs.google.com/document/d/1dePc9GW4G2aQiXR2k38-0zq2ZWjnmfjr/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política EPP´S
                   
                   </td>
-                  <td> 01/02/2024 
+                   <td>  01/02/2024 
                       <br><br> 01/02/2024
                       <br><br> 01/02/2024
                       <br><br> 01/02/2024
@@ -512,57 +512,57 @@ footer {
                 </tr>
                 <tr>
                   <th scope="row">2</th>
-                  <td><h6>2.2.1 Objetivo</h6></td>
-                  <td> 
+                   <td> <h6>2.2.1 Objetivo</h6></td>
+                   <td>  
                     
-                    <a href="https://docs.google.com/document/d/1EoUjL_IUSVoohSlbhtaSP7Osenl_nL5E/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true"> </i></a></i><br>Documento
+                    <a  href="https://docs.google.com/document/d/1EoUjL_IUSVoohSlbhtaSP7Osenl_nL5E/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true"> </i></a></i><br>Documento
                   
                   </td>
-                  <td>01/02/2024</td>
+                   <td> 01/02/2024</td>
                 </tr>
                 <tr>
                   <th scope="row">3</th>
-                  <td><h6>2.3.1 Evaluación Inicial SST</h6></td>
-                  <td> 
+                   <td> <h6>2.3.1 Evaluación Inicial SST</h6></td>
+                   <td>  
                     
-                    <a href="https://docs.google.com/spreadsheets/d/1WJOUyZmYubrhTJ2j0uEQBleB5GLuilAL/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b> 
+                    <a  href="https://docs.google.com/spreadsheets/d/1WJOUyZmYubrhTJ2j0uEQBleB5GLuilAL/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b> 
                   
                   </td>
-                  <td>01/02/2024</td>
+                   <td> 01/02/2024</td>
                 </tr>
                 <tr>
                   <th scope="row">4</th>
-                  <td><h6>2.4.1 Plan de trabajo anual</h6></td>
-                  <td> 
+                   <td> <h6>2.4.1 Plan de trabajo anual</h6></td>
+                   <td>  
                     
-                    <a href="https://docs.google.com/spreadsheets/d/1iQYSqvQ_QT4c7r2toZLGsneitzVvuo8M/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b> 
+                    <a  href="https://docs.google.com/spreadsheets/d/1iQYSqvQ_QT4c7r2toZLGsneitzVvuo8M/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b> 
                   
                   </td>
-                  <td>01/02/2024</td>
+                   <td> 01/02/2024</td>
                 </tr>
                 <tr>
                   <th scope="row">5</th>
-                  <td><h6>2.5.1 Archivo y retención documental</h6></td>
-                  <td> 
+                   <td> <h6>2.5.1 Archivo y retención documental</h6></td>
+                   <td>  
                     
-                    <a href="https://docs.google.com/document/d/1iaRYxFjm3ZndMZCksJnEOd6Wmo_Or07B/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Procedimiento <br> 
+                    <a  href="https://docs.google.com/document/d/1iaRYxFjm3ZndMZCksJnEOd6Wmo_Or07B/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Procedimiento <br> 
                     
-                    <a href="https://docs.google.com/spreadsheets/d/1cPxEP7ickjrw9ht7bhS3l0AO_DUEA-OF/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
+                    <a  href="https://docs.google.com/spreadsheets/d/1cPxEP7ickjrw9ht7bhS3l0AO_DUEA-OF/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
                   
                   </td>
-                  <td> 01/02/2024
+                   <td>  01/02/2024
                     <br><br> 01/02/2024
                   </td>
                 </tr>
                 <tr>
                   <th scope="row">6</th>
-                  <td><h6>2.10.1 Manual de Proveedores y Contratistas</h6></td>
-                  <td> 
+                   <td> <h6>2.10.1 Manual de Proveedores y Contratistas</h6></td>
+                   <td>  
                     
-                    <a href="https://docs.google.com/document/d/14tRLSs5a3G92IrfclfyiOtQF6ugUPPXO/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true"> </i></a></i><br>Documento
+                    <a  href="https://docs.google.com/document/d/14tRLSs5a3G92IrfclfyiOtQF6ugUPPXO/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true"> </i></a></i><br>Documento
                   
                   </td>
-                  <td>01/02/2024</td>
+                   <td> 01/02/2024</td>
                 </tr>
             </table>
         </div>
@@ -571,7 +571,7 @@ footer {
           <table class="table caption-top table-striped table-bordered">
               <div class="flex-container">
                   <div id="hacer"><h5>Hacer</h5></div>
-                  <div><a href="#inicio">Ir al Inicio</a></div>
+                  <div><a  href="#inicio">Ir al Inicio</a></div>
 
               </div>
               
@@ -587,52 +587,52 @@ footer {
               
                 <tr>
                   <th scope="row">1</th>
-                  <td><h6>3.2.2 Investigación de incidentes y accidentes</h6></td>
-                  <td> 
+                   <td> <h6>3.2.2 Investigación de incidentes y accidentes</h6></td>
+                   <td>  
                     
-                  <a href="https://docs.google.com/document/d/1U1Bj-RBk09KSCIFqNv8-bxPbVVYIYIKK/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a><br>Documento
+                  <a  href="https://docs.google.com/document/d/1U1Bj-RBk09KSCIFqNv8-bxPbVVYIYIKK/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a><br>Documento
                   
                   </td>
-                  <td>01/02/2024</td>
+                   <td> 01/02/2024</td>
                 </tr>
                 <tr>
                   <th scope="row">2</th>
-                  <td><h6>4.1.1 Metodología para la identificación de peligros</h6></td>
-                  <td> 
+                   <td> <h6>4.1.1 Metodología para la identificación de peligros</h6></td>
+                   <td>  
                     
-                    <a href="https://docs.google.com/document/d/1grbctJ3N2JVcwUqayGt3iZpUEKsHEQRd/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true"> </i></a></i><br>Documento
+                    <a  href="https://docs.google.com/document/d/1grbctJ3N2JVcwUqayGt3iZpUEKsHEQRd/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true"> </i></a></i><br>Documento
                   
                   </td>
-                  <td>01/02/2024</td>
+                   <td> 01/02/2024</td>
                 </tr>
                 <tr>
                   <th scope="row">3</th>
-                  <td><h6>4.1.2 Identificación de peligro y valoración de riesgos</h6></td>
-                  <td> 
+                   <td> <h6>4.1.2 Identificación de peligro y valoración de riesgos</h6></td>
+                   <td>  
                     
-                    <a href="https://docs.google.com/document/d/1L6sc9vI675t6Pg0E_w12siby_3K_BRw-/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Reg. Higiene y Seg-Ind. 
+                    <a  href="https://docs.google.com/document/d/1L6sc9vI675t6Pg0E_w12siby_3K_BRw-/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Reg. Higiene y Seg-Ind. 
                     
                     <br> 
                     
-                    <a href="https://docs.google.com/document/d/12biC-mFLtC5Nhs4zsKPHlp9PR0z1TlTm/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Decreto 2090 de 2003 <br> 
+                    <a  href="https://docs.google.com/document/d/12biC-mFLtC5Nhs4zsKPHlp9PR0z1TlTm/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Decreto 2090 de 2003 <br> 
                     
-                    <a href="https://docs.google.com/spreadsheets/d/1TTv2GVxhpe3XU_ppoudJM8cVHZk36GSc/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
+                    <a  href="https://docs.google.com/spreadsheets/d/1TTv2GVxhpe3XU_ppoudJM8cVHZk36GSc/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
                   
                   </td>
-                  <td>01/02/2024 
+                   <td> 01/02/2024 
                     <br><br>01/02/2024
                     <br><br>01/02/2024
                   </td>
                 </tr>
                 <tr>
                   <th scope="row">4</th>
-                  <td><h6>4.2.5 Mantenimientos</h6></td>
-                  <td> 
+                   <td> <h6>4.2.5 Mantenimientos</h6></td>
+                   <td>  
                     
-                    <a href="https://docs.google.com/spreadsheets/d/1xGyqLj7ra-aSMacF7AKJjOAcptgXhtgo/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b> 
+                    <a  href="https://docs.google.com/spreadsheets/d/1xGyqLj7ra-aSMacF7AKJjOAcptgXhtgo/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b> 
                   
                   </td>
-                  <td>01/02/2024</td>
+                   <td> 01/02/2024</td>
                 </tr>
                 
             </table>
@@ -642,7 +642,7 @@ footer {
         <table class="table caption-top table-striped table-bordered">
             <div class="flex-container">
                 <div id="verificar"><h5>Verificar</h5></div>
-                <div><a href="#inicio">Ir al Inicio</a></div>
+                <div><a  href="#inicio">Ir al Inicio</a></div>
 
             </div>
             
@@ -657,23 +657,23 @@ footer {
             <tbody>
               <tr>
                 <th scope="row">1</th>
-                <td><h6>6.1.3 Revisión anual de la alta dirección, resultados de la auditoría (2024)</h6></td>
-                <td> 
+                 <td> <h6>6.1.3 Revisión anual de la alta dirección, resultados de la auditoría (2024)</h6></td>
+                 <td>  
                   
-                  <a href="" target="_blank"><a href="" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
+                  <a  href="" target="_blank"><a  href="" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
                 
                 </td>
-                <td>--</td>
+                 <td> --</td>
               </tr>
               <tr>
                 <th scope="row">2</th>
-                <td><h6>6.1.4 Planificación auditorias</h6></td>
-                <td> 
+                 <td> <h6>6.1.4 Planificación auditorias</h6></td>
+                 <td>  
                   
-                  <a href="" target="_blank"><a href="" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
+                  <a  href="" target="_blank"><a  href="" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
                 
                 </td>
-                <td>--</td>
+                 <td> --</td>
               </tr>
               
               
@@ -684,7 +684,7 @@ footer {
         <table class="table caption-top table-striped table-bordered">
             <div class="flex-container">
                 <div id="actuar"><h5>Actuar</h5></div>
-                <div><a href="#inicio">Ir al Inicio</a></div>
+                <div><a  href="#inicio">Ir al Inicio</a></div>
 
             </div>
             
@@ -699,23 +699,23 @@ footer {
             <tbody>
               <tr>
                 <th scope="row">1</th>
-                <td><h6>7.1.1 Definición de acciones preventivas y correctivas con base en resultados del SG-SST (2025)</h6></td>
-                <td> 
+                 <td> <h6>7.1.1 Definición de acciones preventivas y correctivas con base en resultados del SG-SST (2025)</h6></td>
+                 <td>  
                   
-                  <a href="" target="_blank"><a href="" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
+                  <a  href="" target="_blank"><a  href="" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
                 
                 </td>
-                <td>--</td>
+                 <td> --</td>
               </tr>
               <tr>
                 <th scope="row">2</th>
-                <td><h6>7.1.2 Acciones de mejora conforme a revisión de la alta dirección (2025)</h6></td>
-                <td> 
+                 <td> <h6>7.1.2 Acciones de mejora conforme a revisión de la alta dirección (2025)</h6></td>
+                 <td>  
                   
-                  <a href="" target="_blank"><a href="" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
+                  <a  href="" target="_blank"><a  href="" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
                 
                 </td>
-                <td>--</td>
+                 <td> --</td>
               </tr>
               
               
@@ -726,7 +726,7 @@ footer {
         <table class="table caption-top table-striped table-bordered">
             <div class="flex-container">
                 <div id="inspecciones"><h5>Inspecciones</h5></div>
-                <div><a href="#inicio">Ir al Inicio</a></div>
+                <div><a  href="#inicio">Ir al Inicio</a></div>
 
             </div>
             
@@ -741,63 +741,63 @@ footer {
             <tbody>
               <tr>
                 <th scope="row">1</th>
-                <td><h6>Inspección General</h6></td>
-                <td> 
+                 <td> <h6>Inspección General</h6></td>
+                 <td>  
                   
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a><br>Documento
+                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a><br>Documento
                 
                 </td>
-                <td>--</td>
+                 <td> --</td>
               </tr>
               <tr>
                 <th scope="row">2</th>
-                <td><h6>Inspección Extintores</h6></td>
-                <td> 
+                 <td> <h6>Inspección Extintores</h6></td>
+                 <td>  
                   
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>--</td>
+                 <td> --</td>
               </tr>
               <tr>
                 <th scope="row">3</th>
-                <td><h6>Inspección Botiquines</h6></td>
-                <td> 
+                 <td> <h6>Inspección Botiquines</h6></td>
+                 <td>  
                   
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>--</td>
+                 <td> --</td>
               </tr>
               <tr>
                 <th scope="row">4</th>
-                <td><h6>Inspección Equipos de Comunicaciones</h6></td>
-                <td> 
+                 <td> <h6>Inspección Equipos de Comunicaciones</h6></td>
+                 <td>  
                   
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>--</td>
+                 <td> --</td>
               </tr>
               <tr>
                 <th scope="row">5</th>
-                <td><h6>Inspección Gabinetes Contra Incendio</h6></td>
-                <td> 
+                 <td> <h6>Inspección Gabinetes Contra Incendio</h6></td>
+                 <td>  
                   
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>--</td>
+                 <td> --</td>
               </tr>
               <tr>
                 <th scope="row">6</th>
-                <td><h6>Inspección Recursos para la Seguridad</h6></td>
-                <td> 
+                 <td> <h6>Inspección Recursos para la Seguridad</h6></td>
+                 <td>  
                   
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>--</td>
+                 <td> --</td>
               </tr>
               
               
@@ -808,7 +808,7 @@ footer {
         <table class="table caption-top table-striped table-bordered">
             <div class="flex-container">
                 <div id="reportes" ><h5>Reportes</h5></div>
-                <div><a href="#inicio">Ir al Inicio</a></div>
+                <div><a  href="#inicio">Ir al Inicio</a></div>
 
             </div>
             
@@ -823,24 +823,24 @@ footer {
             <tbody>
               <tr>
                 <th scope="row">1</th>
-                <td><h6>Acta de Visita</h6></td>
-                <td> 
+                 <td> <h6>Acta de Visita</h6></td>
+                 <td>  
                   
-                  <a href="https://drive.google.com/file/d/1LxtJvuhMQfq1OxI50dhzwdUxD7T1FNyH/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="https://drive.google.com/file/d/1LxtJvuhMQfq1OxI50dhzwdUxD7T1FNyH/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                 
                 </td> 
-                <td> 27/03/2024
+                 <td>  27/03/2024
                   <br><br>--
                   <br><br>--
                   <br><br>--
@@ -857,21 +857,21 @@ footer {
               </tr>
               <tr>
                 <th scope="row">2</th>
-                <td><h6>Capacitaciones</h6></td>
-                <td> 
+                 <td> <h6>Capacitaciones</h6></td>
+                 <td>  
                   
-                  <a href="https://drive.google.com/file/d/1VZeLqtiSyAfXsiCiW5aMQrxUBkC8bBWp/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="https://drive.google.com/file/d/1VZeLqtiSyAfXsiCiW5aMQrxUBkC8bBWp/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                 
                 
                 </td>
-                <td>06/03/2024
+                 <td> 06/03/2024
                   <br><br>--
                   <br><br>--
                   <br><br>--
@@ -884,35 +884,35 @@ footer {
               </tr>
               <tr>
                 <th scope="row">3</th>
-                <td><h6>Reporte Estándares Mínimos (Min. Trabajo)</h6></td>
-                <td> 
+                 <td> <h6>Reporte Estándares Mínimos (Min. Trabajo)</h6></td>
+                 <td>  
                   
-                  <a href="https://drive.google.com/file/d/1DqHeStKrz3PhrnsO5wSEMRhyUgOgseOQ/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/1DqHeStKrz3PhrnsO5wSEMRhyUgOgseOQ/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>27/02/2024</td>
+                 <td> 27/02/2024</td>
               </tr>
               <tr>
                 <th scope="row">4</th>
-                <td><h6>Reporte Cierre de Mes</h6></td>
-                <td> 
+                 <td> <h6>Reporte Cierre de Mes</h6></td>
+                 <td>  
                   
-                  <a href="https://drive.google.com/file/d/1DkWKYtWPh-UDuCHZItLCs7v-rNxMaPW6/view?usp=sharing"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="https://drive.google.com/file/d/1DkWKYtWPh-UDuCHZItLCs7v-rNxMaPW6/view?usp=sharing"> </i></a></i><br>Documento <br>
+                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                 
                 </td>
-                <td>31/03/2024
+                 <td> 31/03/2024
                   <br><br>--
                   <br><br>--
                   <br><br>--
@@ -928,13 +928,13 @@ footer {
               </tr>
               <tr>
                 <th scope="row">5</th>
-                <td><h6>Simulacro de Evacuación</h6></td>
-                <td> 
+                 <td> <h6>Simulacro de Evacuación</h6></td>
+                 <td>  
                   
-                  <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>--</td>
+                 <td> --</td>
               </tr>
 
               
@@ -948,7 +948,7 @@ footer {
         <table class="table caption-top table-striped table-bordered">
             <div class="flex-container">
                 <div id="proveedores" ><h5>Proveedor de Aseo</h5></div>
-                <div><a href="#inicio">Ir al Inicio</a></div>
+                <div><a  href="#inicio">Ir al Inicio</a></div>
 
             </div>
             
@@ -963,43 +963,43 @@ footer {
             <tbody>
               <tr>
                 <th scope="row">1</th>
-                <td><h6>Certificado Seguridad Social Año Anterior</h6></td>
-                <td> 
+                 <td> <h6>Certificado Seguridad Social Año Anterior</h6></td>
+                 <td>  
                   
-                  <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>--</td>
+                 <td> --</td>
               </tr>
               <tr>
                 <th scope="row">2</th>
-                <td><h6>Dotaciones</h6></td>
-                <td> 
+                 <td> <h6>Dotaciones</h6></td>
+                 <td>  
                   
-                  <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>--</td>
+                 <td> --</td>
               </tr>
               <tr>
                 <th scope="row">3</th>
-                <td><h6>Exámenes médicos periódicos</h6></td>
-                <td> 
+                 <td> <h6>Exámenes médicos periódicos</h6></td>
+                 <td>  
                   
-                  <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>--</td>
+                 <td> --</td>
               </tr>
               <tr>
                 <th scope="row">4</th>
-                <td><h6>Calificación ARL</h6></td>
-                <td> 
+                 <td> <h6>Calificación ARL</h6></td>
+                 <td>  
                   
-                  <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>--</td>
+                 <td> --</td>
               </tr>
           </table>
       </div>
@@ -1008,7 +1008,7 @@ footer {
         <table class="table caption-top table-striped table-bordered">
             <div class="flex-container">
                 <div id="proveedores" ><h5>Proveedor de Vigilancia</h5></div>
-                <div><a href="#inicio">Ir al Inicio</a></div>
+                <div><a  href="#inicio">Ir al Inicio</a></div>
 
             </div>
             
@@ -1023,43 +1023,43 @@ footer {
             <tbody>
               <tr>
                 <th scope="row">1</th>
-                <td><h6>Certificado Seguridad Social Año Anterior</h6></td>
-                <td> 
+                 <td> <h6>Certificado Seguridad Social Año Anterior</h6></td>
+                 <td>  
                   
-                  <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>--</td>
+                 <td> --</td>
               </tr>
               <tr>
                 <th scope="row">2</th>
-                <td><h6>Dotaciones</h6></td>
-                <td> 
+                 <td> <h6>Dotaciones</h6></td>
+                 <td>  
                   
-                  <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>--</td>
+                 <td> --</td>
               </tr>
               <tr>
                 <th scope="row">3</th>
-                <td><h6>Exámenes médicos periódicos</h6></td>
-                <td> 
+                 <td> <h6>Exámenes médicos periódicos</h6></td>
+                 <td>  
                   
-                  <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>--</td>
+                 <td> --</td>
               </tr>
               <tr>
                 <th scope="row">4</th>
-                <td><h6>Calificación ARL</h6></td>
-                <td> 
+                 <td> <h6>Calificación ARL</h6></td>
+                 <td>  
                   
-                  <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>--</td>
+                 <td> --</td>
               </tr>
           </table>
       </div>
@@ -1068,7 +1068,7 @@ footer {
         <table class="table caption-top table-striped table-bordered">
             <div class="flex-container">
                 <div id="emergencia" ><h5>Plan de Emergencia</h5></div>
-                <div><a href="#inicio">Ir al Inicio</a></div>
+                <div><a  href="#inicio">Ir al Inicio</a></div>
 
             </div>
             
@@ -1083,53 +1083,53 @@ footer {
             <tbody>
               <tr>
                 <th scope="row">1</th>
-                <td><h6>Plan de Emergencia de la Copropiedad</h6></td>
-                <td> 
+                 <td> <h6>Plan de Emergencia de la Copropiedad</h6></td>
+                 <td>  
                   
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>--</td>
+                 <td> --</td>
               </tr>
               <tr>
                 <th scope="row">2</th>
-                <td><h6>Matriz de Vulnerabilidad por Amenazas</h6></td>
-                <td> 
+                 <td> <h6>Matriz de Vulnerabilidad por Amenazas</h6></td>
+                 <td>  
                   
-                  <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>--</td>
+                 <td> --</td>
               </tr>
               <tr>
                 <th scope="row">3</th>
-                <td><h6>Ocurrencia de Peligros</h6></td>
-                <td> 
+                 <td> <h6>Ocurrencia de Peligros</h6></td>
+                 <td>  
                   
-                  <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>--</td>
+                 <td> --</td>
               </tr>
               <tr>
                 <th scope="row">4</th>
-                <td><h6>Evidencias de Simulacro</h6></td>
-                <td> 
+                 <td> <h6>Evidencias de Simulacro</h6></td>
+                 <td>  
                   
-                  <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>--</td>
+                 <td> --</td>
               </tr>
               <tr>
                 <th scope="row">5</th>
-                <td><h6>Brigadistas de la Copropiedad</h6></td>
-                <td> 
+                 <td> <h6>Brigadistas de la Copropiedad</h6></td>
+                 <td>  
                   
-                  <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>--</td>
+                 <td> --</td>
               </tr>
 
               
@@ -1143,7 +1143,7 @@ footer {
         <table class="table caption-top table-striped table-bordered">
             <div class="flex-container">
                 <div id="saneamiento" ><h5>Plan de Saneamiento</h5></div>
-                <div><a href="#inicio">Ir al Inicio</a></div>
+                <div><a  href="#inicio">Ir al Inicio</a></div>
 
             </div>
             
@@ -1158,53 +1158,53 @@ footer {
             <tbody>
               <tr>
                 <th scope="row">1</th>
-                <td><h6>Plan de Saneamiento</h6></td>
-                <td> 
+                 <td> <h6>Plan de Saneamiento</h6></td>
+                 <td>  
                   
-                  <a href="https://docs.google.com/document/d/11kLnqijz1JIUPyBnolRY0pkwsYKm5OOm/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://docs.google.com/document/d/11kLnqijz1JIUPyBnolRY0pkwsYKm5OOm/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>01/02/2024</td>
+                 <td> 01/02/2024</td>
               </tr>
               <tr>
                 <th scope="row">2</th>
-                <td><h6>Manejo de Residuos</h6></td>
-                <td> 
+                 <td> <h6>Manejo de Residuos</h6></td>
+                 <td>  
                   
-                  <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>--</td>
+                 <td> --</td>
               </tr>
               <tr>
                 <th scope="row">3</th>
-                <td><h6>Shuts de Basuras</h6></td>
-                <td> 
+                 <td> <h6>Shuts de Basuras</h6></td>
+                 <td>  
                   
-                  <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>--</td>
+                 <td> --</td>
               </tr>
               <tr>
                 <th scope="row">4</th>
-                <td><h6>Manejo de Plagas</h6></td>
-                <td> 
+                 <td> <h6>Manejo de Plagas</h6></td>
+                 <td>  
                   
-                  <a href="https://docs.google.com/spreadsheets/d/1eTmER_gsZeXrdch-tIGgwTbx_UteU_lL/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
+                  <a  href="https://docs.google.com/spreadsheets/d/1eTmER_gsZeXrdch-tIGgwTbx_UteU_lL/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
                 
                 </td>
-                <td>01/02/2024</td>
+                 <td> 01/02/2024</td>
               </tr>
               <tr>
                 <th scope="row">5</th>
-                <td><h6>Agua Potable</h6></td>
-                <td> 
+                 <td> <h6>Agua Potable</h6></td>
+                 <td>  
                   
-                  <a href="https://docs.google.com/spreadsheets/d/1ncoxuZIMd1qDN2ieUQbj6DlALkFNMbkb/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
+                  <a  href="https://docs.google.com/spreadsheets/d/1ncoxuZIMd1qDN2ieUQbj6DlALkFNMbkb/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
                 
                 </td>
-                <td>01/02/2024</td>
+                 <td> 01/02/2024</td>
               </tr>
              
   
@@ -1224,7 +1224,7 @@ footer {
           </div>
           <div class="col-sm-6 col-lg-6">
             <h5 style="color: aquamarine;">Su contrato actual vence el (28/02/2025)</h5>
-            <a href="https://docs.google.com/document/d/1639uC6WkKIxpz2ppEZy70SW44bd2XmKg/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank">
+            <a  href="https://docs.google.com/document/d/1639uC6WkKIxpz2ppEZy70SW44bd2XmKg/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank">
               <button type="button" class="btn btn-primary contrato">Acceder al contrato <i class="bi bi-arrow-right-circle-fill"></i></button>
             </a>
           </div>
