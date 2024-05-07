@@ -765,7 +765,7 @@ footer {
                  <td> <h6>Inspección Botiquines</h6></td>
                  <td>  
                   
-                  <a  href="https://drive.google.com/file/d/1pgfTlmcpUv4hz0j4HRFP5LA4TIMeT6rG/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/1n55_VkpamQIq8SUHxZMBrsXUU3TOf8wN/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
                  <td> 10/04/2024</td>
