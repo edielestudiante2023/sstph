@@ -751,10 +751,10 @@ footer {
                  <td> <h6>Inspección Extintores</h6></td>
                  <td>  
                   
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/1EEtnTyjtmzqyu9micQsF6nl3rUmQx2W2/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                 <td> --</td>
+                 <td> 11/04/2024</td>
               </tr>
               <tr>
                 <th scope="row">3</th>
