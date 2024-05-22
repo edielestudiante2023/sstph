@@ -412,11 +412,11 @@ footer {
                     <th scope="row">2</th>
                      <td> <h6>1.1.2 Responsabilidades</h6></td>
                      <td>  
-                      <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Asignación de Funciones <br> 
+                      <a  href="https://docs.google.com/spreadsheets/d/1dDiBDCM7PlCTk5OgNMUa4x6nDz8iUSFi/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Asignación de Funciones <br> 
                       
                       <a  href="https://docs.google.com/document/d/1EkopU581xk3Tt8Yn8E30o_388sHtDntd/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Procedimiento</td>
 
-                     <td>  -- 
+                     <td>  01/05/2024
                       <br><br>01/01/2024
                     </td>
                   </tr>
