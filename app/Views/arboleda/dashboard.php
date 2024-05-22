@@ -495,10 +495,10 @@ footer {
                    <td> <h6>2.1.1 Políticas de SST</h6></td>
                    <td>  
                     
-                    <a  href="https://docs.google.com/document/d/17KjpkKnx1gfael2YyRzSsBlBcqAEJjXs/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política de SST
-                    <a  href="https://docs.google.com/document/d/1FcLReEM5-BhzVQXJ1A5IEAoW380JE3ca/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política No Alcohol
-                    <a  href="https://docs.google.com/document/d/1iKJsmx8VHeLKNRB-8Oz-xGaDpFZ0eH62/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política Emergencias
-                    <a  href="https://docs.google.com/document/d/1vgB0NHoF-5kK1MOR5nagTRpMS7-OF6sv/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política EPP´S
+                    <a  href="https://docs.google.com/document/d/17KjpkKnx1gfael2YyRzSsBlBcqAEJjXs/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política de SST <br>
+                    <a  href="https://docs.google.com/document/d/1FcLReEM5-BhzVQXJ1A5IEAoW380JE3ca/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política No Alcohol <br>
+                    <a  href="https://docs.google.com/document/d/1iKJsmx8VHeLKNRB-8Oz-xGaDpFZ0eH62/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política Emergencias <br>
+                    <a  href="https://docs.google.com/document/d/1vgB0NHoF-5kK1MOR5nagTRpMS7-OF6sv/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política EPP´S <br>
                   
                   </td>
                    <td>  01/03/2024 
@@ -556,7 +556,7 @@ footer {
                    <td> <h6>2.10.1 Manual de Proveedores y Contratistas</h6></td>
                    <td>  
                     
-                    <<a href="https://docs.google.com/document/d/19Q26ArTJV3WAMpUd6Rop4VBFNqUy0DcE/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Manual <br>
+                    <a href="https://docs.google.com/document/d/19Q26ArTJV3WAMpUd6Rop4VBFNqUy0DcE/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Manual <br>
                   
                   </td>
                    <td> 01/03/2024</td>
@@ -597,7 +597,7 @@ footer {
                    <td> <h6>4.1.1 Metodología para la identificación de peligros</h6></td>
                    <td>  
                     
-                    <a  href="https://docs.google.com/document/d/1IGvkB3gi6-wbhUwLuC9Fn-yxunuB-TVs/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true"> target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Documento
+                    <a  href="https://docs.google.com/document/d/1IGvkB3gi6-wbhUwLuC9Fn-yxunuB-TVs/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Documento
                   
                   </td>
                    <td> 01/03/2024</td>
@@ -751,17 +751,12 @@ footer {
                  <td> <h6>Inspección Extintores</h6></td>
                  <td>  
                   
-<<<<<<< HEAD
+
                   <a  href="https://drive.google.com/file/d/1EEtnTyjtmzqyu9micQsF6nl3rUmQx2W2/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
                  <td> 11/04/2024</td>
-=======
-                  <a  href="https://drive.google.com/file/d/1ENDLru2ZF8BXUxspvLfZvtsYTzfJPyjs/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
-                
-                </td>
-                 <td>11/04/2024</td>
->>>>>>> cycloid
+
               </tr>
               <tr>
                 <th scope="row">3</th>

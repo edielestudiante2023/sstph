@@ -416,7 +416,7 @@ footer {
                       
                       <a   href="https://docs.google.com/document/d/1xr7u335NOXzXkPox-EUFIFTQWTPANEeo/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Procedimiento</td>
 
-                     <td>  -- 
+                     <td>  01/01/2024 
                       <br><br> 01/01/2024
                     </td>
                   </tr>
@@ -495,10 +495,10 @@ footer {
                    <td> <h6>2.1.1 Políticas de SST</h6></td>
                    <td>  
                     
-                    <a   href="https://docs.google.com/document/d/1smw_50ebkNk_LcGMb7hD73BRHMlATU0G/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política de SST
-                    <a   href="https://docs.google.com/document/d/1CnIhy-i_IEJf1bM1KnGPP36IFgSMDwBF/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política No Alcohol
-                    <a   href="https://docs.google.com/document/d/1YwkbxX50SROfgS7GncSlC_DiQL5zwlfs/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política Emergencias
-                    <a   href="https://docs.google.com/document/d/1EVr-MBXv_ZAWpLzRBz-xJmh-Vt4PqnYq/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política EPP´S
+                    <a   href="https://docs.google.com/document/d/1smw_50ebkNk_LcGMb7hD73BRHMlATU0G/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política de SST <br>
+                    <a   href="https://docs.google.com/document/d/1CnIhy-i_IEJf1bM1KnGPP36IFgSMDwBF/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política No Alcohol <br>
+                    <a   href="https://docs.google.com/document/d/1YwkbxX50SROfgS7GncSlC_DiQL5zwlfs/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política Emergencias <br>
+                    <a   href="https://docs.google.com/document/d/1EVr-MBXv_ZAWpLzRBz-xJmh-Vt4PqnYq/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política EPP´S <br>
                   
                   </td>
                    <td>  01/01/2024 
