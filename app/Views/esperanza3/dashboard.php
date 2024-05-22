@@ -287,7 +287,7 @@ footer {
             <h2>Sistema Digital de Gestión en Seguridad y Salud en el Trabajo</h2>
             <h2><?= session()->get('name') ?></h2>
             <h1>Prestación de Servicio Bimensual</h1>
-            <h1>Meses 2-4-6-8-10-12</h1>
+            <h1>Meses 1-3-5-7-9-11</h1>
         </div>
     </section>
     <!-- SEIS EJES -->

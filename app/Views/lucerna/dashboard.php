@@ -602,10 +602,10 @@ footer {
                    <td> <h6>4.1.1 Metodología para la identificación de peligros</h6></td>
                    <td>  
                     
-                    <a     href="#"target="_blank"> <i class="bi bi-file-earmark-bar-graph-fill"></i></a><br>Documento
+                    <a     href="https://docs.google.com/document/d/1mmykafvcqZEoEya8wL5WjEYnFVVWXfFN/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true"target="_blank"> <i class="bi bi-file-earmark-bar-graph-fill"></i></a><br>Documento
                   
                   </td>
-                   <td> --</td>
+                   <td> 01/02/2024</td>
                 </tr>
                 <tr>
                   <th scope="row">3</th>

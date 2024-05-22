@@ -608,7 +608,7 @@ footer {
                    <td> <h6>4.1.2 Identificación de peligro y valoración de riesgos</h6></td>
                    <td>  
                     
-                    <a    href="#" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Reg. Higiene y Seg-Ind. 
+                    <a    href="https://drive.google.com/file/d/1eV9WfKtZtnKGw2yRGWaL8hBm8-_xEvCa/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Reg. Higiene y Seg-Ind. 
                     
                     <br> 
                     
@@ -618,7 +618,7 @@ footer {
                   
                   </td>
                    <td> 01/01/2024 
-                    <br><br>--
+                    <br><br>01/05/2024
                   </td>
                 </tr>
                 <tr>

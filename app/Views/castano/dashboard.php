@@ -416,8 +416,8 @@ footer {
                       
                       <a  href="https://docs.google.com/document/d/1lr1u13oan_BOl5SglNGER8guggHevYQj/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Procedimiento</td>
 
-                     <td>  -- 
-                      <br><br> -- 
+                     <td>  01/01/2024
+                      <br><br> 01/01/2024
                     </td>
                   </tr>
                   <tr>
