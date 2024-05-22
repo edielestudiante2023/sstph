@@ -435,10 +435,10 @@ footer {
                      <td> <h6>1.1.6 Elección de Vigía</h6></td>
                      <td>  
 
-                      <a    href="https://drive.google.com/file/d/1yxVQe9GIyGDJMuNoiSM2vMyqteVXQHE0/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                      <a    href="https://drive.google.com/file/d/11AEfS38oZE0yJjVzAI0BuM7Nj7-HRraP/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                     
                     </td>
-                     <td> 01/01/2024</td>
+                     <td> 01/05/2024</td>
                   </tr>
                   <tr>
                     <th scope="row">5</th>
@@ -513,7 +513,7 @@ footer {
                    <td> <h6>2.2.1 Objetivo</h6></td>
                    <td>  
                     
-                    <a    href="https://drive.google.com/file/d/1Q850vtajvXu1ziziNXzhRrOMBIF3Fz-d/view?usp=sharing"> </i></a></i><br>Documento
+                    <a    href="https://drive.google.com/file/d/1Q850vtajvXu1ziziNXzhRrOMBIF3Fz-d/view?usp=sharing"target="_blank"> <i class="bi bi-file-earmark-bar-graph-fill"></i></a><br>Documento
                   
                   </td>
                    <td> 01/01/2024</td>
@@ -557,7 +557,7 @@ footer {
                    <td> <h6>2.10.1 Manual de Proveedores y Contratistas</h6></td>
                    <td>  
                     
-                    <a    href="https://drive.google.com/file/d/1vEWGwT-BSFwBC469hrkfpfziiiPvG98E/view?usp=sharing"> </i></a></i><br>Documento
+                   <a href="https://drive.google.com/file/d/1vEWGwT-BSFwBC469hrkfpfziiiPvG98E/view?usp=sharing"  target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Manual <br>
                   
                   </td>
                    <td> 01/01/2024</td>
@@ -827,28 +827,28 @@ footer {
                   <a    href="https://drive.google.com/file/d/1YrVeGRKGpUAPOIdh5nExQCD1NGiI3Lwh/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a    href="https://drive.google.com/file/d/1N89XaMSA7QqysNsB67o_YKcv1ei00AS_/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a    href="https://drive.google.com/file/d/1S4Sd1yAQKGTGOUA6z-sjgXLwMHo7B6J7/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a    href="https://drive.google.com/file/d/1zOd50sT65bAtyurE7fh47TAdGTVGpwI1/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <!-- <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br> -->
                 
                 </td> 
                  <td>  18/01/2024
                   <br><br>08/02/2024
                   <br><br>21/04/2024
                   <br><br>25/04/2024
+                  <br><br>20/05/2024
+                  <!-- <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
-                  <br><br>--
-                  <br><br>--
-                  <br><br>--
+                  <br><br>-- -->
                   
                 </td>
               </tr>
@@ -859,23 +859,23 @@ footer {
                   
                   <a    href="https://drive.google.com/file/d/1hdkWeFrT6hNYXoij9VArvfR-2rWnp8iR/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a    href="https://drive.google.com/file/d/1bnp1jU7D43Kgpx4EjEd47PDUInlsXoJx/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <!-- <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br> -->
                 
                 
                 </td>
                  <td> 01/01/2024
                   <br><br>29/02/2024
+                  <!-- <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
-                  <br><br>--
-                  <br><br>--
+                  <br><br>-- -->
                   
                 </td>
               </tr>
@@ -899,28 +899,28 @@ footer {
                   <a    href="https://drive.google.com/file/d/1mSbL02EYkjiUobsZdDdvimXlYe1E9GNJ/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a    href="https://drive.google.com/file/d/1FH46I1Y70JapZE_23fMKrev51iPo6Tnj/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a    href="https://drive.google.com/file/d/1ldqNN8atVq5pwcV79XQhXJhIpe_95iI7/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <!-- <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br> -->
                 
                 </td>
                  <td> 31/01/2024
                   <br><br>28/02/2024
                   <br><br>31/03/2024
                   <br><br>30/04/2024
+                  <!-- <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
-                  <br><br>--
-                  <br><br>--
+                  <br><br>-- -->
                 </td>
               </tr>
               <tr>
@@ -963,10 +963,10 @@ footer {
                  <td> <h6>Certificado Seguridad Social Año Anterior</h6></td>
                  <td>  
                   
-                  <a    href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a    href="https://drive.google.com/file/d/1kidN3WfJ5DpyERJxvX-ZVErHWM4joqtT/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                 <td> --</td>
+                 <td> 01/05/2024</td>
               </tr>
               <tr>
                 <th scope="row">2</th>

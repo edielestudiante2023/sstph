@@ -512,7 +512,7 @@ footer {
                    <td> <h6>2.2.1 Objetivo</h6></td>
                    <td>  
                     
-                    <a  href="https://docs.google.com/document/d/1EeGVwgDB5INikKSYjCF-beYtVKlfqFWp/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true"> </i></a></i><br>Documento
+                    <a  href="https://docs.google.com/document/d/1EeGVwgDB5INikKSYjCF-beYtVKlfqFWp/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"> <i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Documento
                   
                   </td>
                    <td> 01/01/2024</td>
@@ -556,7 +556,7 @@ footer {
                    <td> <h6>2.10.1 Manual de Proveedores y Contratistas</h6></td>
                    <td>  
                     
-                    <a  href="https://docs.google.com/document/d/13RxWOADun80C_BNiE-vYmmZXZU7cuaaj/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true"> </i></a></i><br>Documento
+                   <a href= "https://docs.google.com/document/d/13RxWOADun80C_BNiE-vYmmZXZU7cuaaj/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Manual <br>
                   
                   </td>
                    <td> 01/01/2024</td>
@@ -826,6 +826,8 @@ footer {
                  <td>  
                   
                   <a  href="https://drive.google.com/file/d/1J0uTEt9_Ma3WOej_cka05UIM0o4kZ6nS/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="https://drive.google.com/file/d/1oTP8iIOYuqwqM7nzrxYAQulp-oWnl1cA/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <!-- <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -834,12 +836,12 @@ footer {
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br> -->
                 
                 </td> 
                  <td>  19/04/2024
+                  <br><br>16/05/2024
+                  <!-- <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
@@ -848,9 +850,7 @@ footer {
                   <br><br>--
                   <br><br>--
                   <br><br>--
-                  <br><br>--
-                  <br><br>--
-                  <br><br>--
+                  <br><br>-- -->
                   
                 </td>
               </tr>
@@ -860,24 +860,24 @@ footer {
                  <td>  
                   
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                 <!--  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br> -->
                 
                 
                 </td>
                  <td> --
+                  <!-- <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
-                  <br><br>--
-                  <br><br>--
+                  <br><br>- -->-
                   
                 </td>
               </tr>
@@ -901,6 +901,7 @@ footer {
                   <a  href="https://drive.google.com/file/d/1zJ8AGztLf4WrVSc8vjBZo7SvsWfY5wcY/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="https://drive.google.com/file/d/1kEozVErGvCu0-1F2MCzin89FXBerb26l/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="https://drive.google.com/file/d/1eJRURUuhJ8aEFnEqRZJ-mazQgRFLkjtz/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <!-- <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -908,21 +909,20 @@ footer {
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                
+                 -->
                 </td>
                  <td> 30/01/2024
                   <br><br>28/02/2024
                   <br><br>31/03/2024
                   <br><br>30/04/2024
+                <!--   <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
-                  <br><br>--
-                  <br><br>--
+                  <br><br>-- -->
                 </td>
               </tr>
               <tr>
