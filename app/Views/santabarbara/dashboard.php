@@ -596,7 +596,7 @@ footer {
                    <td> <h6>4.1.1 Metodología para la identificación de peligros</h6></td>
                    <td>  
                     
-                    <a  href="https://docs.google.com/document/d/1wIGKDNDlRTUKXg49Io0l41AV33pGaxZ8/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true"> </i></a></i><br>Documento
+                    <a  href="https://docs.google.com/document/d/1wIGKDNDlRTUKXg49Io0l41AV33pGaxZ8/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true"target="_blank"> <i class="bi bi-file-earmark-bar-graph-fill"></i></a><br>Documento
                   
                   </td>
                    <td> 01/04/2024</td>
