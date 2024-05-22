@@ -497,10 +497,10 @@ footer {
                   <td><h6>2.1.1 Políticas de SST</h6></td>
                   <td> 
                     
-                    <a href="https://docs.google.com/document/d/1gO_PcPMIs3gkfw8uDeT6darIsg6U5ww9/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política de SST
-                    <a href="https://docs.google.com/document/d/1cLRQm42yBlbTfPtYGRrg9yFErmDdtqDO/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política No Alcohol
-                    <a href="https://docs.google.com/document/d/1r8rYKx6gTtcovMulWJft1b7Ss2-wnMaW/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política Emergencias
-                    <a href="https://docs.google.com/document/d/1uW-KcPGq3NdN_IyqfZZ613taBw0-crB1/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política EPP´S
+                    <a href="https://docs.google.com/document/d/1gO_PcPMIs3gkfw8uDeT6darIsg6U5ww9/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política de SST<br>
+                    <a href="https://docs.google.com/document/d/1cLRQm42yBlbTfPtYGRrg9yFErmDdtqDO/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política No Alcohol<br>
+                    <a href="https://docs.google.com/document/d/1r8rYKx6gTtcovMulWJft1b7Ss2-wnMaW/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política Emergencias<br>
+                    <a href="https://docs.google.com/document/d/1uW-KcPGq3NdN_IyqfZZ613taBw0-crB1/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política EPP´S<br>
                   
                   </td>
                   <td> 01/02/2024 

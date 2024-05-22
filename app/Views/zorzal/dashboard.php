@@ -495,10 +495,10 @@ footer {
                    <td> <h6>2.1.1 Políticas de SST</h6></td>
                    <td>  
                     
-                    <a   href="https://drive.google.com/file/d/1E8Mlnncf82T0HLgVIikdeNKtYIPaSQ7s/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política de SST
-                    <a   href="https://drive.google.com/file/d/1_atvRAjXbDHu3MPb749FX42ZpYYuxYjz/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política No Alcohol
-                    <a   href="https://drive.google.com/file/d/1Cyz1Fv5TDTmFPJ_w-6vLss_9SDgiO6Nl/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política Emergencias
-                    <a   href="https://drive.google.com/file/d/1uoa9xTOaYksoCBT_lfaix7SlORCfFh2N/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política EPP´S
+                    <a   href="https://drive.google.com/file/d/1E8Mlnncf82T0HLgVIikdeNKtYIPaSQ7s/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política de SST<br>
+                    <a   href="https://drive.google.com/file/d/1_atvRAjXbDHu3MPb749FX42ZpYYuxYjz/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política No Alcohol<br>
+                    <a   href="https://drive.google.com/file/d/1Cyz1Fv5TDTmFPJ_w-6vLss_9SDgiO6Nl/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política Emergencias<br>
+                    <a   href="https://drive.google.com/file/d/1uoa9xTOaYksoCBT_lfaix7SlORCfFh2N/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política EPP´S<br>
                   
                   </td>
                    <td>  01/01/2024 
