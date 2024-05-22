@@ -619,7 +619,7 @@ footer {
                     <a href="https://docs.google.com/spreadsheets/d/1jfGdr3BgMQO0gaLP-rJpWgJNthrI2NGe/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
                   
                   </td>
-                  <td>-- 
+                  <td>01/01/2024
                     <br><br>01/01/2024
                     <br><br>01/01/2024
                   </td>
