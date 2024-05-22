@@ -614,6 +614,8 @@ footer {
                     
                     <br> 
                     
+                    <a href="https://docs.google.com/document/d/1-7XdsHpiXtSe8TeyNTKUJSWbYiFFOSDm/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Reg. Hig. Seg. Ind. <br> 
+                    
                     <a href="https://docs.google.com/document/d/1kgarXCAqLta6DHlBqO0IbIYOJitJ7JhV/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Decreto 2090 de 2003 <br> 
                     
                     <a href="https://docs.google.com/spreadsheets/d/1jfGdr3BgMQO0gaLP-rJpWgJNthrI2NGe/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
