@@ -590,7 +590,7 @@ footer {
                   <td><h6>4.1.1 Metodología para la identificación de peligros</h6></td>
                   <td> 
                     
-                    <a href="https://drive.google.com/file/d/16eH0howNA5nrvnZyGFkDjFrLuWP_4jPW/view?usp=sharing"> </i></a></i><br>Documento
+                    <a href="https://drive.google.com/file/d/16eH0howNA5nrvnZyGFkDjFrLuWP_4jPW/view?usp=sharing"target="_blank"> <i class="bi bi-file-earmark-bar-graph-fill"></i></a><br>Documento
                   
                   </td>
                   <td>--</td>

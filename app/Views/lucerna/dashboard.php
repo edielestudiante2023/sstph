@@ -602,7 +602,7 @@ footer {
                    <td> <h6>4.1.1 Metodología para la identificación de peligros</h6></td>
                    <td>  
                     
-                    <a     href="#"> </i></a></i><br>Documento
+                    <a     href="#"target="_blank"> <i class="bi bi-file-earmark-bar-graph-fill"></i></a><br>Documento
                   
                   </td>
                    <td> --</td>
