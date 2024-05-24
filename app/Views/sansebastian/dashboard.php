@@ -64,7 +64,7 @@ h1 {
 .hero {
 
     background-color: #f5f5f5;
-    min-height: 400px;
+    min-height: auto;
     text-align: center;
     
 }
@@ -186,7 +186,7 @@ tr {
     text-align: center;
 }
 
-.flotarcaja:hover {
+.:hover {
   color: white;
   background-color: black;
   padding: 5px 3px 5px 3px;
@@ -297,7 +297,7 @@ footer {
         <div class="container seis_ejes align-items-stretch">
             <div class="row">
                 
-                    <div class="flotarcaja col-sm-4 col-lg-4">
+                    <div class=" col-sm-4 col-lg-4">
                         <h2>Ciclo del SG-SST</h2>
                         <ol class="list-group list-group-numbered">
                             <a  href="#planear" class="flotartextofila list-group-item list-group-item-action">Planear</a>
@@ -308,7 +308,7 @@ footer {
                         </ol>
 
                     </div>
-                    <div class="flotarcaja col-sm-4 col-lg-4">
+                    <div class=" col-sm-4 col-lg-4">
                         <h2>Inspecciones</h2>
                         <ol class="list-group list-group-numbered">
                             <a  href="#inspecciones" class="flotartextofila list-group-item list-group-item-action">Inspección General</a>
@@ -319,7 +319,7 @@ footer {
                         </ol>
 
                     </div>
-                    <div class="flotarcaja col-sm-4 col-lg-4">
+                    <div class=" col-sm-4 col-lg-4">
                         <h2>Reportes</h2>
                         <ol class="list-group list-group-numbered">
                             <a  href="#reportes" class="flotartextofila list-group-item list-group-item-action">Acta de Visita</a>
@@ -334,7 +334,7 @@ footer {
             </div>
             <div class="row">
                 
-                    <div class="flotarcaja col-sm-4 col-lg-4">
+                    <div class=" col-sm-4 col-lg-4">
                         <h2>Gestión de Proveedores</h2>
                         <ol class="list-group list-group-numbered">
                             <a  href="#proveedores" class="flotartextofila list-group-item list-group-item-action">Seguridad Social</a>
@@ -346,7 +346,7 @@ footer {
                         </ol>
 
                     </div>
-                    <div class="flotarcaja col-sm-4 col-lg-4">
+                    <div class=" col-sm-4 col-lg-4">
                         <h2>Plan de Emergencia</h2>
                         <ol class="list-group list-group-numbered">
                             <a  href="#emergencia" class="flotartextofila list-group-item list-group-item-action">Plan de Emergencia de la Copropiedad</a>
@@ -357,7 +357,7 @@ footer {
                           </ol>
 
                     </div>
-                    <div class="flotarcaja col-sm-4 col-lg-4">
+                    <div class=" col-sm-4 col-lg-4">
                         <h2>Saneamiento Básico</h2>
                         <ol class="list-group list-group-numbered">
                             <a  href="#saneamiento" class="flotartextofila list-group-item list-group-item-action">Auditoria Items Secretaría</a>
