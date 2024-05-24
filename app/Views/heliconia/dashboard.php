@@ -304,7 +304,7 @@ footer {
                             <a    href="#hacer" class="flotartextofila list-group-item list-group-item-action">Hacer</a>
                             <a    href="#verificar" class="flotartextofila list-group-item list-group-item-action">Verificar</a>
                             <a    href="#actuar" class="flotartextofila list-group-item list-group-item-action">Actuar</a>
-                            <a href="https://safetya.co/normatividad/resolucion-0312-de-2019/#a9" class="flotartextofila list-group-item list-group-item-action">Marco Normativo</a>
+                            <a href="https://safetya.co/normatividad/resolucion-0312-de-2019/#a9" target="_blank" class="flotartextofila list-group-item list-group-item-action">Marco Normativo</a>
                         </ol>
 
                     </div>
@@ -341,7 +341,7 @@ footer {
                             <a    href="#proveedores" class="flotartextofila list-group-item list-group-item-action">Dotaciones</a>
                             <a    href="#proveedores" class="flotartextofila list-group-item list-group-item-action">Examenes médicos periódicos</a>
                             <a    href="#proveedores" class="flotartextofila list-group-item list-group-item-action">Calificación ARL</a>
-                            <a href="https://drive.google.com/file/d/1k-aCoovHfyCkAt3k8EL7l8M4ezw4hlSW/view?usp=sharing" class="flotartextofila list-group-item list-group-item-action">Formato Autorización de Trabajo en Alturas</a>
+                            <a href="https://drive.google.com/file/d/1k-aCoovHfyCkAt3k8EL7l8M4ezw4hlSW/view?usp=sharing" target="_blank" class="flotartextofila list-group-item list-group-item-action">Formato Autorización de Trabajo en Alturas</a>
                             
                         </ol>
 
