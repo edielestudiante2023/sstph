@@ -87,7 +87,7 @@ h1 {
 
 .hero-principal {
     width: 100%; /* Ancho del div */
-    height: 500px; /* Alto del div */
+    200pxheight: 200px; /* Alto del div  quitando logo*/
     
 }
 
