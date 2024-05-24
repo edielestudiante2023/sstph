@@ -337,7 +337,7 @@ footer {
             <div class="row">
                 
                     <div class=" col-sm-4 col-lg-4">
-                        <h2>Gestión de Proveedores</h2>
+                        <br><h2>Gestión de Proveedores</h2>
                         <ol class="list-group list-group-numbered">
                             <a  href="#proveedores" class="flotartextofila list-group-item list-group-item-action">Seguridad Social</a>
                             <a  href="#proveedores" class="flotartextofila list-group-item list-group-item-action">Dotaciones</a>
