@@ -252,12 +252,15 @@ footer {
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbar-toggler">
-            <a class="navbar-brand"  href="https://cycloidtalent.com/index.php/consultoria-sst" target="_blank">
+            <a class="navbar-brand"  href="https://cycloidtalent.com/index.php/sg-sst-propiedad-horizontal" target="_blank">
+                <div>
                 <img src="imagenes/LOGO_SST.png" width="100" alt="Logo Página">
+                <img src="imagenes/CYCLOID_ TALENT_SIN_FONDO.png" width="100" alt="Logo Página">
+                </div>
             </a>
             <ul class="navbar-nav d-flex justify-content-center align-items-center">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page"  href="https://cycloidtalent.com/" target="_blank">Cycloid Home</a>
+                <a class="nav-link active" aria-current="page"  href="https://cycloidtalent.com/index.php/sg-sst-propiedad-horizontal" target="_blank">Cycloid Home</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link"  href="https://lookerstudio.google.com/reporting/17e19b84-c3a1-4e58-b425-f3952ad5bb93" target="blank">Indicadores SST</a>
@@ -272,8 +275,8 @@ footer {
                 <a class="nav-link"  href="<?= site_url('logout') ?>">Salir</a>
               </li>
             </ul>
-            <a class="navbar-brand"  href="https://cycloidtalent.com/" target="_blank">
-                <img src="imagenes/CYCLOID_ TALENT_SIN_FONDO.png" width="100" alt="Logo Página">
+            <a class="navbar-brand"  href="https://cycloidtalent.com/index.php/sg-sst-propiedad-horizontal" target="_blank">
+                <img src="imagenes/ESPERANZA_3.png" width="100" alt="Logo Página">
             </a>
           </div>
         </div>
@@ -282,8 +285,8 @@ footer {
     <!-- SECCION PRINCIPAL - HERO -->
     <section class="hero align-items-stretch">
         <div class="hero-principal d-flex flex-column justify-content-center align-items-center">
-            <img class="hero-logo-cliente" src="imagenes/ESPERANZA_3.png"  alt="Logo del cliente">
-            <h2>CYCLOID TALENT SAS</h2> <br> <br> <h1>SOMOS EXPERTOS EN P. HORIZONTAL</h1>
+           <!--  <img class="hero-logo-cliente" src="imagenes/ESPERANZA_3.png"  alt="Logo del cliente"> -->
+            <h2>CYCLOID TALENT SAS</h2> <br> <br> <h1>ASESORIA EXPERTA EN PROPIEDAD HORIZONTAL</h1>
             <h2>Sistema Digital de Gestión en Seguridad y Salud en el Trabajo</h2>
             <h2><?= session()->get('name') ?></h2>
             <h1>Prestación de Servicio Bimensual</h1>
@@ -303,6 +306,7 @@ footer {
                             <a  href="#hacer" class="flotartextofila list-group-item list-group-item-action">Hacer</a>
                             <a  href="#verificar" class="flotartextofila list-group-item list-group-item-action">Verificar</a>
                             <a  href="#actuar" class="flotartextofila list-group-item list-group-item-action">Actuar</a>
+                            <a href="https://safetya.co/normatividad/resolucion-0312-de-2019/#a9" class="flotartextofila list-group-item list-group-item-action">Marco Normativo</a>
                         </ol>
 
                     </div>
@@ -333,12 +337,13 @@ footer {
             <div class="row">
                 
                     <div class="flotarcaja col-sm-4 col-lg-4">
-                        <h2>Evaluación de Proveedores</h2>
+                        <h2>Gestión de Proveedores</h2>
                         <ol class="list-group list-group-numbered">
                             <a  href="#proveedores" class="flotartextofila list-group-item list-group-item-action">Seguridad Social</a>
                             <a  href="#proveedores" class="flotartextofila list-group-item list-group-item-action">Dotaciones</a>
                             <a  href="#proveedores" class="flotartextofila list-group-item list-group-item-action">Examenes médicos periódicos</a>
                             <a  href="#proveedores" class="flotartextofila list-group-item list-group-item-action">Calificación ARL</a>
+                            <a href="https://drive.google.com/file/d/1k-aCoovHfyCkAt3k8EL7l8M4ezw4hlSW/view?usp=sharing" class="flotartextofila list-group-item list-group-item-action">Formato Autorización de Trabajo en Alturas</a>
                             
                         </ol>
 
@@ -744,20 +749,20 @@ footer {
                  <td> <h6>Inspección General</h6></td>
                  <td>  
                   
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/1G349dhPCpgXXT0c3M6UVV6h0fdD6qSNV/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                 <td> --</td>
+                 <td> 23/05/2024</td>
               </tr>
               <tr>
                 <th scope="row">2</th>
                  <td> <h6>Inspección Extintores</h6></td>
                  <td>  
                   
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/1IkOXkEFp1B43EZHZWwt6wXi0uOk0Iv6Q/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                 <td> --</td>
+                 <td> 23/05/2024</td>
               </tr>
               <tr>
                 <th scope="row">3</th>
@@ -774,30 +779,30 @@ footer {
                  <td> <h6>Inspección Equipos de Comunicaciones</h6></td>
                  <td>  
                   
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/1LnxW0QFm-K3xxfUGq22ezm4-2XVkb21V/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                 <td> --</td>
+                 <td> 23/05/2024</td>
               </tr>
               <tr>
                 <th scope="row">5</th>
                  <td> <h6>Inspección Gabinetes Contra Incendio</h6></td>
                  <td>  
                   
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/12oc177GAaEhCcOgamMlLd44tzpA1_Urk/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                 <td> --</td>
+                 <td> 23/05/2024</td>
               </tr>
               <tr>
                 <th scope="row">6</th>
                  <td> <h6>Inspección Recursos para la Seguridad</h6></td>
                  <td>  
                   
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/18aD2Tg40R9tBIKdnb7z6k-BijuyPSsJ_/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                 <td> --</td>
+                 <td> 23/05/2024</td>
               </tr>
               
               
@@ -828,8 +833,8 @@ footer {
                   
                   <a  href="https://drive.google.com/file/d/1vZqeBikE1Fv3JZjA9Rp2oeLJjNIAOWDT/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="https://drive.google.com/file/d/1NsCNOm3VBjw28-sQdtk8wKPvscciS3LI/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="https://drive.google.com/file/d/1OGztfcHP2O60U_wlViTuVRfR8sSsvq8c/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <!-- <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -842,8 +847,8 @@ footer {
                 </td> 
                  <td>  01/01/2024
                   <br><br>14/03/2024
+                  <br><br>23/05/2024
                   <!-- <br><br>--
-                  <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
@@ -1096,20 +1101,20 @@ footer {
                  <td> <h6>Matriz de Vulnerabilidad por Amenazas</h6></td>
                  <td>  
                   
-                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/1sdjNzbxdlj-L4Mylbx2R5rxIvR1JRuhJ/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                 <td> --</td>
+                 <td> 23/05/2024</td>
               </tr>
               <tr>
                 <th scope="row">3</th>
                  <td> <h6>Ocurrencia de Peligros</h6></td>
                  <td>  
                   
-                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/1vAP1Q5Q3OvSz2oadxqSFMjGEBHzUTRhM/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                 <td> --</td>
+                 <td>23/05/2024</td>
               </tr>
               <tr>
                 <th scope="row">4</th>

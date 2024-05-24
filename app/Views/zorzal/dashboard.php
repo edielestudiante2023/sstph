@@ -252,12 +252,15 @@ footer {
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbar-toggler">
-            <a class="navbar-brand"   href="https://cycloidtalent.com/index.php/consultoria-sst" target="_blank">
+            <a class="navbar-brand"   href="https://cycloidtalent.com/index.php/sg-sst-propiedad-horizontal" target="_blank">
+                <div>
                 <img src="imagenes/LOGO_SST.png" width="100" alt="Logo Página">
+                <img src="imagenes/CYCLOID_ TALENT_SIN_FONDO.png" width="100" alt="Logo Página">
+                </div>
             </a>
             <ul class="navbar-nav d-flex justify-content-center align-items-center">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page"   href="https://cycloidtalent.com/" target="_blank">Cycloid Home</a>
+                <a class="nav-link active" aria-current="page"   href="https://cycloidtalent.com/index.php/sg-sst-propiedad-horizontal" target="_blank">Cycloid Home</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link"   href="https://lookerstudio.google.com/reporting/def75646-7f99-461b-990f-d58a7e9a39e4" target="blank">Indicadores SST</a>
@@ -272,8 +275,8 @@ footer {
                 <a class="nav-link"   href="<?= site_url('logout') ?>" >Salir</a>
               </li>
             </ul>
-            <a class="navbar-brand"   href="https://cycloidtalent.com/" target="_blank">
-                <img src="imagenes/CYCLOID_ TALENT_SIN_FONDO.png" width="100" alt="Logo Página">
+            <a class="navbar-brand"   href="https://cycloidtalent.com/index.php/sg-sst-propiedad-horizontal" target="_blank">
+                <img src="imagenes/ZORZAL.png" width="100" alt="Logo Página">
             </a>
           </div>
         </div>
@@ -282,8 +285,8 @@ footer {
     <!-- SECCION PRINCIPAL - HERO -->
     <section class="hero align-items-stretch">
         <div class="hero-principal d-flex flex-column justify-content-center align-items-center">
-            <img class="hero-logo-cliente" src="imagenes/ZORZAL.png"  alt="Logo del cliente">
-            <h2>CYCLOID TALENT SAS</h2> <br> <br> <h1>SOMOS EXPERTOS EN P. HORIZONTAL</h1>
+           <!--  <img class="hero-logo-cliente" src="imagenes/ZORZAL.png"  alt="Logo del cliente"> -->
+            <h2>CYCLOID TALENT SAS</h2> <br> <br> <h1>ASESORIA EXPERTA EN PROPIEDAD HORIZONTAL</h1>
             <h2>Sistema Digital de Gestión en Seguridad y Salud en el Trabajo</h2>
             <h2><?= session()->get('name') ?></h2>
         </div>
@@ -301,6 +304,7 @@ footer {
                             <a   href="#hacer" class="flotartextofila list-group-item list-group-item-action">Hacer</a>
                             <a   href="#verificar" class="flotartextofila list-group-item list-group-item-action">Verificar</a>
                             <a   href="#actuar" class="flotartextofila list-group-item list-group-item-action">Actuar</a>
+                            <a href="https://safetya.co/normatividad/resolucion-0312-de-2019/#a9" class="flotartextofila list-group-item list-group-item-action">Marco Normativo</a>
                         </ol>
 
                     </div>
@@ -331,12 +335,13 @@ footer {
             <div class="row">
                 
                     <div class="flotarcaja col-sm-4 col-lg-4">
-                        <h2>Evaluación de Proveedores</h2>
+                        <h2>Gestión de Proveedores</h2>
                         <ol class="list-group list-group-numbered">
                             <a   href="#proveedores" class="flotartextofila list-group-item list-group-item-action">Seguridad Social</a>
                             <a   href="#proveedores" class="flotartextofila list-group-item list-group-item-action">Dotaciones</a>
                             <a   href="#proveedores" class="flotartextofila list-group-item list-group-item-action">Examenes médicos periódicos</a>
                             <a   href="#proveedores" class="flotartextofila list-group-item list-group-item-action">Calificación ARL</a>
+                            <a href="https://drive.google.com/file/d/1k-aCoovHfyCkAt3k8EL7l8M4ezw4hlSW/view?usp=sharing" class="flotartextofila list-group-item list-group-item-action">Formato Autorización de Trabajo en Alturas</a>
                             
                         </ol>
 
