@@ -1193,20 +1193,26 @@ footer {
                  <td> <h6>Manejo de Plagas</h6></td>
                  <td>  
                   
-                  <a   href="https://docs.google.com/spreadsheets/d/1GwEC38sW4qNiXLze5LIaVikupc5rKqeZ/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
+                  <a   href="https://docs.google.com/spreadsheets/d/1GwEC38sW4qNiXLze5LIaVikupc5rKqeZ/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b> <br>
+                  <a href="https://drive.google.com/file/d/1q4LD7WQqPwUax78PRLulvQSO2WFcDsHj/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Control de Plagas 20240223
                 
                 </td>
-                 <td> 01/01/2024</td>
+                 <td> 01/01/2024
+                  <br><br>23/02/2024
+                 </td>
               </tr>
               <tr>
                 <th scope="row">5</th>
                  <td> <h6>Agua Potable</h6></td>
                  <td>  
                   
-                  <a   href="https://docs.google.com/spreadsheets/d/1-BbDeR1MqsC8ua-wvySOaT-H9TdIwGDL/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
+                  <a   href="https://docs.google.com/spreadsheets/d/1-BbDeR1MqsC8ua-wvySOaT-H9TdIwGDL/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b><br>
+                  <a href="https://drive.google.com/file/d/1-zdPb-_i8kkm7xRFcCfTnd5loYlyqGlT/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Lavado de Tanques 20240301
                 
                 </td>
-                 <td> 01/01/2024</td>
+                 <td> 01/01/2024
+                  <br><br> 01/03/2024
+                 </td>
               </tr>
              
   

@@ -1156,20 +1156,26 @@ footer {
                  <td> <h6>Manejo de Plagas</h6></td>
                  <td>  
                   
-                  <a  href="https://docs.google.com/spreadsheets/d/1K4Jw_Dr3YF99gD0aYkkblLP4OP1RbSmN/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
+                  <a  href="https://docs.google.com/spreadsheets/d/1K4Jw_Dr3YF99gD0aYkkblLP4OP1RbSmN/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b> <br>
+                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Control de Plagas 20240223
                 
                 </td>
-                 <td> 01/01/2024</td>
+                 <td> 01/01/2024
+                  <br><br>23/02/2024
+                 </td>
               </tr>
               <tr>
                 <th scope="row">5</th>
                  <td> <h6>Agua Potable</h6></td>
                  <td>  
                   
-                  <a  href="https://docs.google.com/spreadsheets/d/1KNA0LJNIB6L_tSziBoVqo1X84vqVwDdu/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
+                  <a  href="https://docs.google.com/spreadsheets/d/1KNA0LJNIB6L_tSziBoVqo1X84vqVwDdu/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b><br>
+                  <a href="https://drive.google.com/file/d/1AwB1XTvpTqqsJYGw2dxOWC6nUL0SqJHB/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Lavado de Tanques 20240223
                 
                 </td>
-                 <td> 01/01/2024</td>
+                 <td> 01/01/2024
+                  <br><br>23/02/2024
+                 </td>
               </tr>
              
   

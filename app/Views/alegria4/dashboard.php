@@ -1190,9 +1190,9 @@ footer {
                   <a href="https://drive.google.com/file/d/1gMLjFkt5F8-rMgSwj7AMUSaccW_ajS5C/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Inspección Ultima Fumigación
                 
                 </td>
-                <td>01/01/2024</td>
-                <br><br>17/05/2024
-                <!-- <br><br>-- -->
+                <td>01/01/2024
+                  <br><br>02/03/2024
+                </td>
 
               </tr>
               <tr>
@@ -1201,11 +1201,14 @@ footer {
                 <td> 
                   
                   <a href="https://docs.google.com/spreadsheets/d/1mgjUUTX07Mmcvcua8oF0TJes7nKZA-g8/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b> <br>
-                  <a href="https://drive.google.com/file/d/1gMLjFkt5F8-rMgSwj7AMUSaccW_ajS5C/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Inspección Ultimo Lavado de tanques
+                  <a href="https://drive.google.com/file/d/1TA-z2yNo-fqnxPvG8ZlrAdBPoomo3pFg/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Soporte Lavado de Tanques 20240302
                 
+                
+
+                <td>01/01/2024
+                  <br><br>02/03/2024
                 </td>
-                <td>01/01/2024</td>
-                <br><br>17/05/2024
+                
 
 
               </tr>

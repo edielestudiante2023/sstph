@@ -1028,10 +1028,10 @@ footer {
                  <td> <h6>Certificado Seguridad Social Año Anterior</h6></td>
                  <td>  
                   
-                  <a    href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a    href="https://drive.google.com/file/d/1qjrOcnq8q0eVFeXgdnTK39BfwjIIib8P/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                 <td> --</td>
+                 <td> 01/05/2024</td>
               </tr>
               <tr>
                 <th scope="row">2</th>
@@ -1193,10 +1193,13 @@ footer {
                  <td> <h6>Manejo de Plagas</h6></td>
                  <td>  
                   
-                  <a    href="https://docs.google.com/spreadsheets/d/1cWyYSG5xnRKmEjsKSElrHY9QMogVhhZj/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
+                  <a    href="https://docs.google.com/spreadsheets/d/1cWyYSG5xnRKmEjsKSElrHY9QMogVhhZj/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b><br>
+                  <a href="https://drive.google.com/file/d/1_HDtx58VuNUevsUPgTOOEu0KPyb0fq9X/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Control de Plagas 20240221
                 
                 </td>
-                 <td> 01/01/2024</td>
+                 <td> 01/01/2024
+                  <br><br>21/02/2024
+                 </td>
               </tr>
               <tr>
                 <th scope="row">5</th>
