@@ -594,9 +594,13 @@ footer {
                    <td>  
                     
                     <a  href="https://docs.google.com/spreadsheets/d/1tkm2427xJtj5nIWKIhW0a4TDOifxZIYU/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b> 
+
+                    <a  href="https://docs.google.com/document/d/1y_qlsO7BF0_hafzpNblM76azdsXiM7dC/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true"target="_blank"> <i class="bi bi-file-earmark-bar-graph-fill"></i></a><br>Procedimiento Para Reporte de Accidentes
                   
                   </td>
-                   <td> 01/01/2024</td>
+                   <td> 01/01/2024
+                    <br><br>01/01/2024
+                   </td>
                 </tr>
                 <tr>
                   <th scope="row">2</th>
