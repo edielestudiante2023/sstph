@@ -765,10 +765,10 @@ footer {
                  <td> <h6>Inspección Botiquines</h6></td>
                  <td>  
                   
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/1sHsKbb8620rLS_2x5afxI6Dk6E-X1Zzk/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                 <td> --</td>
+                 <td> 06/06/2024</td>
               </tr>
               <tr>
                 <th scope="row">4</th>
@@ -828,8 +828,8 @@ footer {
                  <td>  
                   
                   <a  href="https://drive.google.com/file/d/1hZIu7BVQ6an4PyIs5aNWR9w1fhdQkaiA/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-               <!--    <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="https://drive.google.com/file/d/1xtMFhcB400DUFBmcVC6I-RZMnIJmyShX/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <!-- <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -842,8 +842,8 @@ footer {
                  -->
                 </td> 
                  <td>  23/04/2024
+                  <br><br>06/06/2024
                   <!-- <br><br>--
-                  <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
@@ -1192,20 +1192,26 @@ footer {
                  <td> <h6>Manejo de Plagas</h6></td>
                  <td>  
                   
-                  <a  href="https://docs.google.com/spreadsheets/d/1duXysNkY9dAP3jNqBGoETXdwB2X7Vaqc/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
+                  <a  href="https://docs.google.com/spreadsheets/d/1duXysNkY9dAP3jNqBGoETXdwB2X7Vaqc/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b> <br>
+                  <a href="https://drive.google.com/file/d/1EYEhtqGknhHV2NkLaYO4tWJQQH10wJSX/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Fumigación Nov 2023
                 
                 </td>
-                 <td> 01/04/2024</td>
+                 <td> 01/04/2024
+                  <br> <br> 07/06/2024
+                 </td>
               </tr>
               <tr>
                 <th scope="row">5</th>
                  <td> <h6>Agua Potable</h6></td>
                  <td>  
                   
-                  <a  href="https://docs.google.com/spreadsheets/d/1s6aE20C-5azKPl0Iv4uoXsocpK61hUY7/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
+                  <a  href="https://docs.google.com/spreadsheets/d/1s6aE20C-5azKPl0Iv4uoXsocpK61hUY7/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b> <br>
+                  <a href="https://drive.google.com/file/d/1XqRp7jQXt49E_0MHow4z_HCMHY88JZoy/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Lavado de Tanques feb/2024
                 
                 </td>
-                 <td> 01/04/2024</td>
+                 <td> 01/04/2024
+                  <br><br>07/06/2024
+                 </td>
               </tr>
              
   
