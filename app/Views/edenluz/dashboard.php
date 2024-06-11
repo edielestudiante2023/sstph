@@ -289,8 +289,8 @@ footer {
             <h2>CYCLOID TALENT SAS</h2> <br> <br> <h1>ASESORIA EXPERTA EN PROPIEDAD HORIZONTAL</h1>
             <h2>Sistema Digital de Gestión en Seguridad y Salud en el Trabajo</h2>
             <h2><?= session()->get('name') ?></h2>
-            <h1>Prestación de Servicio Trimestral</h1>
-            <h1>Meses 3-6-9-12</h1>
+            <h1>Prestación de Servicio Bimensual</h1>
+            <h1>Meses 6-8-10-12</h1>
         </div>
     </section>
     <!-- SEIS EJES -->
