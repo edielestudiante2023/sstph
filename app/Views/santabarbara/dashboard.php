@@ -1230,8 +1230,8 @@ footer {
             </h5>
           </div>
           <div class="col-sm-6 col-lg-6">
-            <h5 style="color: aquamarine;">Su contrato actual vence el (31/03/2025)</h5>
-            <a  href="#" target="_blank">
+            <h5 style="color: aquamarine;">Su contrato actual vence el (30/05/2025)</h5>
+            <a  href="https://docs.google.com/document/d/18nfRJTIUS9CCb8gyG18953qKqc5iQ7vc/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank">
               <button type="button" class="btn btn-primary contrato">Acceder al contrato <i class="bi bi-arrow-right-circle-fill"></i></button>
             </a>
           </div>

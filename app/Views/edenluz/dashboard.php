@@ -759,20 +759,20 @@ footer {
                  <td> <h6>Inspección Extintores</h6></td>
                  <td>  
                   
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/1_N7NwG9IhflH63XAi74i-ey7aTskYVJu/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                 <td> --</td>
+                 <td> 06/06/2024</td>
               </tr>
               <tr>
                 <th scope="row">3</th>
                  <td> <h6>Inspección Botiquines</h6></td>
                  <td>  
                   
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/1VBN5p6oW2l317a00NmfkQZsXPpqO_dSy/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                 <td> --</td>
+                 <td> 06/06/2024</td>
               </tr>
               <tr>
                 <th scope="row">4</th>
@@ -799,10 +799,10 @@ footer {
                  <td> <h6>Inspección Recursos para la Seguridad</h6></td>
                  <td>  
                   
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/1lTmoLYl5-DdUjROBWedfZUJrQRVKQLDq/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                 <td> --</td>
+                 <td> 06/06/2024</td>
               </tr>
               
               
@@ -832,8 +832,8 @@ footer {
                  <td>  
                   
                   <a  href="https://drive.google.com/file/d/1LxtJvuhMQfq1OxI50dhzwdUxD7T1FNyH/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="https://drive.google.com/file/d/1cokBZA215pNEB7VQ2iWi_KGTzPp3o7p-/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <!-- <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -846,6 +846,7 @@ footer {
                 
                 </td> 
                  <td>  27/03/2024
+                  <br><br>07/06/2024
                   <!-- <br><br>--
                   <br><br>--
                   <br><br>--
@@ -855,9 +856,8 @@ footer {
                   <br><br>--
                   <br><br>--
                   <br><br>--
-                  <br><br>--
-                  <br><br>--
-                   -->
+                  <br><br>-- -->
+                  
                 </td>
               </tr>
               <tr>
@@ -1111,10 +1111,10 @@ footer {
                  <td> <h6>Ocurrencia de Peligros</h6></td>
                  <td>  
                   
-                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/17nCBwW1ZuJX5Lq1MPToxcpRdP1SAhh-O/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                 <td> --</td>
+                 <td> 06/06/2024</td>
               </tr>
               <tr>
                 <th scope="row">4</th>
