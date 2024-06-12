@@ -276,7 +276,7 @@ footer {
               </li>
             </ul>
             <a class="navbar-brand" href="https://cycloidtalent.com/index.php/sg-sst-propiedad-horizontal" target="_blank">
-                <img src="imagenes/VILLA HATO CHICO.png" width="100" alt="Logo Cliente">
+                <img src="imagenes/VILLA_HATO_CHICO.png" width="100" alt="Logo Cliente">
             </a>
           </div>
         </div>

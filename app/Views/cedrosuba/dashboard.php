@@ -255,7 +255,7 @@ footer {
             <a class="navbar-brand" href="https://cycloidtalent.com/index.php/sg-sst-propiedad-horizontal" target="_blank">
                 <div>
                 <img src="imagenes/LOGO_SST.png" width="100" alt="Logo Página">
-                <img src="imagenes/CEDRO SUBA III.png" width="100" alt="Logo Cliente">
+                <img src="imagenes/CYCLOID_ TALENT_SIN_FONDO.png" width="100" alt="Logo Cliente">
                 </div>
             </a>
             <ul class="navbar-nav d-flex justify-content-center align-items-center">
@@ -276,7 +276,7 @@ footer {
               </li>
             </ul>
             <a class="navbar-brand" href="https://cycloidtalent.com/index.php/sg-sst-propiedad-horizontal" target="_blank">
-                <img src="imagenes/CYCLOID_ TALENT_SIN_FONDO.png" width="100" alt="Logo Página">
+                <img src="imagenes/CEDRO_SUBA_III.png" width="100" alt="Logo Página">
             </a>
           </div>
         </div>
