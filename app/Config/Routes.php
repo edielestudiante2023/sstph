@@ -90,12 +90,12 @@ $routes->group("zapan1", ["filter" => "auth"], function ($routes) {
     $routes->get("/", "Zapan1Controller::index");
 });
 
-$routes->group("xxxxx", ["filter" => "auth"], function ($routes) {
-    $routes->get("/", "xxxxxController::index");
+$routes->group("villahato", ["filter" => "auth"], function ($routes) {
+    $routes->get("/", "VillahatoController::index");
 });
 
-$routes->group("xxxxx", ["filter" => "auth"], function ($routes) {
-    $routes->get("/", "xxxxxController::index");
+$routes->group("cedrosuba", ["filter" => "auth"], function ($routes) {
+    $routes->get("/", "CedrosubaController::index");
 });
 
 $routes->group("xxxxx", ["filter" => "auth"], function ($routes) {
