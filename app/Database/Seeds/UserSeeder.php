@@ -36,4 +36,14 @@ class UserSeeder extends Seeder
 		]);
 	}
 }
+/* 
+Este codigo lo coloco en terminal
+php spark db:seed UserSeeder
+
+ROUTES: DEBO ASEGURAR CREAR LA NUEVA RUTA PARA MI CLIENTE
+COTROLLERS: MODIFICAR EL UserController.php
+clienteController: en clientecontroller.php modificar los items
+CREAR LA VISTA DEL NUEVO CLIENTE
+SUBIR EL LOGO DEL NUEVO CLIENTE */
+
 

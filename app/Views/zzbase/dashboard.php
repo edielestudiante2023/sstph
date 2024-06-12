@@ -276,7 +276,7 @@ footer {
               </li>
             </ul>
             <a class="navbar-brand" href="https://cycloidtalent.com/index.php/sg-sst-propiedad-horizontal" target="_blank">
-                <img src="imagenes/CYCLOID_ TALENT_SIN_FONDO.png" width="100" alt="Logo Página">
+                <img src="imagenes/CYCLOID_ TALENT_SIN_FONDO.png" width="100" alt="Logo Cliente">
             </a>
           </div>
         </div>
@@ -417,7 +417,7 @@ footer {
                     <th scope="row">2</th>
                     <td><h6>1.1.2 Responsabilidades</h6></td>
                     <td> 
-                      <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Asignación de Funciones <br> 
+                      <a href="#" target="_blank"><i class="bi bi-file-earmark-excel-fill"> </i></a></i><br>Asignación de Funciones <br> 
                       
                       <a href="#" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Procedimiento</td>
 
@@ -470,7 +470,7 @@ footer {
                     <td><h6>1.2.2 Inducción y Reinducción SST</h6></td>
                     <td> 
                       
-                      <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Programa de Induccio
+                      <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Programa de Inducción
                     
                     </td>
                     <td>--</td>
