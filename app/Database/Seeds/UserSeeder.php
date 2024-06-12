@@ -27,11 +27,11 @@ class UserSeeder extends Seeder
 			// 	"password" => password_hash("900873512", PASSWORD_DEFAULT)
 			// ],
 			[
-				"name" => "CONJUNTO RESIDENCIAL VILLA DE HATO CHICO PH",
-				"email" => "comitehatochico1@gmail.com",
+				"name" => "AGRUPACION DE VIVIENDA CEDRO SUBA III",
+				"email" => "cedrosubatres@gmail.com",
 				"phone_no" => "3115396536",
-				"role" => "villahato",
-				"password" => password_hash("900144587", PASSWORD_DEFAULT)
+				"role" => "cedrosuba",
+				"password" => password_hash("830122409", PASSWORD_DEFAULT)
 			]
 		]);
 	}
