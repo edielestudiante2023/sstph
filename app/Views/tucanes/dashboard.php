@@ -1060,10 +1060,10 @@ footer {
                  <td> <h6>Plan de Emergencia de la Copropiedad</h6></td>
                  <td>  
                   
-                  <a  href="https://drive.google.com/file/d/1vbqWtShpXXCbdr6WbZpFQ4OaXc631Hht/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/19reRhtgi_Z1rsJ9nxsiiryBPUjpp8raz/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                 <td> 01/01/2024</td>
+                 <td> 17/06/2024</td>
               </tr>
               <tr>
                 <th scope="row">2</th>
