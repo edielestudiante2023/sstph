@@ -864,9 +864,9 @@ footer {
                  <td>  
                   
                   <a  href="https://drive.google.com/file/d/14B0bTMuuoXF_sAkuKiT-FsowV4QdL4zx/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="https://drive.google.com/file/d/1T4ClNaefPKWvyuO73VIK1mWFNwiDnc3l/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Peligro biomecánico - pausas activas - manejo de cargas.<br>
+                  <a  href="https://drive.google.com/file/d/16Nan_fXXqlD4MwULiqKWlt5SPSjQQrq4/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Peligro químico - uso, almacenamiento y elementos de protección personal. <br>
                   <!-- <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -875,9 +875,9 @@ footer {
                 
                 </td>
                  <td> 19/02/2024
+                  <br><br>20/06/2024
+                  <br><br>20/06/2024
                   <!-- <br><br>--
-                  <br><br>--
-                  <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
