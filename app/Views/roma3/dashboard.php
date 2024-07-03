@@ -759,30 +759,33 @@ footer {
                 <td><h6>Inspección Extintores</h6></td>
                 <td> 
                   
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a href="https://drive.google.com/file/d/1MKzTVJy_7VPKt1JdKiOiyAY_S10y9q5Z/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>--</td>
+                <td>26/06/2024</td>
               </tr>
               <tr>
                 <th scope="row">3</th>
                 <td><h6>Inspección Botiquines</h6></td>
                 <td> 
                   
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a href="https://drive.google.com/file/d/1ig9wMYGmMimWJa1nxfr6S36QCHZwXfs6/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Inspección De Botiquín Portería 2 Roma 3 24_06_2024 <br>
+                  <a href="https://drive.google.com/file/d/1XjULphCkT1Q8CUfzPdrz18nxrM1kWqUP/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Inspección De Botiquín Portería 1 Roma 3 24_06_2024 <br>
                 
                 </td>
-                <td>--</td>
+                <td>24/06/2024
+                  <br><br>24/06/2024
+                </td>
               </tr>
               <tr>
                 <th scope="row">4</th>
                 <td><h6>Inspección Equipos de Comunicaciones</h6></td>
                 <td> 
                   
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a href="https://drive.google.com/file/d/1UcWSzhxErr1p1WmljLLe5Q8exmVGJVeI/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>--</td>
+                <td>24/06/2024</td>
               </tr>
               <tr>
                 <th scope="row">5</th>
@@ -1101,20 +1104,20 @@ footer {
                 <td><h6>Matriz de Vulnerabilidad por Amenazas</h6></td>
                 <td> 
                   
-                  <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a href="https://drive.google.com/file/d/1Y3_X_Co-fp3IiQsoAA4zwHSfhLZASc5b/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>--</td>
+                <td>26/06/2024</td>
               </tr>
               <tr>
                 <th scope="row">3</th>
                 <td><h6>Ocurrencia de Peligros</h6></td>
                 <td> 
                   
-                  <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a href="https://drive.google.com/file/d/1zm_Pa_lyAn41zftbNsxRPWm8cX83OTWz/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>--</td>
+                <td>26/06/2024</td>
               </tr>
               <tr>
                 <th scope="row">4</th>

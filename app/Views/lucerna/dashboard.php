@@ -781,10 +781,10 @@ footer {
                  <td> <h6>Inspección Equipos de Comunicaciones</h6></td>
                  <td>  
                   
-                  <a     href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a     href="https://drive.google.com/file/d/1dMKrp91La35Dam-LJwQalOTEYo04nt2h/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                 <td> --</td>
+                 <td>21/06/2024</td>
               </tr>
               <tr>
                 <th scope="row">5</th>
@@ -837,8 +837,8 @@ footer {
                   <a     href="https://drive.google.com/file/d/1ro1T7ahfmDl2R7p5SLn2-U-GPGgcbXol/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a     href="https://drive.google.com/file/d/1dlDSAw-hy_NPYP6ikhmmv5KMgT3LEoHI/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a     href="https://drive.google.com/file/d/1GMd_TIbk96z_HLUHsb-YIi_uISsNOlUH/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a     href="https://drive.google.com/file/d/1RBsd5I8k_EgQVWu15OoqsntTHvhlTz8p/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <!-- <a     href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a     href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a     href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a     href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a     href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -851,8 +851,8 @@ footer {
                   <br><br>08/03/2024
                   <br><br>08/04/2024
                   <br><br>31/05/2024
+                  <br><br>21/06/2024
                   <!-- <br><br>--
-                  <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
