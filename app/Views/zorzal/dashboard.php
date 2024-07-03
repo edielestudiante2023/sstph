@@ -833,8 +833,8 @@ footer {
                   <a   href="https://drive.google.com/file/d/1BWn0h9XqCESQ_Rl9CMU7MP3-y1hysFHB/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="https://drive.google.com/file/d/1B6yauFyR2oINwlwAO7MA0M6fUim-Cy4Y/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="https://drive.google.com/file/d/1VZPXNGNKhoDPrnOXhmnh2HpulD8YyWnu/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a   href="https://drive.google.com/file/d/1SKjvv2SfdULQkbfMTqCSQyONSI5cILsL/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <!-- <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -847,8 +847,8 @@ footer {
                   <br><br>19/03/2024
                   <br><br>23/04/2024
                   <br><br>14/05/2024
+                  <br><br>25/06/2024
                   <!-- <br><br>--
-                  <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
@@ -864,8 +864,8 @@ footer {
                   
                   <a   href="https://drive.google.com/file/d/1w0vvEdUnTVDcbTCtw-gpZqVqIVCB2ox3/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="https://drive.google.com/file/d/1OD4ypA3gsUAPN3r96YsFGFyOwS91n9HW/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a   href="https://drive.google.com/file/d/1sPdK2yC1febfuMRjjgcMGWCFYju8-MCH/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Peligro Producto Químico, Manejo, Almacenamiento, Etiquetas Y Hoja De Seguridad, Elementos De Protección Personal. <br>
                   <!-- <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -875,8 +875,8 @@ footer {
                 </td>
                  <td> 01/01/2024
                   <br><br>29/02/2024
+                  <br><br>26/06/2024
                   <!-- <br><br>--
-                  <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--

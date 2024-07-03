@@ -769,10 +769,13 @@ footer {
                  <td> <h6>Inspección Botiquines</h6></td>
                  <td>  
                   
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/18qF2EdS60XBuE6tWNueAE8ylV_wSzHC8/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Inspección De Botiquín Portería Esperanza 3 27_06_2024 <br>
+                  <a  href="https://drive.google.com/file/d/13gWZHPM9NXLkqmscoctTz_i-9P73HL5T/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>INSPECCION DE BOTIQUIN SALONES COMUNALES ESPERANZA 3 27_06_2024 <br>
                 
                 </td>
-                 <td> --</td>
+                 <td> 27/06/2024
+                  <br><br>27/06/2024
+                 </td>
               </tr>
               <tr>
                 <th scope="row">4</th>
@@ -834,6 +837,7 @@ footer {
                   <a  href="https://drive.google.com/file/d/1vZqeBikE1Fv3JZjA9Rp2oeLJjNIAOWDT/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="https://drive.google.com/file/d/1NsCNOm3VBjw28-sQdtk8wKPvscciS3LI/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="https://drive.google.com/file/d/1OGztfcHP2O60U_wlViTuVRfR8sSsvq8c/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="https://drive.google.com/file/d/1djDWbQFEPHndkFkMskKar1VS_KFmK7nk/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <!-- <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -841,15 +845,14 @@ footer {
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                 -->
+                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br> -->
+                
                 </td> 
                  <td>  01/01/2024
                   <br><br>14/03/2024
                   <br><br>23/05/2024
+                  <br><br>27/06/2024
                   <!-- <br><br>--
-                  <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
@@ -1198,7 +1201,8 @@ footer {
                  <td> <h6>Manejo de Plagas</h6></td>
                  <td>  
                   
-                  <a  href="https://docs.google.com/spreadsheets/d/1WLSt2DD7fkXSe_mehuJDX29Pfykwk9LG/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
+                  <a  href="https://docs.google.com/spreadsheets/d/1WLSt2DD7fkXSe_mehuJDX29Pfykwk9LG/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b> <br>
+                  <a href="https://drive.google.com/file/d/1WfsD3oTIkGgDFQQeoDtw5jnVkoVJIkz-/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Fumigación 20240126
                 
                 </td>
                  <td> 01/01/2024</td>
@@ -1208,7 +1212,8 @@ footer {
                  <td> <h6>Agua Potable</h6></td>
                  <td>  
                   
-                  <a  href="https://docs.google.com/spreadsheets/d/1LjAsderVY23u-V54ipXlnSTQE0EvT2xp/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
+                  <a  href="https://docs.google.com/spreadsheets/d/1LjAsderVY23u-V54ipXlnSTQE0EvT2xp/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b> <br>
+                  <a href="https://drive.google.com/file/d/1IiraY_F2vE6byOBoV808adQJr010LhfC/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Lavado de Tanques 20240221
                 
                 </td>
                  <td> 01/01/2024</td>
