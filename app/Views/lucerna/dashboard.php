@@ -417,7 +417,7 @@ footer {
                     <th scope="row">2</th>
                      <td> <h6>1.1.2 Responsabilidades</h6></td>
                      <td>  
-                      <a     href="https://docs.google.com/spreadsheets/d/1By8MVOabHXO6-LEN8e40-pD13XvFDsHd/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Asignación de Funciones <br> 
+                      <a     href="https://drive.google.com/file/d/1-_oBRVQqLsOlC6Vo8TCM86kuRPV_6zOL/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Asignación de Funciones <br> 
                       
                       <a     href="https://docs.google.com/document/d/1b0RdZ9tp2xAnQw4uCmsJNt0MdS0EXsKw/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Procedimiento</td>
 

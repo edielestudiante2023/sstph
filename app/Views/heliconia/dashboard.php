@@ -864,8 +864,8 @@ footer {
                   
                   <a    href="https://drive.google.com/file/d/1hdkWeFrT6hNYXoij9VArvfR-2rWnp8iR/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a    href="https://drive.google.com/file/d/1bnp1jU7D43Kgpx4EjEd47PDUInlsXoJx/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a    href="https://drive.google.com/file/d/1te1HbRdzMLCog7owFZzz2iYbAyDEvhrD/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Peligro biomecánico - pausas activas, manejo de cargas, posturas, lesiones y enfermedades <br>
                   <!-- <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -875,8 +875,8 @@ footer {
                 </td>
                  <td> 01/01/2024
                   <br><br>29/02/2024
+                  <br><br>04/07/2024
                   <!-- <br><br>--
-                  <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
