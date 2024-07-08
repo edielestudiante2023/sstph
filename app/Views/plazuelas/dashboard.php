@@ -862,8 +862,8 @@ footer {
                  <td>  
                   
                   <a   href="https://drive.google.com/file/d/1IwQxHey78zVq74bVTtT4FDSb7MReuawR/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                 <!--  <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a   href="https://drive.google.com/file/d/1a_J6YMB7vFeflS8zuYWvwFD-o8boQssC/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Riesgo biomecánico y químico <br>
+                  <!-- <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -873,14 +873,14 @@ footer {
                 
                 </td>
                  <td> 15/02/2024
+                  <br><br>04/07/2024
                   <!-- <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
-                  <br><br>--
-                  <br><br>--
-                   -->
+                  <br><br>-- -->
+                  
                 </td>
               </tr>
               <tr>
