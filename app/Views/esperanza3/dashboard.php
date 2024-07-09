@@ -870,8 +870,8 @@ footer {
                   
                   <a  href="https://drive.google.com/file/d/1NvjHDf2y3DephKmv1kSb04zTKg7c3iiD/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="https://drive.google.com/file/d/1sMbJhyqAq9fOuPxXmidR9v97-U-db6Dt/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Curso de 50 Horas Administrador
+                  <a  href="https://drive.google.com/file/d/1xcDYj_9zE-61hQYWX-HAR2SDUWK9g8S7/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>PELIGRO BIOMECÁNICO: Pausas activas, posturas, manejo de cargas, lesiones y enfermedades. <br>
                   <!-- <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -882,8 +882,8 @@ footer {
                 </td>
                  <td> 13/02/2024
                   <br><br>25/05/2024
+                  <br><br>04/07/2024
                   <!-- <br><br>--
-                  <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
