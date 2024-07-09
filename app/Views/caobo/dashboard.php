@@ -838,11 +838,7 @@ footer {
                   <a  href="https://drive.google.com/file/d/1RymDT6JBQqUev-RPe8DYPdG6vHiC3Foc/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="https://drive.google.com/file/d/1kZW6SPYqsjkbDrHyFmDX_y1e9mEoTUmS/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="https://drive.google.com/file/d/1B-vnKcSLZEmZ6IFbmSwDSakKUMXGgzUG/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-<<<<<<< HEAD
                   <a  href="https://drive.google.com/file/d/1hi2XOdEJfgZNjWZfODc6g12mhXtKWhd0/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-=======
-                  <a  href="https://drive.google.com/file/d/1cNkTCR942r5lrcp1pJxK9hHdg_4TnGCu/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
->>>>>>> cycloid
                   <!-- <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -856,11 +852,8 @@ footer {
                   <br><br>04/03/2024
                   <br><br>08/04/2024
                   <br><br>31/05/2024
-<<<<<<< HEAD
                   <br><br>17/06/2024
-=======
                   <br><br>08/07/2024
->>>>>>> cycloid
                   <!-- <br><br>--
                   <br><br>--
                   <br><br>--
