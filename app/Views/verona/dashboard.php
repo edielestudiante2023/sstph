@@ -863,7 +863,8 @@ footer {
                  <td> <h6>Capacitaciones</h6></td>
                  <td>  
                   
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                   <a  href="https://drive.google.com/file/d/1obP1vW97MmjZb7_SEdKoqj2w0zh8-oBR/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Certificado Curso 50 Horas - Laura Valentina Caseres Castro <br>
+                  
                   <!-- <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -874,7 +875,7 @@ footer {
                 
                 
                 </td>
-                 <td> --
+                 <td>05/07/2024
                   <!-- <br><br>--
                   <br><br>--
                   <br><br>--
