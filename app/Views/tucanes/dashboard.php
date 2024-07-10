@@ -975,12 +975,12 @@
               <a href="https://drive.google.com/file/d/1M2dja_EyZTAp0DfYqlSOBk5xiG35ZxHo/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
               <a href="https://drive.google.com/file/d/1P1G-ewbgw4e5OYocaBKm4eLwGyLbSTvK/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
               <a href="https://drive.google.com/file/d/19--54KX9MPfv_xwIGKKX2lkpjPJZIvel/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+              <a  href="https://drive.google.com/file/d/1p-kcK2vIaCWEVi7afCUBWU4feprHuHGu/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
               <!-- <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br> -->
+              <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+              <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+              <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+              <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br> -->
 
             </td>
             <td> 30/01/2024
@@ -988,14 +988,14 @@
               <br><br>31/03/2024
               <br><br>30/04/2024
               <br><br>31/05/2024
+              <br><br>30/06/2024
               <!-- <br><br>--
-                  <br><br>--
-                  <br><br>--
-                  <br><br>--
-                  <br><br>--
-                  <br><br>--
-                  <br><br>--
-                  <br><br>-- -->
+              <br><br>--
+              <br><br>--
+              <br><br>--
+              <br><br>--
+              <br><br>--
+              <br><br>-- -->
             </td>
           </tr>
           <tr>
@@ -1015,72 +1015,8 @@
 
 
 
-<<<<<<< HEAD
-            </div>
-            
-            <thead>
-              <tr>
-                <th style="width: 9%;" scope="col">#</th>
-                <th style="width: 47%;" scope="col">NUMERAL</th>
-                <th style="width: 17%;" scope="col">CLIC PARA ACCEDER</th>
-                <th style="width: 27%;"scope="col">FECHA DE CARGA</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <th scope="row">1</th>
-                 <td> <h6>Plan de Emergencia de la Copropiedad</h6></td>
-                 <td>  
-                  
-                  <a  href="https://drive.google.com/file/d/19reRhtgi_Z1rsJ9nxsiiryBPUjpp8raz/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
-                
-                </td>
-                 <td> 17/06/2024</td>
-              </tr>
-              <tr>
-                <th scope="row">2</th>
-                 <td> <h6>Matriz de Vulnerabilidad por Amenazas</h6></td>
-                 <td>  
-                  
-                  <a  href="https://drive.google.com/file/d/1LHpOk-TcmV_mLSbZx4R57O7jbrTEB9Nr/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
-                
-                </td>
-                 <td> 23/04/2024</td>
-              </tr>
-              <tr>
-                <th scope="row">3</th>
-                 <td> <h6>Ocurrencia de Peligros</h6></td>
-                 <td>  
-                  
-                  <a  href="https://drive.google.com/file/d/1eDNwAJj-u-x_fGSVPyz7k4QFmPllFkVt/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
-                
-                </td>
-                 <td> 23/04/2024</td>
-              </tr>
-              <tr>
-                <th scope="row">4</th>
-                 <td> <h6>Evidencias de Simulacro</h6></td>
-                 <td>  
-                  
-                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
-                
-                </td>
-                 <td> --</td>
-              </tr>
-              <tr>
-                <th scope="row">5</th>
-                 <td> <h6>Brigadistas de la Copropiedad</h6></td>
-                 <td>  
-                  
-                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
-                
-                </td>
-                 <td> --</td>
-              </tr>
-=======
       </table>
     </div>
->>>>>>> cycloid
 
     <div class="table-responsive-sm table-responsive-md container">
       <table class="table caption-top table-striped table-bordered">
