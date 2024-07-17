@@ -98,8 +98,8 @@ $routes->group("cedrosuba", ["filter" => "auth"], function ($routes) {
     $routes->get("/", "CedrosubaController::index");
 });
 
-$routes->group("xxxxx", ["filter" => "auth"], function ($routes) {
-    $routes->get("/", "xxxxxController::index");
+$routes->group("encanto4", ["filter" => "auth"], function ($routes) {
+    $routes->get("/", "Encanto4Controller::index");
 });
 
 $routes->group("xxxxx", ["filter" => "auth"], function ($routes) {
