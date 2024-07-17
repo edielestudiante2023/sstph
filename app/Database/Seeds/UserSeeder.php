@@ -27,11 +27,11 @@ class UserSeeder extends Seeder
 			// 	"password" => password_hash("900873512", PASSWORD_DEFAULT)
 			// ],
 			[
-				"name" => "AGRUPACION DE VIVIENDA CEDRO SUBA III",
-				"email" => "cedrosubatres@gmail.com",
-				"phone_no" => "3115396536",
-				"role" => "cedrosuba",
-				"password" => password_hash("830122409", PASSWORD_DEFAULT)
+				"name" => "EL ENCANTO IV CONJUNTO RESIDENCIAL",
+				"email" => "cr.elencantoiv@gmail.com",
+				"phone_no" => "3235225206",
+				"role" => "encanto4",
+				"password" => password_hash("901620555", PASSWORD_DEFAULT)
 			]
 		]);
 	}
