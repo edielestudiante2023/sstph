@@ -623,12 +623,12 @@ footer {
                     
                     <a  href="https://docs.google.com/document/d/1VKq4qUHGYXZNbVIsPhqh7YSzaNjlCiho/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Decreto 2090 de 2003 <br> 
                     
-                    <a  href="https://docs.google.com/spreadsheets/d/1plErLwTQSYSipllUe1AHx3sGkuoq5SVr/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
+                    <a  href="https://docs.google.com/spreadsheets/d/1eHhiF7hBt1VbpEuiD1eQqOsixhbWb7R6/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true">Hoja de Cálculo Matriz de Peligros</b>
                   
                   </td>
                    <td> 01/01/2024
                     <br><br>01/01/2024
-                    <br><br>01/01/2024
+                    <br><br>18/07/2024
                   </td>
                 </tr>
                 <tr>
@@ -985,10 +985,11 @@ footer {
                  <td> <h6>Dotaciones</h6></td>
                  <td>  
                   
-                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/1qwCk3XtOUWgHqBRl5JP3VhvtdBqr_QaV/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Limpieza y desinfección de torres
+                  
                 
                 </td>
-                 <td> --</td>
+                 <td>08/07/2024</td>
               </tr>
               <tr>
                 <th scope="row">3</th>
@@ -1045,10 +1046,10 @@ footer {
                  <td> <h6>Dotaciones</h6></td>
                  <td>  
                   
-                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/1Y_iy9fgmvb5uQZCIJtStJDfOaAtiaJal/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                 <td> --</td>
+                 <td>08/07/2024</td>
               </tr>
               <tr>
                 <th scope="row">3</th>

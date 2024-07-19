@@ -515,7 +515,7 @@ footer {
                 </tr>
                 <tr>
                   <th scope="row">2</th>
-                   <td> <h6>2.2.1 Objetivo</h6></td>
+                   <td> <h6>2.2.1 Objetivos</h6></td>
                    <td>  
                     
                     <a    href="https://drive.google.com/file/d/1Q850vtajvXu1ziziNXzhRrOMBIF3Fz-d/view?usp=sharing"target="_blank"> <i class="bi bi-file-earmark-bar-graph-fill"></i></a><br>Documento
@@ -619,11 +619,12 @@ footer {
                     
                     <a    href="https://drive.google.com/file/d/1bPOCQT5IYRo_GNwuciZ4PnMO2EWjFiMW/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Decreto 2090 de 2003 <br> 
                     
-                    <a    href="" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
+                    <a    href="https://docs.google.com/spreadsheets/d/14mm69k2Vg5dPAWCsi1GlLF-bfrG58Y_m/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Matriz de Peligros</b>
                   
                   </td>
                    <td> 01/01/2024 
                     <br><br>01/05/2024
+                    <br><br>18/07/2024
                   </td>
                 </tr>
                 <tr>
