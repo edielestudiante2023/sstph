@@ -515,7 +515,7 @@ footer {
                 </tr>
                 <tr>
                   <th scope="row">2</th>
-                   <td> <h6>2.2.1 Objetivo</h6></td>
+                   <td> <h6>2.2.1 Objetivos</h6></td>
                    <td>  
                     
                     <a  href="https://docs.google.com/document/d/1N3cYVTsREpihQrgm8gn26zqtsartmzsy/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true"target="_blank"> <i class="bi bi-file-earmark-bar-graph-fill"></i></a><br>Documento

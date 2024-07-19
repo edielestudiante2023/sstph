@@ -513,7 +513,7 @@ footer {
                     </td>
                 </tr>
                   <th scope="row">2</th>
-                   <td> <h6>2.2.1 Objetivo</h6></td>
+                   <td> <h6>2.2.1 Objetivos</h6></td>
                    <td>  
                     
                     <a  href="https://docs.google.com/document/d/1dYd0A0QALwxFQvq7ZyuBWyxD1hwlPToR/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true"target="_blank"> <i class="bi bi-file-earmark-bar-graph-fill"></i></a><br>Documento
@@ -617,12 +617,12 @@ footer {
                     
                     <a  href="https://docs.google.com/document/d/1KBzh8TlfhC-0MgRrg-yY6fwyilwWNjuR/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Decreto 2090 de 2003 <br> 
                     
-                    <a  href="https://docs.google.com/spreadsheets/d/19cbRm5bOYv7RNQQkp-_I_5G6tJy-Izwc/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
+                    <a  href="https://docs.google.com/spreadsheets/d/1JPBmytEYsAEhKeLR91bdeJptw0QIt9sT/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Matriz de Peligros</b>
                   
                   </td>
                    <td> 01/04/2024
                     <br><br>01/04/2024
-                    <br><br>01/04/2024
+                    <br><br>18/07/2024
                   </td>
                 </tr>
                 <tr>

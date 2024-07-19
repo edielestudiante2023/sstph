@@ -514,7 +514,7 @@ footer {
                 </tr>
                 <tr>
                   <th scope="row">2</th>
-                  <td><h6>2.2.1 Objetivo</h6></td>
+                  <td><h6>2.2.1 Objetivos</h6></td>
                   <td> 
                     
                     <a href="#"target="_blank"> <i class="bi bi-file-earmark-bar-graph-fill"></i></a><br>Documento
@@ -621,7 +621,7 @@ footer {
                     
                     <a href="#" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Decreto 2090 de 2003 <br> 
                     
-                    <a href="" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
+                    <a href="" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Matriz de Peligros</b>
                   
                   </td>
                   <td>-- 
@@ -1231,6 +1231,9 @@ footer {
             <h5 style="color: aquamarine;">Su contrato actual vence el (31/03/2025)</h5>
             <a href="#" target="_blank">
               <button type="button" class="btn btn-primary contrato">Acceder al contrato <i class="bi bi-arrow-right-circle-fill"></i></button>
+            </a>
+            <a href="#" target="_blank">
+              <button type="button" class="btn btn-primary contrato">Acceder al acuerdo de confidencialidad <i class="bi bi-arrow-right-circle-fill"></i></button>
             </a>
           </div>
 

@@ -514,7 +514,7 @@ footer {
                 </tr>
                 <tr>
                   <th scope="row">2</th>
-                   <td> <h6>2.2.1 Objetivo</h6></td>
+                   <td> <h6>2.2.1 Objetivos</h6></td>
                    <td>  
                     
                     <a  href="https://docs.google.com/document/d/1oj5zOSgkqZWOthbe1Z5TF9Fv57JB6F-b/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"> <i class="bi bi-file-earmark-bar-graph-fill"></i> </a> <br>Documento
@@ -620,12 +620,12 @@ footer {
                     
                     <a  href="https://docs.google.com/document/d/1yxVAahe7e_iBwzHV0Bvq1CKb9DQYhw9x/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Decreto 2090 de 2003 <br> 
                     
-                    <a  href="https://docs.google.com/spreadsheets/d/1DCBREnkWbhjzLvvSPhyC5TqnGU50IaJV/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
+                    <a  href="https://docs.google.com/spreadsheets/d/1EFmsT074wGf0dDnrV4DKfL70wJ5EEVk5/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Matriz de Peligros</b>
                   
                   </td>
                    <td> 01/03/2024
                     <br><br>01/03/2024
-                    <br><br>01/03/2024
+                    <br><br>18/07/2024
                   </td>
                 </tr>
                 <tr>
@@ -780,10 +780,10 @@ footer {
                  <td> <h6>Inspección Equipos de Comunicaciones</h6></td>
                  <td>  
                   
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/1NvysfbaW5NuGq4Dg0hV-sRAKSDB1CZUd/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                 <td> --</td>
+                 <td>17/07/2024</td>
               </tr>
               <tr>
                 <th scope="row">5</th>
@@ -837,8 +837,8 @@ footer {
                   <a  href="https://drive.google.com/file/d/16ZocgStI82GcaLFLVzDbqV_7gBzL9m2t/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="https://drive.google.com/file/d/1oebNGcdccSeM0s60Equ2yj94IiqvsJSh/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="https://drive.google.com/file/d/14Tf1iLgIFOhAJb2R7ms_kKLT87Q0heYf/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="https://drive.google.com/file/d/1YKPLipwYSE297_WjlDgy5x4p4IyAxNQ7/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <!-- <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -851,14 +851,14 @@ footer {
                   <br><br>11/04/2024
                   <br><br>31/05/2024
                   <br><br>22/06/2024
+                  <br><br>17/07/2024
                   <!-- <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
-                  <br><br>-- -->
-                  
+ -->                  
                 </td>
               </tr>
               <tr>

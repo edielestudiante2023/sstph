@@ -515,7 +515,7 @@ footer {
                 </tr>
                 <tr>
                   <th scope="row">2</th>
-                   <td> <h6>2.2.1 Objetivo</h6></td>
+                   <td> <h6>2.2.1 Objetivos</h6></td>
                    <td>  
                     
                     <a  href="https://docs.google.com/document/d/1rt-MDEMarwMcF92oSFWJ-SgDVrYoP0Cx/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true"target="_blank"> <i class="bi bi-file-earmark-bar-graph-fill"></i></a><br>Documento
@@ -619,12 +619,12 @@ footer {
                     
                     <a  href="https://docs.google.com/document/d/1y7--AUfsUsHybzOdMpCFkMxzvTbjECxT/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Decreto 2090 de 2003 <br> 
                     
-                    <a  href="https://docs.google.com/spreadsheets/d/1VY5Zfu4Q2THJf2kxwsBbPipneXoDTxI5/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
+                    <a  href="https://docs.google.com/spreadsheets/d/1bvbFOC4nNhuYj3smQPaw3uCXVnhCPHLt/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Matriz de Peligros</b>
                   
                   </td>
                    <td> 01/01/2024
                     <br><br>01/01/2024
-                    <br><br>01/01/2024
+                    <br><br>18/07/2024
                   </td>
                 </tr>
                 <tr>
@@ -834,8 +834,8 @@ footer {
                   <a  href="https://drive.google.com/file/d/1mt7SRRxyqRTVm6feCWOjV7JxXRbzbHt6/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="https://drive.google.com/file/d/18d_OTiKEjo8mR1T7VEXh8ZAs0pymUeJ7/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="https://drive.google.com/file/d/1ix0B2c8frAjzJApgoWAEup4gpRojBaMN/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="https://drive.google.com/file/d/1JgR0lQ6n0x8MLCdJY2EbU_wHDY47Xkym/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <!-- <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -848,8 +848,8 @@ footer {
                   <br><br>23/03/2024
                   <br><br>10/04/2024
                   <br><br>17/05/2024
+                  <br><br>17/07/2024
                   <!-- <br><br>--
-                  <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
@@ -865,20 +865,20 @@ footer {
                   
                   <a  href="https://drive.google.com/file/d/1B0M3oDtpAuZvJZ-qsrMLrVn8aqK0X8Us/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="https://drive.google.com/file/d/1obP1vW97MmjZb7_SEdKoqj2w0zh8-oBR/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Certificado Curso 50 Horas - Laura Valentina Caseres Castro <br>
+                  <a  href="https://drive.google.com/file/d/1RRBt-2cNd4C-hIaJyiBiTdoGv3_SAeL6/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Peligro biomecánico - pausas activas - posturas - manejo de cargas - movimientos repetitivos - lesiones y enfermedades <br>
+                  <a  href="https://drive.google.com/file/d/1CYYeEttUn_82XYOuwRUJnf5EBMbUy5rB/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Peligro químico - almacenamiento - manipulación - etiquetas - hoja de seguridad - EPPs -<br>
                   <!-- <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br> -->
-                
+                 -->
                 
                 </td>
                  <td> 06/03/2024
                   <br><br>05/07/2024
+                  <br><br>11/07/2024
+                  <br><br>11/07/2024
                   <!-- <br><br>--
-                  <br><br>--
-                  <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>-- -->
@@ -979,10 +979,10 @@ footer {
                  <td> <h6>Dotaciones</h6></td>
                  <td>  
                   
-                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/1GhXmilbX_5QNr3H87L-jinbUGUiIh9fd/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                 <td> --</td>
+                 <td>17/07/2024</td>
               </tr>
               <tr>
                 <th scope="row">3</th>
@@ -1195,9 +1195,13 @@ footer {
                  <td>  
                   
                   <a  href="https://docs.google.com/spreadsheets/d/1OA9WMOySvvxBvj0b9tjPaYf8l6MDV6wF/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
+                  <br>
+                  <a  href="https://drive.google.com/file/d/1YO0vFOyXLs2i4yUnuMaRbniWAz6I82mH/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Desinsectacion areas en general 3 de abril de 2024
                 
                 </td>
-                 <td> 01/01/2024</td>
+                 <td> 01/01/2024
+                  <br><br>18/07/2024
+                 </td>
               </tr>
               <tr>
                 <th scope="row">5</th>

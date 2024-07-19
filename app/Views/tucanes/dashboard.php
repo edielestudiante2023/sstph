@@ -541,7 +541,7 @@
           <tr>
             <th scope="row">2</th>
             <td>
-              <h6>2.2.1 Objetivo</h6>
+              <h6>2.2.1 Objetivos</h6>
             </td>
             <td>
 
@@ -656,13 +656,15 @@
             </td>
             <td>
 
-              <a href="https://drive.google.com/file/d/1MXywkHhFQ0otJZiuXGYpy12O7jfgkk3x/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Reg. Higiene y Seg-Ind. <br> <a href="https://drive.google.com/file/d/1a-m2p2gDF7aLy3HWTbY-CemD27pgfwm2/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Decreto 2090 de 2003 <br>
+              <a href="https://drive.google.com/file/d/1MXywkHhFQ0otJZiuXGYpy12O7jfgkk3x/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Reg. Higiene y Seg-Ind. <br> 
+              <a href="https://drive.google.com/file/d/1a-m2p2gDF7aLy3HWTbY-CemD27pgfwm2/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Decreto 2090 de 2003 <br>
 
-              <a href="" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
+              <a href="https://docs.google.com/spreadsheets/d/1De6-fBImQh2pQl9_D60-MpBaDO4NrFbU/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Matriz de Peligros</b>
 
             </td>
             <td> 05/04/2024
               <br><br>05/04/2024
+              <br><br>18/07/2024
             </td>
           </tr>
           <tr>
