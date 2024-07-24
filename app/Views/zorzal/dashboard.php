@@ -440,7 +440,7 @@ footer {
                      <td> <h6>1.1.6 Elección de Vigía</h6></td>
                      <td>  
 
-                      <a   href="https://drive.google.com/file/d/1gFXvawvnhxr8-lOTI7ipUj4JQhAhOkBQ/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                      <a   href="https://drive.google.com/file/d/1wRqQAZ8FpNN6-dJh4Hl8TSDa7N-zm59I/view?usp=sharing"> </i></a></i><br>Documento
                     
                     </td>
                      <td> 01/05/2024</td>
@@ -834,8 +834,8 @@ footer {
                   <a   href="https://drive.google.com/file/d/1B6yauFyR2oINwlwAO7MA0M6fUim-Cy4Y/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="https://drive.google.com/file/d/1VZPXNGNKhoDPrnOXhmnh2HpulD8YyWnu/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="https://drive.google.com/file/d/1SKjvv2SfdULQkbfMTqCSQyONSI5cILsL/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a   href="https://drive.google.com/file/d/1MtO-u3uGc2VLNHlsJOO1cMV6-Uj7LMXT/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <!-- <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -848,8 +848,8 @@ footer {
                   <br><br>23/04/2024
                   <br><br>14/05/2024
                   <br><br>25/06/2024
+                  <br><br>23/07/2024
                   <!-- <br><br>--
-                  <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
@@ -978,10 +978,10 @@ footer {
                  <td> <h6>Dotaciones</h6></td>
                  <td>  
                   
-                  <a   href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a   href="https://drive.google.com/file/d/1l4CEU2kSPHTo-pzM9lG-QlxFoiL3QILd/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                 <td> --</td>
+                 <td>23/07/2024</td>
               </tr>
               <tr>
                 <th scope="row">3</th>
