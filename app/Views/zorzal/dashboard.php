@@ -440,7 +440,7 @@ footer {
                      <td> <h6>1.1.6 Elección de Vigía</h6></td>
                      <td>  
 
-                      <a   href="https://drive.google.com/file/d/1wRqQAZ8FpNN6-dJh4Hl8TSDa7N-zm59I/view?usp=sharing"> </i></a></i><br>Documento
+                      <a   href="https://drive.google.com/file/d/1wRqQAZ8FpNN6-dJh4Hl8TSDa7N-zm59I/view?usp=sharing"> target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                     
                     </td>
                      <td> 01/05/2024</td>
