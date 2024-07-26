@@ -263,7 +263,7 @@ footer {
                 <a class="nav-link active" aria-current="page"  href="https://cycloidtalent.com/index.php/sg-sst-propiedad-horizontal" target="_blank">Cycloid Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link"  href="XXXXX" target="blank">Indicadores SST</a>
+                <a class="nav-link"  href="https://lookerstudio.google.com/reporting/2e6d43bf-980c-49f3-b8b0-9201d711da7a" target="blank">Indicadores SST</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link"  href="https://wa.me/573132123799" target="_blank">Escríbenos por WhatsApp</a>
@@ -376,7 +376,7 @@ footer {
     <!-- SECCIÓN DE IMAGEN A LOOKER STUDIO -->
     <section>
         <div class="hero-inferior">
-          <a  href="XXXXX" target="_blank">
+          <a  href="https://lookerstudio.google.com/reporting/2e6d43bf-980c-49f3-b8b0-9201d711da7a" target="_blank">
             <img class="hero-inferior-imagen img-fluid" src="imagenes/indicadores.PNG" alt="kpi">
           </a>
 
