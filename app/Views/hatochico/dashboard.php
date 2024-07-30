@@ -757,30 +757,36 @@ footer {
                  <td> <h6>Inspección Extintores</h6></td>
                  <td>  
                   
-                  <a   href="https://drive.google.com/file/d/1neY1YcoAoeHeKvqeREQYJ4Nf8D_ShKH3/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a   href="https://drive.google.com/file/d/1neY1YcoAoeHeKvqeREQYJ4Nf8D_ShKH3/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a   href="https://drive.google.com/file/d/18uYxgXfmLpn1-s5c-7OecF_DyhKtLz8F/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento 
                 
                 </td>
-                 <td> 11/03/2024</td>
+                 <td> 11/03/2024
+                  <br><br>29/07/2024
+                 </td>
               </tr>
               <tr>
                 <th scope="row">3</th>
                  <td> <h6>Inspección Botiquines</h6></td>
                  <td>  
                   
-                  <a   href="https://drive.google.com/file/d/1MUmFdDA6R8NQkO90N4F2iwN3s44sY6Hn/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a   href="https://drive.google.com/file/d/1MUmFdDA6R8NQkO90N4F2iwN3s44sY6Hn/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a   href="https://drive.google.com/file/d/1i8telCcaAHlk6mRIVnI5qcAN-OZDE2Bu/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento 
                 
                 </td>
-                 <td> 12/04/2024</td>
+                 <td> 12/04/2024
+                  <br><br>29/07/2024
+                 </td>
               </tr>
               <tr>
                 <th scope="row">4</th>
                  <td> <h6>Inspección Equipos de Comunicaciones</h6></td>
                  <td>  
                   
-                  <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a   href="https://drive.google.com/file/d/1bi2adcIhkcw3Q1VStIJ5KbjGarzScR0H/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                 <td> --</td>
+                 <td>29/07/2024</td>
               </tr>
               <tr>
                 <th scope="row">5</th>
@@ -797,10 +803,10 @@ footer {
                  <td> <h6>Inspección Recursos para la Seguridad</h6></td>
                  <td>  
                   
-                  <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a   href="https://drive.google.com/file/d/1V4UYLUMzJLAIcm7CprMa5rzjYtNmt6se/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                 <td> --</td>
+                 <td>29/07/2024</td>
               </tr>
               
               
@@ -833,8 +839,8 @@ footer {
                   <a   href="https://drive.google.com/file/d/1Qd19kmVPhfLMz2aNjLz0brwlXWQV0jQq/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="https://drive.google.com/file/d/1kZZ2ixQ-XuwomruBU0U0R-thLOpy6Byh/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="https://drive.google.com/file/d/1K1ITJ8vQ1s_GKS2iiG6ReOKlJD_UfCoY/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a   href="https://drive.google.com/file/d/16M6rVULIXNhla8zLoeD0zyajH4VaVfGT/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <!-- <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -847,8 +853,8 @@ footer {
                   <br><br>11/03/2024
                   <br><br>12/04/2024
                   <br><br>19/06/2024
+                  <br><br>29/07/2024
                   <!-- <br><br>--
-                  <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
@@ -1039,10 +1045,10 @@ footer {
                  <td> <h6>Dotaciones</h6></td>
                  <td>  
                   
-                  <a   href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a   href="https://drive.google.com/file/d/1_JfKvChNPeOAvlRC4-4dM5cXPTOGZTwL/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                 <td> --</td>
+                 <td>29/07/2024</td>
               </tr>
               <tr>
                 <th scope="row">3</th>
