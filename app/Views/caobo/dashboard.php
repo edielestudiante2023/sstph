@@ -871,8 +871,8 @@ footer {
                   
                   <a  href="https://drive.google.com/file/d/1rxTbjNkKJemKpZjGnaTbCEHqz-5zxxAO/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="https://drive.google.com/file/d/1zN-5jlBYd-7O-sMXSNGwj-L_d9Igd2cM/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Peligro Biomecánico - Pausas Activas, Manejo De Cargas, Posturas, Movimiento Repetitivo, Lesiones, Enfermedades <br>
+                  <a  href="https://drive.google.com/file/d/1v3rbOYULp5MN4lq_flr8f9Z_5TfowEG2/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Curso de 50 horas Administradora <br>
                   <!-- <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -882,8 +882,8 @@ footer {
                 </td>
                  <td> 08/02/2024
                   <br><br>26/06/2024
+                  <br><br>31/07/2024
                   <!-- <br><br>--
-                  <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
@@ -913,8 +913,8 @@ footer {
                   <a  href="https://drive.google.com/file/d/1nPERkwJSZJMVk_mT_NYaDwe1XH_tlfXz/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="https://drive.google.com/file/d/1ZyIHCQ4f6F80qis2hfIYyyE3Rkit6wJK/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="https://drive.google.com/file/d/1YgcHDHpE2rlv-w99P2bqMpYixokJ-i-P/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="https://drive.google.com/file/d/1jF8q3HoC3jpB9s4G9GUdLNiaR-o1JlIz/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <!-- <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -927,8 +927,8 @@ footer {
                   <br><br>30/04/2024
                   <br><br>31/05/2024
                   <br><br>30/06/2024
+                  <br><br>31/07/2024
                   <!-- <br><br>--
-                  <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--

@@ -759,20 +759,20 @@ footer {
                 <td><h6>Inspección Extintores</h6></td>
                 <td> 
                   
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a href="https://drive.google.com/file/d/1pBjA3rnRFqamBO2nV5-njoKXkV0t_hyu/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>--</td>
+                <td>30/07/2024</td>
               </tr>
               <tr>
                 <th scope="row">3</th>
                 <td><h6>Inspección Botiquines</h6></td>
                 <td> 
                   
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a href="https://drive.google.com/file/d/1X8TgHEvyQgTpfmgs58qzSu6BBFJTjETS/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>--</td>
+                <td>30/07/2024</td>
               </tr>
               <tr>
                 <th scope="row">4</th>
@@ -865,7 +865,7 @@ footer {
                 <td><h6>Capacitaciones</h6></td>
                 <td> 
                   
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a href="https://drive.google.com/file/d/1B2u2pv9vU4EejuovXhcuGr8hFc26Zx5B/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Inducción SG-SST <br>
                <!--    <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -876,7 +876,7 @@ footer {
                 
                 
                 </td>
-                <td>--
+                <td>30/07/2024
                   <!-- <br><br>--
                   <br><br>--
                   <br><br>--
@@ -981,10 +981,10 @@ footer {
                 <td><h6>Dotaciones</h6></td>
                 <td> 
                   
-                  <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a href="https://drive.google.com/file/d/1I5ulgeBzgHf1I0yBcsa3Etem6RTJu3vI/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Dotación Aseadoras
                 
                 </td>
-                <td>--</td>
+                <td>30/07/2024</td>
               </tr>
               <tr>
                 <th scope="row">3</th>

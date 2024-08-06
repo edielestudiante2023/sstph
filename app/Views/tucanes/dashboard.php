@@ -941,6 +941,8 @@
               <a href="https://drive.google.com/file/d/18L0fJ-z9V5VrfwcSCEj0Mpb4lBAh-H9w/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
               <a href="https://drive.google.com/file/d/1fz5t_t6CdpNmtHYISqZWpqksPnDBKxZO/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Peligro Biomecánico, Pausas Activas, Manejo De Carga, Movimiento Repetitivo, Lesiones Y Enfermedades. <br>
               <a href="https://drive.google.com/file/d/1Ut__OkOw2axkyPev9aYpjPnGu6Nu8ESh/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Peligro Químico, Manejo, Almacenamiento, Etiquetas, Hojas De Seguridad Y Elementos De Protección Personal. <br>
+              <a href="https://drive.google.com/file/d/1hQBXl3eQ892MQ73C7hUkc4xpgPqiEs_5/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Curso de 50 horas Esperanza Mesa - Administradora<br>
+                  <a href="https://drive.google.com/file/d/1yoymsn5zKEDDeChlWBb7VCrtliEjXv9r/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Curso de 50 horas Angiie Roa - Vigia SST <br>
               <!-- <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br> -->
 
 
@@ -949,6 +951,8 @@
               <br><br>04/04/2024
               <br><br>26/06/2024
               <br><br>26/06/2024
+              <br><br>31/07/2024
+              <br><br>31/07/2024
               <!--  -->
             </td>
           </tr>
@@ -978,8 +982,8 @@
               <a href="https://drive.google.com/file/d/1P1G-ewbgw4e5OYocaBKm4eLwGyLbSTvK/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
               <a href="https://drive.google.com/file/d/19--54KX9MPfv_xwIGKKX2lkpjPJZIvel/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
               <a  href="https://drive.google.com/file/d/1p-kcK2vIaCWEVi7afCUBWU4feprHuHGu/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+              <a  href="https://drive.google.com/file/d/1y9D6cauFRSAooG6zNPrHFI8lrrptMgf4/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
               <!-- <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-              <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
               <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
               <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
               <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br> -->
@@ -991,8 +995,8 @@
               <br><br>30/04/2024
               <br><br>31/05/2024
               <br><br>30/06/2024
+              <br><br>31/07/2024
               <!-- <br><br>--
-              <br><br>--
               <br><br>--
               <br><br>--
               <br><br>--

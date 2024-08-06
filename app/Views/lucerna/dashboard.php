@@ -868,19 +868,19 @@ footer {
                  <td>  
                   
                   <a     href="https://drive.google.com/file/d/1hgrBSYBpjquxEObfvODhNDSq3pYV0sPJ/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a     href="https://drive.google.com/file/d/1AMmN8TlWqXfomkPnelubB9DB4Haqk2Yy/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Riesgo Biomecánico - Manejo de Cargas <br>
                   <!-- <a     href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a     href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a     href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a     href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a     href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a     href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a     href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br> -->
-                
+                 -->
                 
                 </td>
                  <td> 06/02/2024
+                  <br><br>02/08/2024
                   <!-- <br><br>--
-                  <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
@@ -911,8 +911,8 @@ footer {
                   <a     href="https://drive.google.com/file/d/1z1FcyqkQVWtsOVS_x_k-9Mcp4UrIjR9o/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a     href="https://drive.google.com/file/d/1arNXr3i5JeKQrHzRLK0IzY7G6XCjmj2r/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a     href="https://drive.google.com/file/d/1LzSlxrQY0HfHJXpQerYX9FhAc_C_Ykyv/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a     href="https://drive.google.com/file/d/1ljBpQ0J6uE797jbcS9_AogN1ZFLnWtP0/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <!-- <a     href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a     href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a     href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a     href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a     href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -925,8 +925,8 @@ footer {
                   <br><br>30/04/2024
                   <br><br>31/05/2024
                   <br><br>30/06/2024
+                  <br><br>31/07/2024
                   <!-- <br><br>--
-                  <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--

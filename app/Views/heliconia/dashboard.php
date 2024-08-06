@@ -866,6 +866,8 @@ footer {
                   <a    href="https://drive.google.com/file/d/1hdkWeFrT6hNYXoij9VArvfR-2rWnp8iR/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a    href="https://drive.google.com/file/d/1bnp1jU7D43Kgpx4EjEd47PDUInlsXoJx/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a    href="https://drive.google.com/file/d/1te1HbRdzMLCog7owFZzz2iYbAyDEvhrD/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Peligro biomecánico - pausas activas, manejo de cargas, posturas, lesiones y enfermedades <br>
+                  <a href="https://drive.google.com/file/d/1hQBXl3eQ892MQ73C7hUkc4xpgPqiEs_5/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Curso de 50 horas Esperanza Mesa - Administradora<br>
+                  <a href="https://drive.google.com/file/d/1yoymsn5zKEDDeChlWBb7VCrtliEjXv9r/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Curso de 50 horas Angiie Roa - Vigia SST <br>
                   <!-- <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -877,6 +879,8 @@ footer {
                  <td> 01/01/2024
                   <br><br>29/02/2024
                   <br><br>04/07/2024
+                  <br><br>31/07/2024
+                  <br><br>31/07/2024
                   <!-- <br><br>--
                   <br><br>--
                   <br><br>--
@@ -907,8 +911,8 @@ footer {
                   <a    href="https://drive.google.com/file/d/1ldqNN8atVq5pwcV79XQhXJhIpe_95iI7/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a    href="https://drive.google.com/file/d/178TFK6wZRJ_3uPX0eRHawTvpZT9P7GGR/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a    href="https://drive.google.com/file/d/1-tK7Vx5cDaOUukUl5asMd-AhO7RGT7Ul/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a    href="https://drive.google.com/file/d/1xw1KmegYIHJlHstEJVsU7-0yrN8iQBOm/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <!-- <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -921,8 +925,8 @@ footer {
                   <br><br>30/04/2024
                   <br><br>31/05/2024
                   <br><br>30/06/2024
+                  <br><br>31/07/2024
                   <!-- <br><br>--
-                  <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
@@ -979,10 +983,13 @@ footer {
                  <td> <h6>Dotaciones</h6></td>
                  <td>  
                   
-                  <a    href="https://drive.google.com/file/d/1kjHDp5KObDfO1gb2OM-CXz0en3CUAViz/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                 <a    href="https://drive.google.com/file/d/10ZAVWbmFnMRMQXTfZXAsXbEtPovsArmC/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Dotación Aseadoras <br>
+                 <a    href="https://drive.google.com/file/d/1hI48z8e_cNAzzppbHOG_9pqzqLm2djnu/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Dotación Todero <br>
                 
                 </td>
-                 <td>25/07/2024</td>
+                 <td>25/07/2024
+                  <br><br>25/07/2024
+                 </td>
               </tr>
               <tr>
                 <th scope="row">3</th>
@@ -1039,10 +1046,10 @@ footer {
                  <td> <h6>Dotaciones</h6></td>
                  <td>  
                   
-                  <a    href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a    href="https://drive.google.com/file/d/1FIDitv2xv67OBhtu2DHvzmvBRKTQKzVu/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Dotación Vigilante
                 
                 </td>
-                 <td> --</td>
+                 <td>25/07/2024</td>
               </tr>
               <tr>
                 <th scope="row">3</th>
