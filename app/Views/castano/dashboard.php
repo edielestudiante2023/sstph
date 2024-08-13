@@ -836,8 +836,8 @@ footer {
                   <a  href="https://drive.google.com/file/d/1WVwZLP5h1UqpBJ2yqcDNHIo1jhPrt5lh/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="https://drive.google.com/file/d/1WVwZLP5h1UqpBJ2yqcDNHIo1jhPrt5lh/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="https://drive.google.com/file/d/1nfLTx84ytpKPTw93hJ9gaht29YKpaF6b/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="https://drive.google.com/file/d/1zUBrLH_JDIcKTBQnSmvpjzQ29nDpEjxR/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <!-- <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br> -->
@@ -850,8 +850,8 @@ footer {
                   <br><br>16/05/2024
                   <br><br>31/05/2024
                   <br><br>03/07/2024
+                  <br><br>08/08/2024
                   <!-- <br><br>--
-                  <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>-- -->
@@ -866,6 +866,7 @@ footer {
                   <a  href="https://drive.google.com/file/d/14B0bTMuuoXF_sAkuKiT-FsowV4QdL4zx/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="https://drive.google.com/file/d/1T4ClNaefPKWvyuO73VIK1mWFNwiDnc3l/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Peligro biomecánico - pausas activas - manejo de cargas.<br>
                   <a  href="https://drive.google.com/file/d/16Nan_fXXqlD4MwULiqKWlt5SPSjQQrq4/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Peligro químico - uso, almacenamiento y elementos de protección personal. <br>
+                  <a href="https://drive.google.com/file/d/1v3rbOYULp5MN4lq_flr8f9Z_5TfowEG2/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Curso de 50 horas Administradora <br>
                   <!-- <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -877,6 +878,7 @@ footer {
                  <td> 19/02/2024
                   <br><br>20/06/2024
                   <br><br>20/06/2024
+                  <br><br>31/07/2024
                   <!-- <br><br>--
                   <br><br>--
                   <br><br>--
@@ -979,10 +981,13 @@ footer {
                  <td> <h6>Dotaciones</h6></td>
                  <td>  
                   
-                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/1HwYQxWF-j4f5f16l5iBrkj1J-mm1gcdO/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>DOTACION TODERO - Intercolombiana de servicios sas <br><br>
+                  <a  href="https://drive.google.com/file/d/1Db0JvKbs58jUR9fueBg4NQfxv14HG1Nu/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>DOTACION ASEADORAS - Intercolombiana de servicioa sas <br><br>
                 
                 </td>
-                 <td> --</td>
+                 <td>08/08/2024
+                  <br><br>08/08/2024
+                 </td>
               </tr>
               <tr>
                 <th scope="row">3</th>
@@ -1039,10 +1044,10 @@ footer {
                  <td> <h6>Dotaciones</h6></td>
                  <td>  
                   
-                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/19gB8g01rPKRJcD9EERglrT-psuI0_3GM/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>DOTACION VIGILANTES - Intercolserin LTDA 
                 
                 </td>
-                 <td> --</td>
+                 <td>08/08/2024</td>
               </tr>
               <tr>
                 <th scope="row">3</th>

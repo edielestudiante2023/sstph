@@ -771,10 +771,13 @@ footer {
                  <td> <h6>Inspección Botiquines</h6></td>
                  <td>  
                   
-                  <a     href="https://drive.google.com/file/d/1PvA8H1EU2Am5hE08WfrUdQvgBhb4IjJd/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a     href="https://drive.google.com/file/d/1PvA8H1EU2Am5hE08WfrUdQvgBhb4IjJd/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br><br>
+                  <a     href="https://drive.google.com/file/d/108Q21-Sdfd44OUrHpkOaCHUunGkwpXk0/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br><br>
                 
                 </td>
-                 <td> 08/04/2024</td>
+                 <td> 08/04/2024
+                  <br><br>12/08/2024
+                 </td>
               </tr>
               <tr>
                 <th scope="row">4</th>
@@ -839,8 +842,8 @@ footer {
                   <a     href="https://drive.google.com/file/d/1GMd_TIbk96z_HLUHsb-YIi_uISsNOlUH/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a     href="https://drive.google.com/file/d/1RBsd5I8k_EgQVWu15OoqsntTHvhlTz8p/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a     href="https://drive.google.com/file/d/1b9GVbAC7mip3tcQVQDyUQ2N_vQr54fGn/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a     href="https://drive.google.com/file/d/1YPiFqV43PRb36F9KB-i4uXsp7m-b9Dqc/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <!-- <a     href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a     href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a     href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a     href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a     href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -853,8 +856,8 @@ footer {
                   <br><br>31/05/2024
                   <br><br>21/06/2024
                   <br><br>08/07/2024
+                  <br><br>12/08/2024
                   <!-- <br><br>--
-                  <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
@@ -869,19 +872,21 @@ footer {
                   
                   <a     href="https://drive.google.com/file/d/1hgrBSYBpjquxEObfvODhNDSq3pYV0sPJ/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a     href="https://drive.google.com/file/d/1AMmN8TlWqXfomkPnelubB9DB4Haqk2Yy/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Riesgo Biomecánico - Manejo de Cargas <br>
+                  <a     href="https://drive.google.com/file/d/1Kqx0YkIHNg2dDZP2ckQ0Y7Bo3LwtehJg/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Certificado Curso 50 Horas - Edita Sanbria <br>
+                  <a     href="https://drive.google.com/file/d/1EkjfruJxyNonfwlNUtf_mIWdpXcEcLq_/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Certificado 50 Horas ASTRID LILIANA AREVALO CORTES<br>
                   <!-- <a     href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a     href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a     href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a     href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a     href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a     href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                 -->
+                  <a     href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br> -->
+                
                 
                 </td>
                  <td> 06/02/2024
                   <br><br>02/08/2024
+                  <br><br><br>13/08/2024
+                  <br><br><br>13/08/2024
                   <!-- <br><br>--
-                  <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
@@ -1202,20 +1207,27 @@ footer {
                  <td> <h6>Manejo de Plagas</h6></td>
                  <td>  
                   
-                  <a     href="https://docs.google.com/spreadsheets/d/1TrwGHhF_7drLuKQnZjO0PkWXnaWy2Pd3/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
+                  <a     href="https://docs.google.com/spreadsheets/d/1TrwGHhF_7drLuKQnZjO0PkWXnaWy2Pd3/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b> <br>
+                  <a     href="https://drive.google.com/file/d/16qfsvaY7QRuc810K6VoaZJUkkmjNjBHO/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>CONTROL DE PLAGAS 20240724
                 
                 </td>
-                 <td> 01/02/2024</td>
+                 <td> 01/02/2024
+                  <br><br> 13/08/2024
+                 </td>
               </tr>
               <tr>
                 <th scope="row">5</th>
                  <td> <h6>Agua Potable</h6></td>
                  <td>  
                   
-                  <a     href="https://docs.google.com/spreadsheets/d/1GgJSNRhYuJIZLm-CK2rlQB60jiNvh-66/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
+                  <a     href="https://docs.google.com/spreadsheets/d/1GgJSNRhYuJIZLm-CK2rlQB60jiNvh-66/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b> <br>
+
+                  <a     href="https://drive.google.com/file/d/1OZYPS7o15owp8onAff24oxIq9tLZp-yw/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>LAVADO DE TANQUES 20240724
                 
                 </td>
-                 <td> 01/02/2024</td>
+                 <td> 01/02/2024
+                  <br><br>13/08/2024
+                 </td>
               </tr>
              
   

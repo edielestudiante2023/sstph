@@ -27,11 +27,11 @@ class UserSeeder extends Seeder
 			// 	"password" => password_hash("900873512", PASSWORD_DEFAULT)
 			// ],
 			[
-				"name" => "EL ENCANTO IV CONJUNTO RESIDENCIAL",
-				"email" => "cr.elencantoiv@gmail.com",
-				"phone_no" => "3235225206",
-				"role" => "encanto4",
-				"password" => password_hash("901620555", PASSWORD_DEFAULT)
+				"name" => "CONJUNTO RESIDENCIAL EL HUERTO",
+				"email" => "elhuerto.admon@gmail.com",
+				"phone_no" => "3176425219",
+				"role" => "huerto",
+				"password" => password_hash("901435598", PASSWORD_DEFAULT)
 			]
 		]);
 	}
