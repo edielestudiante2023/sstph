@@ -102,8 +102,8 @@ $routes->group("encanto4", ["filter" => "auth"], function ($routes) {
     $routes->get("/", "Encanto4Controller::index");
 });
 
-$routes->group("xxxxx", ["filter" => "auth"], function ($routes) {
-    $routes->get("/", "xxxxxController::index");
+$routes->group("huerto", ["filter" => "auth"], function ($routes) {
+    $routes->get("/", "HuertoController::index");
 });
 
 $routes->group("xxxxx", ["filter" => "auth"], function ($routes) {
