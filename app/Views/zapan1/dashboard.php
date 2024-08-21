@@ -366,7 +366,7 @@ footer {
                             <a href="#saneamiento" class="flotartextofila list-group-item list-group-item-action">Manejo de Plagas</a>
                             <a href="#saneamiento" class="flotartextofila list-group-item list-group-item-action">Agua Potable</a>
                             <a href="#saneamiento" class="flotartextofila list-group-item list-group-item-action">Manejo de Residuos</a>
-                            <a href="#saneamiento" class="flotartextofila list-group-item list-group-item-action">Shuts de Basuras</a>
+                            <a href="#saneamiento" class="flotartextofila list-group-item list-group-item-action">Auditoría Depósito de Basuras</a>
                           </ol>
 
                     </div>
@@ -784,10 +784,10 @@ footer {
                 <td><h6>Inspección Equipos de Comunicaciones</h6></td>
                 <td> 
                   
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a href="https://drive.google.com/file/d/18qkUC-kUml88haZ3ap-O_MJ1mliFj0Zw/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>--</td>
+                <td>15/08/2024</td>
               </tr>
               <tr>
                 <th scope="row">5</th>
@@ -838,8 +838,8 @@ footer {
                   
                   <a href="https://drive.google.com/file/d/1OoRqmMSSqacyBMccHrj-BnFL7VPemZ5V/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="https://drive.google.com/file/d/1VNRGmy_qZmNe-YLi-iJIHSFQvRlTaiDH/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a href="https://drive.google.com/file/d/1Jqj2rELxTfCoxT5K5yQk6DS6pSPYa-hc/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <!-- <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -852,8 +852,8 @@ footer {
                 </td> 
                 <td> 06/03/2024
                   <br><br>17/06/2024
+                  <br><br>15/08/2024
                   <!-- <br><br>--
-                  <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
@@ -986,10 +986,13 @@ footer {
                 <td><h6>Dotaciones</h6></td>
                 <td> 
                   
-                  <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a href="https://drive.google.com/file/d/1v1_GDJYsKb4xX_EubhEUh84kXA5-nKIJ/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>DOTACION TODERO - PH SERVICIOS SAS <br>
+                  <a href="https://drive.google.com/file/d/1WaXlUSF338bwi_VKeDvzRZGu3JCj4oKn/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>DOTACION ASEADORAS - PH SERVICIOS SAS
                 
                 </td>
-                <td>--</td>
+                <td>20/08/2024
+                  <br><br>20/08/2024
+                </td>
               </tr>
               <tr>
                 <th scope="row">3</th>
@@ -1182,29 +1185,32 @@ footer {
                 <td> 
                   
                   <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
-                
+                  
                 </td>
                 <td>--</td>
               </tr>
               <tr>
                 <th scope="row">3</th>
-                <td><h6>Shuts de Basuras</h6></td>
+                <td><h6>Auditoría Depósito de Basuras</h6></td>
                 <td> 
                   
-                  <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
-                
+                  <a href="https://drive.google.com/file/d/1SG5ehalB9sLsgKyOQqxfj9uPfCY-Z2VA/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  
                 </td>
-                <td>--</td>
+                <td>20/08/2024</td>
               </tr>
               <tr>
                 <th scope="row">4</th>
                 <td><h6>Manejo de Plagas</h6></td>
                 <td> 
                   
-                  <a href="https://docs.google.com/spreadsheets/d/1KYm7l5fVv6Qt2cVA55cjLc2QQ15i1xaf/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
-                
+                  <a href="https://docs.google.com/spreadsheets/d/1KYm7l5fVv6Qt2cVA55cjLc2QQ15i1xaf/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b><br>
+                  
+                  <a href="https://drive.google.com/file/d/1bCQIH33Hhqo_z_kMCywXS6NMDXBIhxL_/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Desintectación y deratización 27/06/2024.
                 </td>
-                <td>01/02/2024</td>
+                <td>01/02/2024
+                  <br><br>20/08/2024
+                </td>
               </tr>
               <tr>
                 <th scope="row">5</th>

@@ -364,7 +364,7 @@ footer {
                             <a  href="#saneamiento" class="flotartextofila list-group-item list-group-item-action">Manejo de Plagas</a>
                             <a  href="#saneamiento" class="flotartextofila list-group-item list-group-item-action">Agua Potable</a>
                             <a  href="#saneamiento" class="flotartextofila list-group-item list-group-item-action">Manejo de Residuos</a>
-                            <a  href="#saneamiento" class="flotartextofila list-group-item list-group-item-action">Shuts de Basuras</a>
+                            <a  href="#saneamiento" class="flotartextofila list-group-item list-group-item-action">Auditoría Depósito de Basuras</a>
                           </ol>
 
                     </div>
@@ -830,8 +830,8 @@ footer {
                   <a  href="https://drive.google.com/file/d/1hZIu7BVQ6an4PyIs5aNWR9w1fhdQkaiA/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="https://drive.google.com/file/d/1xtMFhcB400DUFBmcVC6I-RZMnIJmyShX/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="https://drive.google.com/file/d/1T2V2qc0AJ1d86X-hAVOgB9YUtYJzDNIC/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="https://drive.google.com/file/d/1Bdz40NTxREnJuoKJjyej4fXOGpkEWcBw/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <!-- <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -844,8 +844,8 @@ footer {
                  <td>  23/04/2024
                   <br><br>06/06/2024
                   <br><br>19/07/2024
+                  <br><br>16/08/2024
                   <!-- <br><br>--
-                  <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
@@ -1179,7 +1179,7 @@ footer {
               </tr>
               <tr>
                 <th scope="row">3</th>
-                 <td> <h6>Shuts de Basuras</h6></td>
+                 <td> <h6>Auditoría Depósito de Basuras</h6></td>
                  <td>  
                   
                   <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento

@@ -364,7 +364,7 @@ footer {
                             <a href="#saneamiento" class="flotartextofila list-group-item list-group-item-action">Manejo de Plagas</a>
                             <a href="#saneamiento" class="flotartextofila list-group-item list-group-item-action">Agua Potable</a>
                             <a href="#saneamiento" class="flotartextofila list-group-item list-group-item-action">Manejo de Residuos</a>
-                            <a href="#saneamiento" class="flotartextofila list-group-item list-group-item-action">Shuts de Basuras</a>
+                            <a href="#saneamiento" class="flotartextofila list-group-item list-group-item-action">Auditoría Depósito de Basuras</a>
                           </ol>
 
                     </div>
@@ -440,10 +440,10 @@ footer {
                     <td><h6>1.1.6 Elección de Vigía</h6></td>
                     <td> 
 
-                      <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                      <a href="https://docs.google.com/document/d/1WsM2-LN0_OUdtgcx2-llY10GIOqHIH3U/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                     
                     </td>
-                    <td>--</td>
+                    <td>20/08/2024</td>
                   </tr>
                   <tr>
                     <th scope="row">5</th>
@@ -832,8 +832,8 @@ footer {
                 <td> 
                   
                   <a href="https://drive.google.com/file/d/1Q5VHhc5B5I2itQn3iBi2fvYSrDF_Qm3H/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                 <!--  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a href="https://drive.google.com/file/d/1CRlX3juTm9fyYnru6bdeZK2JWczoHdWD/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <!-- <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -846,8 +846,8 @@ footer {
                 
                 </td> 
                 <td>30/07/2024
-                 <!--  <br><br>--
-                  <br><br>--
+                  <br><br>21/08/2024
+                  <!-- <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
@@ -865,7 +865,7 @@ footer {
                 <td><h6>Capacitaciones</h6></td>
                 <td> 
                   
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a href="https://drive.google.com/file/d/1rfOKKnUSTSkbi6kMVQv5P5xg9D0Oglpu/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Inducción SG-SST <br>
                <!--    <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -876,7 +876,7 @@ footer {
                 
                 
                 </td>
-                <td>--
+                <td>30/07/2024
                   <!-- <br><br>--
                   <br><br>--
                   <br><br>--
@@ -1183,7 +1183,7 @@ footer {
               </tr>
               <tr>
                 <th scope="row">3</th>
-                <td><h6>Shuts de Basuras</h6></td>
+                <td><h6>Auditoría Depósito de Basuras</h6></td>
                 <td> 
                   
                   <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento

@@ -364,7 +364,7 @@ footer {
                             <a href="#saneamiento" class="flotartextofila list-group-item list-group-item-action">Manejo de Plagas</a>
                             <a href="#saneamiento" class="flotartextofila list-group-item list-group-item-action">Agua Potable</a>
                             <a href="#saneamiento" class="flotartextofila list-group-item list-group-item-action">Manejo de Residuos</a>
-                            <a href="#saneamiento" class="flotartextofila list-group-item list-group-item-action">Shuts de Basuras</a>
+                            <a href="#saneamiento" class="flotartextofila list-group-item list-group-item-action">Auditoría Depósito de Basuras</a>
                           </ol>
 
                     </div>
@@ -1177,17 +1177,17 @@ footer {
                 <td> 
                   
                   <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
-                
+                  
                 </td>
                 <td>--</td>
               </tr>
               <tr>
                 <th scope="row">3</th>
-                <td><h6>Shuts de Basuras</h6></td>
+                <td><h6>Auditoría Depósito de Basuras</h6></td>
                 <td> 
                   
                   <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
-                
+                  
                 </td>
                 <td>--</td>
               </tr>
@@ -1196,20 +1196,26 @@ footer {
                 <td><h6>Manejo de Plagas</h6></td>
                 <td> 
                   
-                  <a href="https://docs.google.com/spreadsheets/d/1-wTKb68zHyqK7FLRSidsOAspw7EXBFk2/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
-                
+                  <a href="https://docs.google.com/spreadsheets/d/1-wTKb68zHyqK7FLRSidsOAspw7EXBFk2/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b> <br>
+                  
+                  <a href="https://drive.google.com/file/d/1t4MSGZitDqFUv23pGCB1AeKntoVrXSmi/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>CERTIFICADO FUMIGACION EL ENCANTO 20240624
                 </td>
-                <td>01/07/2024</td>
+                <td>01/07/2024
+                  <br><br>21/08/2024
+                </td>
               </tr>
               <tr>
                 <th scope="row">5</th>
                 <td><h6>Agua Potable</h6></td>
                 <td> 
                   
-                  <a href="https://docs.google.com/spreadsheets/d/1shBPmWVcR8z9wPQ7uyUoVvHA9v5o_s81/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
-                
+                  <a href="https://docs.google.com/spreadsheets/d/1shBPmWVcR8z9wPQ7uyUoVvHA9v5o_s81/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b> <br>
+                  
+                  <a href="https://drive.google.com/file/d/1nIttA3VvHWUXyVa5lIrsfYv1skAfbLkm/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>LAVADO DE TANQUES 20240222
                 </td>
-                <td>01/07/2024</td>
+                <td>01/07/2024
+                  <br><br>21/08/2024
+                </td>
               </tr>
              
   

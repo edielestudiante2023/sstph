@@ -372,7 +372,7 @@
             <a href="#saneamiento" class="flotartextofila list-group-item list-group-item-action">Manejo de Plagas</a>
             <a href="#saneamiento" class="flotartextofila list-group-item list-group-item-action">Agua Potable</a>
             <a href="#saneamiento" class="flotartextofila list-group-item list-group-item-action">Manejo de Residuos</a>
-            <a href="#saneamiento" class="flotartextofila list-group-item list-group-item-action">Shuts de Basuras</a>
+            <a href="#saneamiento" class="flotartextofila list-group-item list-group-item-action">Auditoría Depósito de Basuras</a>
           </ol>
 
         </div>
@@ -1323,7 +1323,7 @@
           <tr>
             <th scope="row">3</th>
             <td>
-              <h6>Shuts de Basuras</h6>
+              <h6>Auditoría Depósito de Basuras</h6>
             </td>
             <td>
 

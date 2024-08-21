@@ -366,7 +366,7 @@ footer {
                             <a  href="#saneamiento" class="flotartextofila list-group-item list-group-item-action">Manejo de Plagas</a>
                             <a  href="#saneamiento" class="flotartextofila list-group-item list-group-item-action">Agua Potable</a>
                             <a  href="#saneamiento" class="flotartextofila list-group-item list-group-item-action">Manejo de Residuos</a>
-                            <a  href="#saneamiento" class="flotartextofila list-group-item list-group-item-action">Shuts de Basuras</a>
+                            <a  href="#saneamiento" class="flotartextofila list-group-item list-group-item-action">Auditoría Depósito de Basuras</a>
                           </ol>
 
                     </div>
@@ -838,8 +838,8 @@ footer {
                   <a  href="https://drive.google.com/file/d/1NsCNOm3VBjw28-sQdtk8wKPvscciS3LI/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="https://drive.google.com/file/d/1OGztfcHP2O60U_wlViTuVRfR8sSsvq8c/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="https://drive.google.com/file/d/1djDWbQFEPHndkFkMskKar1VS_KFmK7nk/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="https://drive.google.com/file/d/1UswzyCNURsDcPl5hBLeds01eeWOQKY51/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <!-- <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -852,8 +852,8 @@ footer {
                   <br><br>14/03/2024
                   <br><br>23/05/2024
                   <br><br>27/06/2024
+                  <br><br>20/08/2024
                   <!-- <br><br>--
-                  <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
@@ -986,10 +986,10 @@ footer {
                  <td> <h6>Dotaciones</h6></td>
                  <td>  
                   
-                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/1ay6BPYhMAI-1qKe1YLlqKGRy5FJZJ8zM/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>DOTACION ASEADORAS - INTEGRAL SERVICE SAS
                 
                 </td>
-                 <td> --</td>
+                 <td>20/08/2024</td>
               </tr>
               <tr>
                 <th scope="row">3</th>
@@ -1046,10 +1046,10 @@ footer {
                  <td> <h6>Dotaciones</h6></td>
                  <td>  
                   
-                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/1nbQsvyM-6mknetHXlisgThPKR_M7TZEh/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>DOTACION VIGILANTES - SEGURIDAD SPRINT LTDA.
                 
                 </td>
-                 <td> --</td>
+                 <td>20/08/2024</td>
               </tr>
               <tr>
                 <th scope="row">3</th>
@@ -1188,7 +1188,7 @@ footer {
               </tr>
               <tr>
                 <th scope="row">3</th>
-                 <td> <h6>Shuts de Basuras</h6></td>
+                 <td> <h6>Auditoría Depósito de Basuras</h6></td>
                  <td>  
                   
                   <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
