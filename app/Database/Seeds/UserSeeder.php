@@ -27,11 +27,11 @@ class UserSeeder extends Seeder
 			// 	"password" => password_hash("900873512", PASSWORD_DEFAULT)
 			// ],
 			[
-				"name" => "CONJUNTO RESIDENCIAL ALCAPARRO",
-				"email" => "cr.alcaparro.admon@gmail.com",
-				"phone_no" => "3115310241",
-				"role" => "alcaparro",
-				"password" => password_hash("901554013", PASSWORD_DEFAULT)
+				"name" => "EDIFICIO TORRES DE LOS ARBOLES",
+				"email" => "edificiotorredelosarboles@hotmail.com",
+				"phone_no" => "3008931864",
+				"role" => "torresdelosarboles",
+				"password" => password_hash("900054983", PASSWORD_DEFAULT)
 			]
 		]);
 	}
