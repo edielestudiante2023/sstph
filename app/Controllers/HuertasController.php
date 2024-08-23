@@ -5,7 +5,7 @@ namespace App\Controllers;
 use App\Controllers\BaseController;
 use CodeIgniter\HTTP\ResponseInterface;
 
-class XxxxController extends BaseController
+class HuertasController extends BaseController
 {
     public function __construct()
     {
