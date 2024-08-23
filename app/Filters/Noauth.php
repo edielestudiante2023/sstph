@@ -84,8 +84,8 @@ class Noauth implements FilterInterface
 			if (session()->get('role') == "huerto") {
 				return redirect()->to(base_url('huerto'));
 			}
-			if (session()->get('role') == "xxxxx") {
-				return redirect()->to(base_url('xxxxx'));
+			if (session()->get('role') == "huertas") {
+				return redirect()->to(base_url('huertas'));
 			}
 			if (session()->get('role') == "xxxxx") {
 				return redirect()->to(base_url('xxxxx'));

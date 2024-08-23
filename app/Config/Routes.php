@@ -106,8 +106,8 @@ $routes->group("huerto", ["filter" => "auth"], function ($routes) {
     $routes->get("/", "HuertoController::index");
 });
 
-$routes->group("xxxxx", ["filter" => "auth"], function ($routes) {
-    $routes->get("/", "xxxxxController::index");
+$routes->group("huertas", ["filter" => "auth"], function ($routes) {
+    $routes->get("/", "HuertasController::index");
 });
 
 $routes->get('logout', 'UserController::logout');
