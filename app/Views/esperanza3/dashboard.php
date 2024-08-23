@@ -759,10 +759,13 @@ footer {
                  <td> <h6>Inspección Extintores</h6></td>
                  <td>  
                   
-                  <a  href="https://drive.google.com/file/d/1IkOXkEFp1B43EZHZWwt6wXi0uOk0Iv6Q/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/1IkOXkEFp1B43EZHZWwt6wXi0uOk0Iv6Q/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="https://drive.google.com/file/d/17IINozsBZ7Wb6kfZferZdOIMXgYkAHvc/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                 
                 </td>
-                 <td> 23/05/2024</td>
+                 <td> 23/05/2024
+                  <br><br>21/08/2024
+                 </td>
               </tr>
               <tr>
                 <th scope="row">3</th>

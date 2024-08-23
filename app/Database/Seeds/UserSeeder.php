@@ -27,11 +27,11 @@ class UserSeeder extends Seeder
 			// 	"password" => password_hash("900873512", PASSWORD_DEFAULT)
 			// ],
 			[
-				"name" => "CONJUNTO RESIDENCIAL EL HUERTO",
-				"email" => "elhuerto.admon@gmail.com",
-				"phone_no" => "3176425219",
-				"role" => "huerto",
-				"password" => password_hash("901435598", PASSWORD_DEFAULT)
+				"name" => "CONJUNTO HUERTAS DE SOACHA II",
+				"email" => "huertassoacha2ph@gmail.com",
+				"phone_no" => "3057885572",
+				"role" => "huertas",
+				"password" => password_hash("901207194", PASSWORD_DEFAULT)
 			]
 		]);
 	}

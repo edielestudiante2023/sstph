@@ -263,7 +263,7 @@ footer {
                 <a class="nav-link active" aria-current="page" href="https://cycloidtalent.com/index.php/sg-sst-propiedad-horizontal" target="_blank">Cycloid Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="XXXXX" target="blank">Indicadores SST</a>
+                <a class="nav-link" href="https://lookerstudio.google.com/reporting/4b5a0787-ce24-49e8-a8d7-59d1c6c402f1" target="blank">Indicadores SST</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="https://wa.me/573132123799" target="_blank">Escríbenos por WhatsApp</a>
@@ -376,7 +376,7 @@ footer {
     <!-- SECCIÓN DE IMAGEN A LOOKER STUDIO -->
     <section>
         <div class="hero-inferior">
-          <a href="XXXXX" target="_blank">
+          <a href="https://lookerstudio.google.com/reporting/4b5a0787-ce24-49e8-a8d7-59d1c6c402f1" target="_blank">
             <img class="hero-inferior-imagen img-fluid" src="imagenes/indicadores.PNG" alt="kpi">
           </a>
 
@@ -759,10 +759,10 @@ footer {
                 <td><h6>Inspección Extintores</h6></td>
                 <td> 
                   
-                  <a href="https://drive.google.com/file/d/17IINozsBZ7Wb6kfZferZdOIMXgYkAHvc/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>16/08/2024</td>
+                <td>--</td>
               </tr>
               <tr>
                 <th scope="row">3</th>
@@ -1230,8 +1230,8 @@ footer {
             </h5>
           </div>
           <div class="col-sm-6 col-lg-6">
-            <h5 style="color: aquamarine;">Su contrato actual vence el (31/03/2025)</h5>
-            <a href="#" target="_blank">
+            <h5 style="color: aquamarine;">Su contrato actual vence el (31/12/2024)</h5>
+            <a href="https://drive.google.com/file/d/1MF2pDXLLtktCuogpkyD3KNOx82GldXmb/view?usp=sharing" target="_blank">
               <button type="button" class="btn btn-primary contrato">Acceder al contrato <i class="bi bi-arrow-right-circle-fill"></i></button>
             </a>
             <a href="https://drive.google.com/file/d/1jJdX2wByteHaJXUr-ymP8cf013CfBIKS/view?usp=sharing" target="_blank">
