@@ -146,9 +146,9 @@ class UserController extends BaseController
                 
                 {return redirect()->to(base_url('torresdelasamericas'));}
                 
-                elseif($user['role'] == "xxxx")
+                elseif($user['role'] == "alcaparro")
                 
-                {return redirect()->to(base_url('xxxx'));}
+                {return redirect()->to(base_url('alcaparro'));}
                 
                 elseif($user['role'] == "xxxx")
                 

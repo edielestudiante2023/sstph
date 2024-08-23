@@ -112,5 +112,8 @@ $routes->group("huertas", ["filter" => "auth"], function ($routes) {
 $routes->group("torresdelasamericas", ["filter" => "auth"], function ($routes) {
     $routes->get("/", "TorresdelasamericasController::index");
 });
+$routes->group("alcaparro", ["filter" => "auth"], function ($routes) {
+    $routes->get("/", "AlcaparroController::index");
+});
 
 $routes->get('logout', 'UserController::logout');

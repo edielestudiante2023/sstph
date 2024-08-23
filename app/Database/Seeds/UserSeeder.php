@@ -27,11 +27,11 @@ class UserSeeder extends Seeder
 			// 	"password" => password_hash("900873512", PASSWORD_DEFAULT)
 			// ],
 			[
-				"name" => "EDIFICIO TORRES DE LAS AMERICAS",
-				"email" => "editorrresdelasamericas@gmail.com",
-				"phone_no" => "3166286098",
-				"role" => "torresdelasamericas",
-				"password" => password_hash("830044108", PASSWORD_DEFAULT)
+				"name" => "CONJUNTO RESIDENCIAL ALCAPARRO",
+				"email" => "cr.alcaparro.admon@gmail.com",
+				"phone_no" => "3115310241",
+				"role" => "alcaparro",
+				"password" => password_hash("901554013", PASSWORD_DEFAULT)
 			]
 		]);
 	}
