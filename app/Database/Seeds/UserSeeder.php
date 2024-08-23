@@ -27,11 +27,11 @@ class UserSeeder extends Seeder
 			// 	"password" => password_hash("900873512", PASSWORD_DEFAULT)
 			// ],
 			[
-				"name" => "CONJUNTO HUERTAS DE SOACHA II",
-				"email" => "huertassoacha2ph@gmail.com",
-				"phone_no" => "3057885572",
-				"role" => "huertas",
-				"password" => password_hash("901207194", PASSWORD_DEFAULT)
+				"name" => "EDIFICIO TORRES DE LAS AMERICAS",
+				"email" => "editorrresdelasamericas@gmail.com",
+				"phone_no" => "3166286098",
+				"role" => "torresdelasamericas",
+				"password" => password_hash("830044108", PASSWORD_DEFAULT)
 			]
 		]);
 	}
