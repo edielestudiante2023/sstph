@@ -266,7 +266,7 @@ footer {
                 <a class="nav-link"  href="https://lookerstudio.google.com/reporting/bf258154-8d64-4a99-8e41-683b6a00b1a4" target="blank">Indicadores SST</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link"  href="https://wa.me/573132123799" target="_blank">Escríbenos por WhatsApp</a>
+                <a class="nav-link" href="https://lookerstudio.google.com/reporting/b508a21a-fc30-41b3-8378-8b2163480e86" target="_blank">Cruso de Brigada Básica</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link"  href="mailto:edison.cuervo@cycloidtalent.com" target="_blank">Escribenos Por Email</a>
@@ -833,8 +833,8 @@ footer {
                   
                   <a  href="https://drive.google.com/file/d/1LxtJvuhMQfq1OxI50dhzwdUxD7T1FNyH/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="https://drive.google.com/file/d/1cokBZA215pNEB7VQ2iWi_KGTzPp3o7p-/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="https://drive.google.com/file/d/1l_k2XO_s34O3btHE7M_PPvyiFfRMnjYZ/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <!-- <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -847,8 +847,8 @@ footer {
                 </td> 
                  <td>  27/03/2024
                   <br><br>07/06/2024
+                  <br><br>30/08/2024
                   <!-- <br><br>--
-                  <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
@@ -1092,9 +1092,12 @@ footer {
                  <td>  
                   
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
-                
+                  <br>
+                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Plan de Emergencia Familiar
                 </td>
-                 <td> --</td>
+                 <td> --
+                  <br><br>
+                 </td>
               </tr>
               <tr>
                 <th scope="row">2</th>

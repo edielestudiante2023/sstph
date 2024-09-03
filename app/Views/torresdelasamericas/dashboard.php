@@ -266,7 +266,7 @@ footer {
                 <a class="nav-link" href="https://lookerstudio.google.com/reporting/961cca66-74f1-425f-9aaf-4bdf74623bf2" target="blank">Indicadores SST</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="https://wa.me/573132123799" target="_blank">Escríbenos por WhatsApp</a>
+                <a class="nav-link" href="https://lookerstudio.google.com/reporting/b508a21a-fc30-41b3-8378-8b2163480e86" target="_blank">Cruso de Brigada Básica</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="mailto:edison.cuervo@cycloidtalent.com" target="_blank">Escribenos Por Email</a>
@@ -1092,9 +1092,12 @@ footer {
                 <td> 
                   
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
-                
+                  <br>
+                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Plan de Emergencia Familiar
                 </td>
-                <td>--</td>
+                <td>--
+                  <br><br>
+                </td>
               </tr>
               <tr>
                 <th scope="row">2</th>

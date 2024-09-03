@@ -275,7 +275,7 @@
             <a class="nav-link" href="https://lookerstudio.google.com/reporting/eb4f7396-5251-4966-9d9a-8edf9dc760df" target="blank">Indicadores SST</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="https://wa.me/573132123799" target="_blank">Escríbenos por WhatsApp</a>
+            <a class="nav-link" href="https://lookerstudio.google.com/reporting/b508a21a-fc30-41b3-8378-8b2163480e86" target="_blank">Cruso de Brigada Básica</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="mailto:edison.cuervo@cycloidtalent.com" target="_blank">Escribenos Por Email</a>
@@ -817,10 +817,13 @@
             </td>
             <td>
 
-              <a href="https://drive.google.com/file/d/1riTaM_tqnCu_agNi67ZjAEAoAMnKQ0Cj/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+              <a href="https://drive.google.com/file/d/1riTaM_tqnCu_agNi67ZjAEAoAMnKQ0Cj/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+              <a href="https://drive.google.com/file/d/1nEBYjr9k2ST76j4QN__YmeSe9fIs9f8G/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
 
             </td>
-            <td> 06/02/2024</td>
+            <td> 06/02/2024
+              <br><br>27/08/2024
+            </td>
           </tr>
           <tr>
             <th scope="row">3</th>
@@ -908,8 +911,8 @@
               <a href="https://drive.google.com/file/d/1BtZF-TeFEewFebZEoF27z4ImTHjWbx0c/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
               <a  href="https://drive.google.com/file/d/1Qm_8X7Dz-F9HcjaY52WSTCfeN-24tMAT/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
               <a  href="https://drive.google.com/file/d/1_4M_5SxfvsiNsTiBPa_RHc0I_WNv3j3o/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+              <a  href="https://drive.google.com/file/d/1AbkR3VvyQKElj0lndSviTHqK5ZJSVwRZ/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
               <!-- <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-              <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
               <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br> -->
 
             </td>
@@ -920,8 +923,8 @@
               <br><br> 14/05/2024
               <br><br> 25/06/2024
               <br><br> 23/07/2024
+              <br><br> 27/08/2024
               <!-- <br><br> --
-              <br><br> --
               <br><br> --
               <br><br> --
               <br><br> --
@@ -1191,9 +1194,12 @@
             <td>
 
               <a href="https://drive.google.com/file/d/1vbqWtShpXXCbdr6WbZpFQ4OaXc631Hht/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
-
+              <br>
+              <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Plan de Emergencia Familiar
             </td>
-            <td> 01/01/2024</td>
+            <td> 01/01/2024
+              <br><br>
+            </td>
           </tr>
           <tr>
             <th scope="row">2</th>
@@ -1301,10 +1307,10 @@
             </td>
             <td>
 
-              <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+              <a href="https://drive.google.com/file/d/1I6oSvHg9q3hA2A80wRZ6fQKh8MFs3y1T/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
 
             </td>
-            <td> --</td>
+            <td>08/08/2024</td>
           </tr>
           <tr>
             <th scope="row">4</th>

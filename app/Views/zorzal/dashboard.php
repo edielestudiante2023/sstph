@@ -266,7 +266,7 @@ footer {
                 <a class="nav-link"   href="https://lookerstudio.google.com/reporting/def75646-7f99-461b-990f-d58a7e9a39e4" target="blank">Indicadores SST</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link"   href="https://wa.me/573132123799" target="_blank">Escríbenos por WhatsApp</a>
+                <a class="nav-link" href="https://lookerstudio.google.com/reporting/b508a21a-fc30-41b3-8378-8b2163480e86" target="_blank">Cruso de Brigada Básica</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link"   href="mailto:edison.cuervo@cycloidtalent.com" target="_blank">Escribenos Por Email</a>
@@ -835,8 +835,8 @@ footer {
                   <a   href="https://drive.google.com/file/d/1VZPXNGNKhoDPrnOXhmnh2HpulD8YyWnu/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="https://drive.google.com/file/d/1SKjvv2SfdULQkbfMTqCSQyONSI5cILsL/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="https://drive.google.com/file/d/1MtO-u3uGc2VLNHlsJOO1cMV6-Uj7LMXT/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a   href="https://drive.google.com/file/d/18sd1rLzkKzrEGRfJkk_JppimN6dg22yx/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <!-- <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br> -->
@@ -849,8 +849,8 @@ footer {
                   <br><br>14/05/2024
                   <br><br>25/06/2024
                   <br><br>23/07/2024
+                  <br><br>27/08/2024
                   <!-- <br><br>--
-                  <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>-- -->
@@ -1093,9 +1093,12 @@ footer {
                  <td>  
                   
                   <a   href="https://drive.google.com/file/d/1-qketx9K3pd7zg0Dk3nOTTVPIEmfUkli/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
-                
+                  <br>
+                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Plan de Emergencia Familiar
                 </td>
-                 <td> 17/06/2024</td>
+                 <td> 17/06/2024
+                  <br><br>
+                 </td>
               </tr>
               <tr>
                 <th scope="row">2</th>
@@ -1187,10 +1190,10 @@ footer {
                  <td> <h6>Auditoría Depósito de Basuras</h6></td>
                  <td>  
                   
-                  <a   href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a   href="https://drive.google.com/file/d/1r7hEK62JpypoyHcCRAUm71JRyVKZzpdE/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                 <td> --</td>
+                 <td>27/08/2024</td>
               </tr>
               <tr>
                 <th scope="row">4</th>

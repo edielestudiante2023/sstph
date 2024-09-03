@@ -266,7 +266,7 @@ footer {
                 <a class="nav-link"  href="https://lookerstudio.google.com/reporting/06e2ebfc-c368-4e47-9fc4-0d1a93961a14" target="blank">Indicadores SST</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link"  href="https://wa.me/573132123799" target="_blank">Escríbenos por WhatsApp</a>
+                <a class="nav-link" href="https://lookerstudio.google.com/reporting/b508a21a-fc30-41b3-8378-8b2163480e86" target="_blank">Cruso de Brigada Básica</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link"  href="mailto:edison.cuervo@cycloidtalent.com" target="_blank">Escribenos Por Email</a>
@@ -833,8 +833,9 @@ footer {
                   <a  href="https://drive.google.com/file/d/1J0uTEt9_Ma3WOej_cka05UIM0o4kZ6nS/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="https://drive.google.com/file/d/1oTP8iIOYuqwqM7nzrxYAQulp-oWnl1cA/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="https://drive.google.com/file/d/1XtODuf9ApXUZXHcVLCgNg6PahxDOjkGp/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="https://drive.google.com/file/d/1qKax6qL4PoySdn1OhfDwYm3xc0fbtGZf/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="https://drive.google.com/file/d/14rNKii0E1Xr9YwLLRub5RBnI0S7faO_C/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>CURSO 50 HORAS SONIA YANIRA CASTRO SUAREZ <br>
                   <!-- <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -847,8 +848,9 @@ footer {
                  <td>  19/04/2024
                   <br><br>16/05/2024
                   <br><br>18/07/2024  
+                  <br><br>29/08/2024
+                  <br><br>30/08/2024
                   <!-- <br><br>--
-                  <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
@@ -1091,9 +1093,12 @@ footer {
                  <td>  
                   
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
-                
+                  <br>
+                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Plan de Emergencia Familiar
                 </td>
-                 <td> --</td>
+                 <td> --
+                  <br><br>
+                 </td>
               </tr>
               <tr>
                 <th scope="row">2</th>

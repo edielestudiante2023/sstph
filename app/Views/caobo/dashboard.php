@@ -273,7 +273,7 @@
             <a class="nav-link" href="https://lookerstudio.google.com/reporting/77074918-ab00-4170-b4f1-cc4285e539c3" target="blank">Indicadores SST</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="https://wa.me/573132123799" target="_blank">Escríbenos por WhatsApp</a>
+            <a class="nav-link" href="https://lookerstudio.google.com/reporting/b508a21a-fc30-41b3-8378-8b2163480e86" target="_blank">Cruso de Brigada Básica</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="mailto:edison.cuervo@cycloidtalent.com" target="_blank">Escribenos Por Email</a>
@@ -1214,9 +1214,12 @@
             <td>
 
               <a href="https://drive.google.com/file/d/1FESFg2V6U1xwRg1HNH3LnNwdOHuDW_aY/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
-
+              <br>
+                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Plan de Emergencia Familiar
             </td>
-            <td> 01/01/2024</td>
+            <td> 01/01/2024
+              <br><b></b>
+            </td>
           </tr>
           <tr>
             <th scope="row">2</th>

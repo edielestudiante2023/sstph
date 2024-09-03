@@ -266,7 +266,7 @@ footer {
                 <a class="nav-link"  href="https://lookerstudio.google.com/reporting/17e19b84-c3a1-4e58-b425-f3952ad5bb93" target="blank">Indicadores SST</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link"  href="https://wa.me/573132123799" target="_blank">Escríbenos por WhatsApp</a>
+                <a class="nav-link" href="https://lookerstudio.google.com/reporting/b508a21a-fc30-41b3-8378-8b2163480e86" target="_blank">Cruso de Brigada Básica</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link"  href="mailto:edison.cuervo@cycloidtalent.com" target="_blank">Escribenos Por Email</a>
@@ -874,8 +874,8 @@ footer {
                   <a  href="https://drive.google.com/file/d/1NvjHDf2y3DephKmv1kSb04zTKg7c3iiD/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="https://drive.google.com/file/d/1sMbJhyqAq9fOuPxXmidR9v97-U-db6Dt/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Curso de 50 Horas Administrador
                   <a  href="https://drive.google.com/file/d/1xcDYj_9zE-61hQYWX-HAR2SDUWK9g8S7/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>PELIGRO BIOMECÁNICO: Pausas activas, posturas, manejo de cargas, lesiones y enfermedades. <br>
+                  <a  href="https://drive.google.com/file/d/1rOhXYZ-X8bsctBS1NAZpuW-a4kXZA_S1/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <!-- <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -886,8 +886,8 @@ footer {
                  <td> 13/02/2024
                   <br><br>25/05/2024
                   <br><br>04/07/2024
+                  <br><br>29/08/2024
                   <!-- <br><br>--
-                  <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
@@ -1100,9 +1100,12 @@ footer {
                  <td>  
                   
                   <a  href="https://drive.google.com/file/d/1TbMlECk8vLuAo7xK8O_WWSHro_LEetGb/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
-                
+                  <br>
+                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Plan de Emergencia Familiar
                 </td>
-                 <td> 17/06/2024</td>
+                 <td> 17/06/2024
+                  <br><br>
+                 </td>
               </tr>
               <tr>
                 <th scope="row">2</th>

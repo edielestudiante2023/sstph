@@ -266,7 +266,7 @@ footer {
                 <a class="nav-link"  href="https://lookerstudio.google.com/reporting/2966838e-c4b1-4db6-9145-faee4a39492f" target="blank">Indicadores SST</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link"  href="https://wa.me/573132123799" target="_blank">Escríbenos por WhatsApp</a>
+                <a class="nav-link" href="https://lookerstudio.google.com/reporting/b508a21a-fc30-41b3-8378-8b2163480e86" target="_blank">Cruso de Brigada Básica</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link"  href="mailto:edison.cuervo@cycloidtalent.com" target="_blank">Escribenos Por Email</a>
@@ -870,6 +870,7 @@ footer {
                   <a  href="https://drive.google.com/file/d/1obP1vW97MmjZb7_SEdKoqj2w0zh8-oBR/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Certificado Curso 50 Horas - Laura Valentina Caseres Castro <br>
                   <a  href="https://drive.google.com/file/d/1RRBt-2cNd4C-hIaJyiBiTdoGv3_SAeL6/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Peligro biomecánico - pausas activas - posturas - manejo de cargas - movimientos repetitivos - lesiones y enfermedades <br>
                   <a  href="https://drive.google.com/file/d/1CYYeEttUn_82XYOuwRUJnf5EBMbUy5rB/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Peligro químico - almacenamiento - manipulación - etiquetas - hoja de seguridad - EPPs -<br>
+                  <a  href="https://drive.google.com/file/d/14rNKii0E1Xr9YwLLRub5RBnI0S7faO_C/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>CURSO 50 HORAS SONIA YANIRA CASTRO SUAREZ <br>
                   <!-- <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -881,6 +882,7 @@ footer {
                   <br><br>05/07/2024
                   <br><br>11/07/2024
                   <br><br>11/07/2024
+                  <br><br>30/08/2024
                   <!-- <br><br>--
                   <br><br>--
                   <br><br>--
@@ -1093,9 +1095,12 @@ footer {
                  <td>  
                   
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
-                
+                  <br>
+                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Plan de Emergencia Familiar
                 </td>
-                 <td> --</td>
+                 <td> --
+                  <br><br>
+                 </td>
               </tr>
               <tr>
                 <th scope="row">2</th>
