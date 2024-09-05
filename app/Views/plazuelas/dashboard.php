@@ -747,10 +747,10 @@ footer {
                  <td> <h6>Inspección General</h6></td>
                  <td>  
                   
-                  <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a   href="https://drive.google.com/file/d/1zNI0uZFEhyb_oS86xXOC9mGVDBF6kwOB/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                 <td> --</td>
+                 <td>01/09/2023</td>
               </tr>
               <tr>
                 <th scope="row">2</th>
@@ -1092,9 +1092,12 @@ footer {
                   
                   <a   href="https://docs.google.com/document/d/1A5Emz6J8DZlHk_YJSZR5agu1GiiwYUZi/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                   <br>
+                  <a   href="https://drive.google.com/file/d/1csZDO9hzWWaAZpGcwpzL1k8FZQ3sTaLg/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Plan de Emergencia Familiar
                 </td>
                  <td> 01/01/2024
+                  <br><br>01/09/2024
                   <br><br>
                  </td>
               </tr>

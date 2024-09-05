@@ -865,7 +865,7 @@ footer {
                 <td><h6>Capacitaciones</h6></td>
                 <td> 
                   
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a href="https://drive.google.com/file/d/1n1MIpcUvuyB-31r2wZtCud0ep09sY5mv/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Funciones y responsabilidades - peligros, riesgos - <br>
                <!--    <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -876,7 +876,7 @@ footer {
                 
                 
                 </td>
-                <td>--
+                <td>03/09/2024
                   <!-- <br><br>--
                   <br><br>--
                   <br><br>--

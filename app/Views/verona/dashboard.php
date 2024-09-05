@@ -747,10 +747,13 @@ footer {
                  <td> <h6>Inspección General</h6></td>
                  <td>  
                   
-                  <a  href="https://drive.google.com/file/d/1DiebBexOf9V8oPFZl4ev5ug7WV3wZyYJ/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/1DiebBexOf9V8oPFZl4ev5ug7WV3wZyYJ/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="https://drive.google.com/file/d/1WPxycOMjNRjxjdy-0wzAJmeMhyW4qqWi/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                 <td> 19/04/2024</td>
+                 <td> 19/04/2024
+                  <br><br>01/09/2024
+                 </td>
               </tr>
               <tr>
                 <th scope="row">2</th>
@@ -1090,11 +1093,11 @@ footer {
                  <td> <h6>Plan de Emergencia de la Copropiedad</h6></td>
                  <td>  
                   
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/1iQY1wEDscuT7nKCLJ_MOIaOGnyuTlynx/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                   <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Plan de Emergencia Familiar
                 </td>
-                 <td> --
+                 <td>01/09/2024
                   <br><br>
                  </td>
               </tr>
