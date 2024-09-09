@@ -408,7 +408,7 @@ footer {
                     <td><h6>1.1.1 Responsable del SG-SST</h6></td>
                     <td> 
                       
-                      <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                      <a href="https://drive.google.com/file/d/1hZtKwxV5Te-UrPxopUlGmJ7E6tWOacvu/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                     
                     </td>
                     <td>--</td>
@@ -450,10 +450,10 @@ footer {
                     <td><h6>1.1.8 Comité de Convivencia Laboral</h6></td>
                     <td> 
                       
-                      <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                      <a href="https://drive.google.com/file/d/1HEqQIsDElvfzFMhH0v9DZv_aE8-fqN73/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                     
                     </td>
-                    <td>--</td>
+                    <td>01/09/2024</td>
                   </tr>
                   <tr>
                     <th scope="row">6</th>
@@ -500,16 +500,16 @@ footer {
                   <td><h6>2.1.1 Políticas de SST</h6></td>
                   <td> 
                     
-                    <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política de SST<br>
-                    <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política No Alcohol<br>
-                    <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política Emergencias<br>
-                    <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política EPP´S<br>
+                    <a href="https://drive.google.com/file/d/1ufpXCB6s5IEvQ5r_uBOJsGe0jQdPG74i/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política de SST<br>
+                    <a href="https://drive.google.com/file/d/1G9S0kPaWSHVUeFW9txwxPjN1dUy72IAw/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política No Alcohol<br>
+                    <a href="https://drive.google.com/file/d/1_kxbVjaN2hlugWPVuboK5qVobve0WrO5/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política Emergencias<br>
+                    <a href="https://drive.google.com/file/d/1UYKAwH4JHT19ANWyafJ7Nb2Ro0Hu69Q7/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política EPP´S<br>
                   
                   </td>
-                  <td> -- 
-                      <br><br> --
-                      <br><br> --
-                      <br><br> --
+                  <td>01/09/2024
+                      <br><br>01/09/2024
+                      <br><br>01/09/2024
+                      <br><br>01/09/2024
                     </td>
                 </tr>
                 <tr>
@@ -517,10 +517,10 @@ footer {
                   <td><h6>2.2.1 Objetivos</h6></td>
                   <td> 
                     
-                    <a href="#"target="_blank"> <i class="bi bi-file-earmark-bar-graph-fill"></i></a><br>Documento
+                    <a href="https://drive.google.com/file/d/12iuWhdwR7KKWLmhVED2i53V2pvZru_v9/view?usp=sharing"target="_blank"> <i class="bi bi-file-earmark-bar-graph-fill"></i></a><br>Documento
                   
                   </td>
-                  <td>--</td>
+                  <td>01/09/2024</td>
                 </tr>
                 <tr>
                   <th scope="row">3</th>
@@ -615,17 +615,17 @@ footer {
                   <td><h6>4.1.2 Identificación de peligro y valoración de riesgos</h6></td>
                   <td> 
                     
-                    <a href="#" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Reg. Higiene y Seg-Ind. 
+                    <a href="https://drive.google.com/file/d/1HWg47J7YUbTDAiRI3HxV2bt7C3-0EFP-/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Reg. Higiene y Seg-Ind. 
                     
                     <br> 
                     
-                    <a href="#" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Decreto 2090 de 2003 <br> 
+                    <a href="https://drive.google.com/file/d/1bBU8mBFheCn0pY1pUEg0NUOLvSOWy11I/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Decreto 2090 de 2003 <br> 
                     
                     <a href="https://docs.google.com/spreadsheets/d/1ghP5sue3J7_GdmJdoxjG6XnuHPlk4II0/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Matriz de Peligros</b>
                   
                   </td>
-                  <td>-- 
-                    <br><br>--
+                  <td>01/09/2024
+                    <br><br>01/09/2024
                     <br><br>01/09/2024
                   </td>
                 </tr>
@@ -1235,7 +1235,7 @@ footer {
             <a href="https://drive.google.com/file/d/1aKb02eyhn9EfUIHqomTvUFlYD3Po8-r4/view?usp=sharing" target="_blank">
               <button type="button" class="btn btn-primary contrato">Acceder al contrato <i class="bi bi-arrow-right-circle-fill"></i></button>
             </a>
-            <a href="#" target="_blank">
+            <a href="https://drive.google.com/file/d/1QvYb_2hJdk9febY4GKHlCyeJrPiU6sAg/view?usp=sharing" target="_blank">
               <button type="button" class="btn btn-primary contrato">Acceder al acuerdo de confidencialidad <i class="bi bi-arrow-right-circle-fill"></i></button>
             </a>
           </div>
