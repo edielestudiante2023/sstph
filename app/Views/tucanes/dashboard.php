@@ -275,8 +275,11 @@
             <a class="nav-link" href="https://lookerstudio.google.com/reporting/eb4f7396-5251-4966-9d9a-8edf9dc760df" target="blank">Indicadores SST</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="https://lookerstudio.google.com/reporting/b508a21a-fc30-41b3-8378-8b2163480e86" target="_blank">Cruso de Brigada Básica</a>
+            <a class="nav-link" href="https://lookerstudio.google.com/reporting/b508a21a-fc30-41b3-8378-8b2163480e86" target="_blank">Curso de Brigada Básica</a>
           </li>
+          <li class="nav-item">
+                <a class="nav-link" href="https://lookerstudio.google.com/reporting/f51b8624-e27c-4d1f-ac21-05ab4836d7f3" target="_blank">Evolución del Sistema</a>
+              </li>
           <li class="nav-item">
             <a class="nav-link" href="mailto:edison.cuervo@cycloidtalent.com" target="_blank">Escribenos Por Email</a>
           </li>
