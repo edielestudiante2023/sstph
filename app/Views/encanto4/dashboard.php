@@ -272,6 +272,9 @@ footer {
                 <a class="nav-link" href="https://lookerstudio.google.com/reporting/f51b8624-e27c-4d1f-ac21-05ab4836d7f3" target="_blank">Evolución del Sistema</a>
               </li>
               <li class="nav-item">
+                <a class="nav-link" href="https://www.appsheet.com/start/83d11c24-c6ed-40cf-a77d-8ceaafdd581a" target="_blank">CENSO 2024</a>
+              </li>
+              <li class="nav-item">
                 <a class="nav-link" href="mailto:edison.cuervo@cycloidtalent.com" target="_blank">Escribenos Por Email</a>
               </li>
               <li class="nav-item">
