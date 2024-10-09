@@ -12,27 +12,60 @@ class UserSeeder extends Seeder
 		$user_object = new UserModel();
 
 		$user_object->insertBatch([
-			// [
-			// 	"name" => "LA ALEGRIA IV CONJUNTO RESIDENCIAL PH",
-			// 	"email" => "conjuntoalegria4@gmail.com",
-			// 	"phone_no" => "3107516073",
-			// 	"role" => "alegria4",
-			// 	"password" => password_hash("901483876", PASSWORD_DEFAULT)
-			// ],
-			// [
-			// 	"name" => "CONJUNTO RESIDENCIAL HELICONIA - PROPIEDAD HORIZONTAL",
-			// 	"email" => "crheliconiaciudadverde@gmail.com",
-			// 	"phone_no" => "3107516073",
-			// 	"role" => "heliconia",
-			// 	"password" => password_hash("900873512", PASSWORD_DEFAULT)
-			// ],
+			 [
+			 	"name" => "CONJUNTO RESIDENCIAL PINAR DE LA COLINA 1",
+			 	"email" => "pinarcolina1@gmail.com",
+			 	"phone_no" => "3229408784",
+			 	"role" => "pinarcolina",
+			 	"password" => password_hash("900072254", PASSWORD_DEFAULT)
+			 ],
+			 [
+			 	"name" => "SAUCO CONJUNTO RESIDENCIAL",
+			 	"email" => "crsauco@gmail.com",
+			 	"phone_no" => "3118550805",
+			 	"role" => "sauco",
+			 	"password" => password_hash("900779337", PASSWORD_DEFAULT)
+			 ],
 			[
-				"name" => "EDIFICIO TORRES DE LOS ARBOLES",
-				"email" => "edificiotorredelosarboles@hotmail.com",
-				"phone_no" => "3008931864",
-				"role" => "torresdelosarboles",
-				"password" => password_hash("900054983", PASSWORD_DEFAULT)
+				"name" => "VERBENA CONJUNTO RESIDENCIAL",
+				"email" => "admonverbena@gmail.com",
+				"phone_no" => "3192183846",
+				"role" => "verbena",
+				"password" => password_hash("901528412", PASSWORD_DEFAULT)
+			],
+		
+			 
+			[
+				"name" => "AGRUPACION DE VIVIENDA JACARANDA - PH",
+				"email" => "jacaranda.agrupacion@gmail.com",
+				"phone_no" => "3166286098",
+				"role" => "jacaranda",
+				"password" => password_hash("900226810", PASSWORD_DEFAULT)
+			],
+		
+			 
+			[
+				"name" => "CONJUNTO RESIDENCIAL ALTAVISTA DEL PORTAL - PH",
+				"email" => "conjuntoaltavistadelportal@gmail.com",
+				"phone_no" => "3134765955",
+				"role" => "altavista",
+				"password" => password_hash("901139929", PASSWORD_DEFAULT)
+			],
+			[
+				"name" => "AGRUPACIÓN DE VIVIENDA LAURELES DE NUEVA CASTILLA - PH",
+				"email" => "laurelesnvacastilla@hotmail.com",
+				"phone_no" => "3134765955",
+				"role" => "nuevacastilla",
+				"password" => password_hash("900154573", PASSWORD_DEFAULT)
+			],
+			[
+				"name" => "BOSQUES DEL ZAPAN II MANZANA VII",
+				"email" => "zapan2mz7@gmail.com",
+				"phone_no" => "3134765955",
+				"role" => "zapanii",
+				"password" => password_hash("900294471", PASSWORD_DEFAULT)
 			]
+		
 		]);
 	}
 }
