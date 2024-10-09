@@ -118,5 +118,26 @@ $routes->group("alcaparro", ["filter" => "auth"], function ($routes) {
 $routes->group("torresdelosarboles", ["filter" => "auth"], function ($routes) {
     $routes->get("/", "TorresdelosarbolesController::index");
 });
+$routes->group("zapanii", ["filter" => "auth"], function ($routes) {
+    $routes->get("/", "ZapaniiController::index");
+});
+$routes->group("nuevacastilla", ["filter" => "auth"], function ($routes) {
+    $routes->get("/", "NuevacastillaController::index");
+});
+$routes->group("altavista", ["filter" => "auth"], function ($routes) {
+    $routes->get("/", "AltavistaController::index");
+});
+$routes->group("jacaranda", ["filter" => "auth"], function ($routes) {
+    $routes->get("/", "JacarandaController::index");
+});
+$routes->group("verbena", ["filter" => "auth"], function ($routes) {
+    $routes->get("/", "VerbenaController::index");
+});
+$routes->group("sauco", ["filter" => "auth"], function ($routes) {
+    $routes->get("/", "SaucoController::index");
+});
+$routes->group("pinarcolina", ["filter" => "auth"], function ($routes) {
+    $routes->get("/", "PinarcolinaController::index");
+});
 
 $routes->get('logout', 'UserController::logout');

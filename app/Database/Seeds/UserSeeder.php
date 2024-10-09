@@ -12,7 +12,7 @@ class UserSeeder extends Seeder
 		$user_object = new UserModel();
 
 		$user_object->insertBatch([
-			 [
+			 /* [
 			 	"name" => "CONJUNTO RESIDENCIAL PINAR DE LA COLINA 1",
 			 	"email" => "pinarcolina1@gmail.com",
 			 	"phone_no" => "3229408784",
@@ -64,7 +64,7 @@ class UserSeeder extends Seeder
 				"phone_no" => "3134765955",
 				"role" => "zapanii",
 				"password" => password_hash("900294471", PASSWORD_DEFAULT)
-			]
+			] */
 		
 		]);
 	}

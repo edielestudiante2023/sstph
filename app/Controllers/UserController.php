@@ -154,26 +154,71 @@ class UserController extends BaseController
                 
                 {return redirect()->to(base_url('torresdelosarboles'));}
                 
+                elseif($user['role'] == "zapanii")
+                
+                {return redirect()->to(base_url('zapanii'));}
+                
+                elseif($user['role'] == "nuevacastilla")
+                
+                {return redirect()->to(base_url('nuevacastilla'));}
+                
+                elseif($user['role'] == "altavista")
+                
+                {return redirect()->to(base_url('altavista'));}
+                
+                elseif($user['role'] == "jacaranda")
+                
+                {return redirect()->to(base_url('jacaranda'));}
+                
+                elseif($user['role'] == "verbena")
+                
+                {return redirect()->to(base_url('verbena'));}
+                
+                elseif($user['role'] == "sauco")
+                
+                {return redirect()->to(base_url('sauco'));}
+                elseif($user['role'] == "pinarcolina")
+                
+                {return redirect()->to(base_url('pinarcolina'));}
                 elseif($user['role'] == "xxxx")
                 
                 {return redirect()->to(base_url('xxxx'));}
-                
                 elseif($user['role'] == "xxxx")
                 
                 {return redirect()->to(base_url('xxxx'));}
-                
                 elseif($user['role'] == "xxxx")
                 
                 {return redirect()->to(base_url('xxxx'));}
-                
                 elseif($user['role'] == "xxxx")
                 
                 {return redirect()->to(base_url('xxxx'));}
-                
                 elseif($user['role'] == "xxxx")
                 
                 {return redirect()->to(base_url('xxxx'));}
+                elseif($user['role'] == "xxxx")
                 
+                {return redirect()->to(base_url('xxxx'));}
+                elseif($user['role'] == "xxxx")
+                
+                {return redirect()->to(base_url('xxxx'));}
+                elseif($user['role'] == "xxxx")
+                
+                {return redirect()->to(base_url('xxxx'));}
+                elseif($user['role'] == "xxxx")
+                
+                {return redirect()->to(base_url('xxxx'));}
+                elseif($user['role'] == "xxxx")
+                
+                {return redirect()->to(base_url('xxxx'));}
+                elseif($user['role'] == "xxxx")
+                
+                {return redirect()->to(base_url('xxxx'));}
+                elseif($user['role'] == "xxxx")
+                
+                {return redirect()->to(base_url('xxxx'));}
+                elseif($user['role'] == "xxxx")
+                
+                {return redirect()->to(base_url('xxxx'));}
                 elseif($user['role'] == "xxxx")
                 
                 {return redirect()->to(base_url('xxxx'));}

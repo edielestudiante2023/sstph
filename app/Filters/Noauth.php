@@ -96,26 +96,26 @@ class Noauth implements FilterInterface
 			if (session()->get('role') == "torresdelosarboles") {
 				return redirect()->to(base_url('torresdelosarboles'));
 			}
-			if (session()->get('role') == "xxxxx") {
-				return redirect()->to(base_url('xxxxx'));
+			if (session()->get('role') == "pinarcolina") {
+				return redirect()->to(base_url('pinarcolina'));
 			}
-			if (session()->get('role') == "xxxxx") {
-				return redirect()->to(base_url('xxxxx'));
+			if (session()->get('role') == "sauco") {
+				return redirect()->to(base_url('sauco'));
 			}
-			if (session()->get('role') == "xxxxx") {
-				return redirect()->to(base_url('xxxxx'));
+			if (session()->get('role') == "verbena") {
+				return redirect()->to(base_url('verbena'));
 			}
-			if (session()->get('role') == "xxxxx") {
-				return redirect()->to(base_url('xxxxx'));
+			if (session()->get('role') == "jacaranda") {
+				return redirect()->to(base_url('jacaranda'));
 			}
-			if (session()->get('role') == "xxxxx") {
-				return redirect()->to(base_url('xxxxx'));
+			if (session()->get('role') == "altavista") {
+				return redirect()->to(base_url('altavista'));
 			}
-			if (session()->get('role') == "xxxxx") {
-				return redirect()->to(base_url('xxxxx'));
+			if (session()->get('role') == "nuevacastilla") {
+				return redirect()->to(base_url('nuevacastilla'));
 			}
-			if (session()->get('role') == "xxxxx") {
-				return redirect()->to(base_url('xxxxx'));
+			if (session()->get('role') == "zapanii") {
+				return redirect()->to(base_url('zapanii'));
 			}
 			if (session()->get('role') == "xxxxx") {
 				return redirect()->to(base_url('xxxxx'));
