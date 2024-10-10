@@ -872,8 +872,8 @@ footer {
                   <a  href="https://drive.google.com/file/d/17HRRpqKXcSzSPlMZtRGYgvWE_Uxl0fek/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a     href="https://drive.google.com/file/d/1Kqx0YkIHNg2dDZP2ckQ0Y7Bo3LwtehJg/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Certificado Curso 50 Horas - Edita Sanbria <br>
                   <a     href="https://drive.google.com/file/d/1EkjfruJxyNonfwlNUtf_mIWdpXcEcLq_/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Certificado 50 Horas ASTRID LILIANA AREVALO CORTES<br>
+                  <a  href="https://drive.google.com/file/d/1BYfrGVuPDA57H6hXbhIW_F9_qzOhAZbj/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Preparación de Brigada y Simulacro <br>
                   <!-- <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -885,14 +885,14 @@ footer {
                  <td> 10/04/2024
                  <br><br><br> 13/08/2024
                  <br><br><br>13/08/2024
+                  <br><br>11/09/2024
                   <!-- <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
-                  <br><br>-- -->
-                  
+                   -->
                 </td>
               </tr>
               <tr>
@@ -1132,10 +1132,10 @@ footer {
                  <td> <h6>Evidencias de Simulacro</h6></td>
                  <td>  
                   
-                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/1EhG5nuybCe7UkKC8K3qJ4hhj09_ccnEx/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                 <td> --</td>
+                 <td>02/10/2024</td>
               </tr>
               <tr>
                 <th scope="row">5</th>

@@ -875,8 +875,8 @@ footer {
                   
                   <a href="https://drive.google.com/file/d/1tOrMDvE0lIDgByNZHEqoszslYDGyyAox/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="https://drive.google.com/file/d/1z3tcBEg9FVU1gEiIZjAEyPoJNFbrKyPL/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Manejo Seguro de Sustancias Químicas: Manipulación, Almacenamiento, Etiquetado y Hojas de Seguridad <br>
+                  <a href="https://drive.google.com/file/d/1JFAN4rg9L2ECE_Ed0eS_L8-UwFle1qSP/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Preparación de Brigada y Simulacro <br>
                   <!-- <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -886,8 +886,8 @@ footer {
                 </td>
                 <td>13/03/2024
                   <br><br>17/06/2024
+                  <br><br>01/10/2024
                   <!-- <br><br>--
-                  <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
@@ -1135,10 +1135,10 @@ footer {
                 <td><h6>Evidencias de Simulacro</h6></td>
                 <td> 
                   
-                  <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a href="https://drive.google.com/file/d/1lVQH0IL6rpO67Y7rt3ThhApxWPCPQ1-C/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>--</td>
+                <td>02/10/2024</td>
               </tr>
               <tr>
                 <th scope="row">5</th>

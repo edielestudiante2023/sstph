@@ -1130,10 +1130,10 @@ footer {
                  <td> <h6>Evidencias de Simulacro</h6></td>
                  <td>  
                   
-                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/1qKy4gz9WIODNseGbTryo6uZkM3KNMqhA/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                 <td> --</td>
+                 <td>02/10/2024</td>
               </tr>
               <tr>
                 <th scope="row">5</th>

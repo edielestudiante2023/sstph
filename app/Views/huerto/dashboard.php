@@ -752,7 +752,7 @@ footer {
                 <td><h6>Inspección General</h6></td>
                 <td> 
                   
-                  <a href="https://drive.google.com/file/d/17iDO-HYnNNIvE6hv8TMRqzZYDLfRTvPC/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a href="https://drive.google.com/file/d/10qaxh_HnY_Y7UK-Td09gwclHhgUGKeqd/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
                 <td>16/08/2024</td>
@@ -772,10 +772,13 @@ footer {
                 <td><h6>Inspección Botiquines</h6></td>
                 <td> 
                   
-                  <a href="https://drive.google.com/file/d/1-u8zVWLnlXHRkaDlDPbttcH8rDBlSBxL/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a href="https://drive.google.com/file/d/1-u8zVWLnlXHRkaDlDPbttcH8rDBlSBxL/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a href="https://drive.google.com/file/d/16yxz-PaCdFm2kQWjXrOG98WdTHxGv7AE/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                 
                 </td>
-                <td>16/08/2024</td>
+                <td>16/08/2024
+                  <br><br>13/09/2024
+                </td>
               </tr>
               <tr>
                 <th scope="row">4</th>
@@ -802,10 +805,10 @@ footer {
                 <td><h6>Inspección Recursos para la Seguridad</h6></td>
                 <td> 
                   
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a href="https://drive.google.com/file/d/1bfbWYq9vtdKqF4hq4qMFC0cy7pMZ_yGQ/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>--</td>
+                <td>13/09/2024</td>
               </tr>
               
               
@@ -868,7 +871,7 @@ footer {
                 <td><h6>Capacitaciones</h6></td>
                 <td> 
                   
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a href="https://drive.google.com/file/d/1qMSUJA4V7H0zWxXwqkkRZexxqgIFKyii/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Preparación de Brigada y Simulacro <br>
                <!--    <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -879,7 +882,7 @@ footer {
                 
                 
                 </td>
-                <td>--
+                <td>20/09/2024
                   <!-- <br><br>--
                   <br><br>--
                   <br><br>--
@@ -1094,7 +1097,7 @@ footer {
                 <td><h6>Plan de Emergencia de la Copropiedad</h6></td>
                 <td> 
                   
-                  <a href="https://drive.google.com/file/d/1eGSRpQAMn8H-mY_C74DGHWFXhudQD_GP/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a href="https://drive.google.com/file/d/1Dhw9lGKPBOE8tYMkyhSI1Md7TsExkoQ9/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                   <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Plan de Emergencia Familiar
                 </td>
@@ -1127,10 +1130,10 @@ footer {
                 <td><h6>Evidencias de Simulacro</h6></td>
                 <td> 
                   
-                  <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a href="https://drive.google.com/file/d/1X4YvwJRYXl6MrOrZqRAWTIWTxf7__6hV/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>--</td>
+                <td>02/10/2024</td>
               </tr>
               <tr>
                 <th scope="row">5</th>

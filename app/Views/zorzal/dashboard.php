@@ -870,12 +870,12 @@ footer {
                   <a   href="https://drive.google.com/file/d/1sPdK2yC1febfuMRjjgcMGWCFYju8-MCH/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Peligro Producto Químico, Manejo, Almacenamiento, Etiquetas Y Hoja De Seguridad, Elementos De Protección Personal. <br>
                   <a href="https://drive.google.com/file/d/1hQBXl3eQ892MQ73C7hUkc4xpgPqiEs_5/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Curso de 50 horas Esperanza Mesa - Administradora<br>
                   <a href="https://drive.google.com/file/d/1yoymsn5zKEDDeChlWBb7VCrtliEjXv9r/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Curso de 50 horas Angiie Roa - Vigia SST <br>
+                  <a   href="https://drive.google.com/file/d/1oPTH8rqnRvBvg32MNfBSXcie0KG1xJyK/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Brigada de Emergencias y Primeros Auxilios <br>
                   <!-- <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br> -->
-                
+                 -->
                 
                 </td>
                  <td> 01/01/2024
@@ -883,8 +883,8 @@ footer {
                   <br><br>26/06/2024
                   <br><br>31/07/2024
                   <br><br>31/07/2024
+                  <br><br>18/10/2024
                   <!-- <br><br>--
-                  <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>-- -->
@@ -1128,10 +1128,10 @@ footer {
                  <td> <h6>Evidencias de Simulacro</h6></td>
                  <td>  
                   
-                  <a   href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a   href="https://drive.google.com/file/d/1tyNkRYef6D38rkB11Y_ic1m9o675iGbC/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                 <td> --</td>
+                 <td>02/10/2024</td>
               </tr>
               <tr>
                 <th scope="row">5</th>

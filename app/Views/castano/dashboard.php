@@ -876,20 +876,20 @@ footer {
                   <a  href="https://drive.google.com/file/d/1T4ClNaefPKWvyuO73VIK1mWFNwiDnc3l/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Peligro biomecánico - pausas activas - manejo de cargas.<br>
                   <a  href="https://drive.google.com/file/d/16Nan_fXXqlD4MwULiqKWlt5SPSjQQrq4/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Peligro químico - uso, almacenamiento y elementos de protección personal. <br>
                   <a href="https://drive.google.com/file/d/1v3rbOYULp5MN4lq_flr8f9Z_5TfowEG2/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Curso de 50 horas Administradora <br>
-                  <!-- <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="https://drive.google.com/file/d/1yg048PhNy0d5lJ_WE1nXm-OFFnbz436O/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Preparación de Brigada y Simulacro <br>
+                 <!--  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br> -->
-                
+                 -->
                 
                 </td>
                  <td> 19/02/2024
                   <br><br>20/06/2024
                   <br><br>20/06/2024
                   <br><br>31/07/2024
+                  <br><br>11/09/2024
                   <!-- <br><br>--
-                  <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>-- -->
@@ -1143,10 +1143,10 @@ footer {
                  <td> <h6>Evidencias de Simulacro</h6></td>
                  <td>  
                   
-                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/1n6xRKGov7JHA2CIsoZvUjvm8XO763FN5/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                 <td> --</td>
+                 <td>02/10/2024</td>
               </tr>
               <tr>
                 <th scope="row">5</th>

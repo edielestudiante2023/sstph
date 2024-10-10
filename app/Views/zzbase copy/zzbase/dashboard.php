@@ -286,7 +286,7 @@
           </li>
         </ul>
         <a class="navbar-brand" href="https://cycloidtalent.com/index.php/sg-sst-propiedad-horizontal" target="_blank">
-          <img src="imagenes/ZAPAN2.jpg" width="100" alt="Logo Cliente">
+          <img src="imagenes/CYCLOID_ TALENT_SIN_FONDO.png" width="100" alt="Logo Cliente">
         </a>
       </div>
     </div>
@@ -1244,10 +1244,10 @@
             </td>
             <td>
 
-              <a href="https://drive.google.com/file/d/1iLdCRw4R_HTI_ZXq-BS5nGMLW__s36h5/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+              <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
 
             </td>
-            <td>02/10/2024</td>
+            <td>--</td>
           </tr>
           <tr>
             <th scope="row">5</th>

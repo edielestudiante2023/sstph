@@ -423,10 +423,10 @@
             </td>
             <td>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+              <a href="https://drive.google.com/file/d/1lXN14_fvPfqABf3rQgTYK7H2n0X-G0JR/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
 
             </td>
-            <td>--</td>
+            <td>01/10/2024</td>
           </tr>
           <tr>
             <th scope="row">2</th>
@@ -434,13 +434,13 @@
               <h6>1.1.2 Responsabilidades</h6>
             </td>
             <td>
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-excel-fill"> </i></a></i><br>Asignación de Funciones <br>
+              <a href="https://docs.google.com/spreadsheets/d/1yYRa0a0KcYssIO7VsJJZbBD8B7mw-8wv/edit?usp=drive_link&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"> </i></a></i><br>Asignación de Funciones <br>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Procedimiento
+              <a href="https://docs.google.com/document/d/15z8Vh08PQv7v_8PKpNP2AzU3lrwWNhuw/edit?usp=drive_link&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Procedimiento
             </td>
 
-            <td> --
-              <br><br> --
+            <td> 01/10/2024
+              <br><br> 01/10/2024
             </td>
           </tr>
           <tr>
@@ -450,10 +450,10 @@
             </td>
             <td>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
+              <a href="https://docs.google.com/spreadsheets/d/1zkoHK2Kgx6-4rCKNmE2nOPblVs1bhyfg/edit?usp=drive_link&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
 
             </td>
-            <td>--</td>
+            <td>01/10/2024</td>
           </tr>
           <tr>
             <th scope="row">4</th>
@@ -462,10 +462,10 @@
             </td>
             <td>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+              <a href="https://docs.google.com/document/d/1dhvoXdfV1EflAa-pWRZyIF3Y2Tv-pHL_/edit?usp=drive_link&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
 
             </td>
-            <td>--</td>
+            <td>01/10/2024</td>
           </tr>
           <tr>
             <th scope="row">5</th>
@@ -474,10 +474,10 @@
             </td>
             <td>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+              <a href="https://drive.google.com/file/d/1jfYEO1GOkc9rRizhwYQhb94ve0tDl3b6/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
 
             </td>
-            <td>--</td>
+            <td>01/10/2024</td>
           </tr>
           <tr>
             <th scope="row">6</th>
@@ -486,10 +486,10 @@
             </td>
             <td>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+              <a href="https://docs.google.com/document/d/141wmQRX0G1AjCoqQh_08Z_JyVbjS6fwT/edit?usp=drive_link&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
 
             </td>
-            <td>--</td>
+            <td>01/10/2024</td>
           </tr>
           <tr>
             <th scope="row">7</th>
@@ -498,10 +498,10 @@
             </td>
             <td>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Programa de Inducción
+              <a href="https://docs.google.com/document/d/1zFtJ_VHOx_5cj9p1oZsslKtKGKMdRs6g/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Programa de Inducción
 
             </td>
-            <td>--</td>
+            <td>01/10/2024</td>
           </tr>
       </table>
     </div>
@@ -532,16 +532,16 @@
             </td>
             <td>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política de SST<br>
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política No Alcohol<br>
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política Emergencias<br>
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política EPP´S<br>
+              <a href="https://drive.google.com/file/d/19njNY6ZyOKQXB6yFJ-hxEFi3kylDIQ7P/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política de SST<br>
+              <a href="https://drive.google.com/file/d/1zMQlG0_iDYC7XsdwFCyrJBrrWmz5iCwH/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política No Alcohol<br>
+              <a href="https://drive.google.com/file/d/1-caLnjWyfLINQfOiE71aqWrDEPoeAeOh/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política Emergencias<br>
+              <a href="https://drive.google.com/file/d/1pHolt4M7IKzgxfh9KSoqlrFoPthx1F-_/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política EPP´S<br>
 
             </td>
-            <td> --
-              <br><br> --
-              <br><br> --
-              <br><br> --
+            <td>01/10/2024
+              <br><br> 01/10/2024
+              <br><br> 01/10/2024
+              <br><br> 01/10/2024
             </td>
           </tr>
           <tr>
@@ -551,10 +551,10 @@
             </td>
             <td>
 
-              <a href="#" target="_blank"> <i class="bi bi-file-earmark-bar-graph-fill"></i></a><br>Documento
+              <a href="https://drive.google.com/file/d/11sol8sWcYOUki8EqZBHtCG6W8pY0O76u/view?usp=drive_link" target="_blank"> <i class="bi bi-file-earmark-bar-graph-fill"></i></a><br>Documento
 
             </td>
-            <td>--</td>
+            <td>01/10/2024</td>
           </tr>
           <tr>
             <th scope="row">3</th>
@@ -563,10 +563,10 @@
             </td>
             <td>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
+              <a href="https://docs.google.com/spreadsheets/d/1UnAand4_WVhQEYnZ69V6W5bAoF7Qzpau/edit?usp=drive_link&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
 
             </td>
-            <td>--</td>
+            <td>01/10/2024</td>
           </tr>
           <tr>
             <th scope="row">4</th>
@@ -575,10 +575,10 @@
             </td>
             <td>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
+              <a href="https://docs.google.com/spreadsheets/d/1TUUxHEKRVfGB0FUhlm1lETG5x4VhYSIE/edit?usp=drive_link&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
 
             </td>
-            <td>--</td>
+            <td>01/10/2024</td>
           </tr>
           <tr>
             <th scope="row">5</th>
@@ -587,13 +587,13 @@
             </td>
             <td>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Procedimiento <br>
+              <a href="https://docs.google.com/document/d/1B99pDkrol97HFlime6FQ0Xqqnh0ZG4Zc/edit?usp=drive_link&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Procedimiento <br>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
+              <a href="https://docs.google.com/spreadsheets/d/1y08y_k6xB_aVp-tqx440JPY_NR0q5zCo/edit?usp=drive_link&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
 
             </td>
-            <td> --
-              <br><br> --
+            <td> 01/10/2024
+              <br><br> 01/10/2024
             </td>
           </tr>
           <tr>
@@ -603,11 +603,11 @@
             </td>
             <td>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Manual <br>
+              <a href="https://docs.google.com/document/d/1ulB0_UouwDEyOywC9gIaAxGDdVsPpLHx/edit?usp=drive_link&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Manual <br>
 
 
             </td>
-            <td>--</td>
+            <td>01/10/2024</td>
           </tr>
       </table>
     </div>
@@ -639,11 +639,11 @@
             </td>
             <td>
 
-              <a href="" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b> <br>
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a><br>Procedimiento reporte de accidentes
+              <a href="https://docs.google.com/document/d/1W7VuztCIoFc3R6VbZkxJtesnQPgOIPh_/edit?usp=drive_link&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b> <br>
+              <a href="https://docs.google.com/document/d/1W7VuztCIoFc3R6VbZkxJtesnQPgOIPh_/edit?usp=drive_link&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a><br>Procedimiento reporte de accidentes
             </td>
-            <td> --
-              <br><br> --
+            <td>01/10/2024
+              <br><br> 01/10/2024
             </td>
           </tr>
           <tr>
@@ -653,7 +653,7 @@
             </td>
             <td>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a><br>Documento
+              <a href="https://docs.google.com/document/d/1OVqjO5k6HuD9hNo1Jy6JaNv-vEHnPqfN/edit?usp=drive_link&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a><br>Documento
 
             </td>
             <td>--</td>
@@ -665,18 +665,18 @@
             </td>
             <td>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Reg. Higiene y Seg-Ind.
+              <a href="https://drive.google.com/file/d/1-GPB7kPwkgX0DfL4P6OW6f6MSPkFF2uC/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Reg. Higiene y Seg-Ind.
 
               <br>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Decreto 2090 de 2003 <br>
+              <a href="https://drive.google.com/file/d/1zWX71L0Op7uLhNwJhFZE_gNIWJj6g9P5/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Decreto 2090 de 2003 <br>
 
               <a href="" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Matriz de Peligros</b>
 
             </td>
-            <td>--
-              <br><br>--
-              <br><br>--
+            <td>01/10/2024
+              <br><br>01/10/2024
+              <br><br>01/10/2024
             </td>
           </tr>
           <tr>
@@ -686,10 +686,10 @@
             </td>
             <td>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
+              <a href="https://docs.google.com/spreadsheets/d/1IW7HwvVVzxNEOWXOHdtLKzHhQhRwenSz/edit?usp=drive_link&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
 
             </td>
-            <td>--</td>
+            <td>01/10/2024</td>
           </tr>
 
       </table>
@@ -1389,11 +1389,11 @@
           </h5>
         </div>
         <div class="col-sm-6 col-lg-6">
-          <h5 style="color: aquamarine;">Su contrato actual vence el (31/03/2025)</h5>
-          <a href="#" target="_blank">
+          <h5 style="color: aquamarine;">Su contrato actual vence el (31/12/2024)</h5>
+          <a href="https://drive.google.com/file/d/1uu9nXxUZG1zCA3TVTOhRIj3KwCxXSi-D/view?usp=drive_link" target="_blank">
             <button type="button" class="btn btn-primary contrato">Acceder al contrato <i class="bi bi-arrow-right-circle-fill"></i></button>
           </a>
-          <a href="#" target="_blank">
+          <a href="https://drive.google.com/file/d/1EGGSz0_7Dnx8K17DEV8u7sZAKprslNOI/view?usp=drive_link" target="_blank">
             <button type="button" class="btn btn-primary contrato">Acceder al acuerdo de confidencialidad <i class="bi bi-arrow-right-circle-fill"></i></button>
           </a>
         </div>

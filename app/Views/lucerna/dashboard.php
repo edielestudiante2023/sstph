@@ -877,8 +877,8 @@ footer {
                   <a     href="https://drive.google.com/file/d/1AMmN8TlWqXfomkPnelubB9DB4Haqk2Yy/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Riesgo Biomecánico - Manejo de Cargas <br>
                   <a     href="https://drive.google.com/file/d/1Kqx0YkIHNg2dDZP2ckQ0Y7Bo3LwtehJg/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Certificado Curso 50 Horas - Edita Sanbria <br>
                   <a     href="https://drive.google.com/file/d/1EkjfruJxyNonfwlNUtf_mIWdpXcEcLq_/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Certificado 50 Horas ASTRID LILIANA AREVALO CORTES<br>
+                  <a     href="https://drive.google.com/file/d/1oOJSa0xHLkWJZ0EpCMwUklvLyoKhctTd/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Preparación de Brigada y Simulacro<br>
                   <!-- <a     href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a     href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a     href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a     href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a     href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br> -->
@@ -889,8 +889,8 @@ footer {
                   <br><br>02/08/2024
                   <br><br><br>13/08/2024
                   <br><br><br>13/08/2024
-                  <!-- <br><br>--
-                  <br><br>--
+                  <br><br>09/09/2024
+                 <!--  <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>-- -->
@@ -1138,10 +1138,10 @@ footer {
                  <td> <h6>Evidencias de Simulacro</h6></td>
                  <td>  
                   
-                  <a     href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a     href="https://drive.google.com/file/d/16Tbks0O0zSFgjW_b44A3nwSyL72T9MmG/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                 <td> --</td>
+                 <td>02/10/2024</td>
               </tr>
               <tr>
                 <th scope="row">5</th>
