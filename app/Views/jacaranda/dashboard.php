@@ -270,7 +270,7 @@
             <a class="nav-link active" aria-current="page" href="https://cycloidtalent.com/index.php/sg-sst-propiedad-horizontal" target="_blank">Cycloid Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="XXXXX" target="blank">Indicadores SST</a>
+            <a class="nav-link" href="https://lookerstudio.google.com/reporting/b4d88631-3ef6-46a3-bf5d-3c7a25397464" target="blank">Indicadores SST</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="https://lookerstudio.google.com/reporting/b508a21a-fc30-41b3-8378-8b2163480e86" target="_blank">Curso de Brigada Básica</a>
@@ -387,7 +387,7 @@
   <!-- SECCIÓN DE IMAGEN A LOOKER STUDIO -->
   <section>
     <div class="hero-inferior">
-      <a href="XXXXX" target="_blank">
+      <a href="https://lookerstudio.google.com/reporting/b4d88631-3ef6-46a3-bf5d-3c7a25397464" target="_blank">
         <img class="hero-inferior-imagen img-fluid" src="imagenes/indicadores.PNG" alt="kpi">
       </a>
 
@@ -434,13 +434,13 @@
               <h6>1.1.2 Responsabilidades</h6>
             </td>
             <td>
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-excel-fill"> </i></a></i><br>Asignación de Funciones <br>
+              <a href="https://docs.google.com/spreadsheets/d/12bfclOGwEJ1FHlPRbeDPFkTCy9DEomfN/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"> </i></a></i><br>Asignación de Funciones <br>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Procedimiento
+              <a href="https://docs.google.com/document/d/1BHnfiNmyBkFGCBabWybMfS08ITn6HFVv/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Procedimiento
             </td>
 
-            <td> --
-              <br><br> --
+            <td> 01/10/2024
+              <br><br> 01/10/2024
             </td>
           </tr>
           <tr>
@@ -450,10 +450,10 @@
             </td>
             <td>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
+              <a href="https://docs.google.com/spreadsheets/d/1usqb2gq54i0STYURnKVIZkGyQ3q2aK36/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
 
             </td>
-            <td>--</td>
+            <td>01/10/2024</td>
           </tr>
           <tr>
             <th scope="row">4</th>
@@ -462,10 +462,10 @@
             </td>
             <td>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+              <a href="https://docs.google.com/document/d/1XjNX3nx7gNZ3P8EJYxZrLTwN2JhkgA5b/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
 
             </td>
-            <td>--</td>
+            <td>01/10/2024</td>
           </tr>
           <tr>
             <th scope="row">5</th>
@@ -486,10 +486,10 @@
             </td>
             <td>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+              <a href="https://docs.google.com/document/d/1e3uNjflGe2zKQ_QWWTyX9TvCu0GzXjte/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
 
             </td>
-            <td>--</td>
+            <td>01/10/2024</td>
           </tr>
           <tr>
             <th scope="row">7</th>
@@ -498,10 +498,10 @@
             </td>
             <td>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Programa de Inducción
+              <a href="https://docs.google.com/document/d/1Nk131ysMU2p9tgSL1Ika-O0C1nvnd8Cd/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Programa de Inducción
 
             </td>
-            <td>--</td>
+            <td>01/10/2024</td>
           </tr>
       </table>
     </div>
@@ -563,10 +563,10 @@
             </td>
             <td>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
+              <a href="https://docs.google.com/spreadsheets/d/1BAKR4SnAZlPSYT-nVbbcn8tK8MXAFKB2/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
 
             </td>
-            <td>--</td>
+            <td>01/10/2024</td>
           </tr>
           <tr>
             <th scope="row">4</th>
@@ -587,13 +587,13 @@
             </td>
             <td>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Procedimiento <br>
+              <a href="https://docs.google.com/document/d/1xyV_c2SsYZYZhrqkifQKl8j24mHEl4jV/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Procedimiento <br>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
+              <a href="https://docs.google.com/spreadsheets/d/1RHzx-3z258r0Bi5LcASyq7e21XfTFD85/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
 
             </td>
-            <td> --
-              <br><br> --
+            <td> 01/10/2024
+              <br><br> 01/10/2024
             </td>
           </tr>
           <tr>
@@ -603,11 +603,11 @@
             </td>
             <td>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Manual <br>
+              <a href="https://docs.google.com/document/d/1FQCdT6fNqx5mGQ9oikUPKTNplHl0kQfj/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Manual <br>
 
 
             </td>
-            <td>--</td>
+            <td>01/10/2024</td>
           </tr>
       </table>
     </div>
@@ -913,7 +913,7 @@
             </td>
             <td>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+              <a href="https://drive.google.com/file/d/1Gb-g_Ur9pwGsqmnQWymMF63vul01zTIb/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
               <!--  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -927,7 +927,7 @@
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br> -->
 
             </td>
-            <td> --
+            <td> 21/09/2024
               <!--  <br><br>--
                   <br><br>--
                   <br><br>--
@@ -949,7 +949,7 @@
             </td>
             <td>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+              <a href="https://drive.google.com/file/d/1iuRCHzN479FAlLGcoWprrBXfxj04KwAE/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Preparación De Brigada - Planeación De Simulacro <br>
               <!--    <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -960,7 +960,7 @@
 
 
             </td>
-            <td>--
+            <td>27/09/2024
               <!-- <br><br>--
                   <br><br>--
                   <br><br>--
@@ -1240,7 +1240,7 @@
           <tr>
             <th scope="row">4</th>
             <td>
-              <h6>Evidencias de Simulacro</h6>
+              <h6>Informe de Simulacro</h6>
             </td>
             <td>
 
@@ -1295,10 +1295,10 @@
             </td>
             <td>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+              <a href="https://docs.google.com/document/d/1ZQYZ1ogJ5NgZgZNMbYAdFYmTwGnBFUg-/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
 
             </td>
-            <td>--</td>
+            <td>01/10/2024</td>
           </tr>
           <tr>
             <th scope="row">2</th>
@@ -1331,7 +1331,7 @@
             </td>
             <td>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
+              <a href="https://docs.google.com/spreadsheets/d/1QiCOYK9pLH21XdDxSC7sxqSjPITCuCJJ/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
               <!-- <br>
               <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
               <br>
@@ -1341,7 +1341,7 @@
               <br>
               <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento -->
             </td>
-            <td>--
+            <td>01/10/2024
             <!-- <br><br>--
               <br><br>--
               <br><br>--
@@ -1355,7 +1355,7 @@
             </td>
             <td>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
+              <a href="https://docs.google.com/spreadsheets/d/1Ci6z1TGuwAr6uqm4pksQXFX26TBCgi7l/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b>
               <!-- <br>
               <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
               <br>
@@ -1365,7 +1365,7 @@
               <br>
               <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento -->
             </td>
-            <td>--
+            <td>01/10/2024
               <!-- <br><br>--
               <br><br>--
               <br><br>--
@@ -1389,8 +1389,8 @@
           </h5>
         </div>
         <div class="col-sm-6 col-lg-6">
-          <h5 style="color: aquamarine;">Su contrato actual vence el (31/03/2025)</h5>
-          <a href="#" target="_blank">
+          <h5 style="color: aquamarine;">Su contrato actual vence el (28/02/2025)</h5>
+          <a href="https://drive.google.com/file/d/1VdIaSHfpsgIBTZMxyy27KupPsOBQCehf/view?usp=sharing" target="_blank">
             <button type="button" class="btn btn-primary contrato">Acceder al contrato <i class="bi bi-arrow-right-circle-fill"></i></button>
           </a>
           <a href="#" target="_blank">

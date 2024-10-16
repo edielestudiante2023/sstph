@@ -836,6 +836,7 @@ footer {
                 <td> 
                   
                   <a href="https://drive.google.com/file/d/1NVAayY13rZibCNhN4vsmXXsxyMBVsxKE/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a href="https://drive.google.com/file/d/1Kc4QmfCj5gVZmYEfTIEv7AtM_rRAJaxa/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                  <!--  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -850,6 +851,7 @@ footer {
                 
                 </td> 
                 <td> 10/09/2024
+                  <br><br>19/09/2024
                  <!--  <br><br>--
                   <br><br>--
                   <br><br>--
@@ -869,7 +871,7 @@ footer {
                 <td><h6>Capacitaciones</h6></td>
                 <td> 
                   
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a href="https://drive.google.com/file/d/1urvYLz6kZeNZeaXsiMey-3FAc95SRPNq/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Preparación De Brigada - Planeación De Simulacro <br>
                <!--    <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -880,7 +882,7 @@ footer {
                 
                 
                 </td>
-                <td>--
+                <td>13/09/2024
                   <!-- <br><br>--
                   <br><br>--
                   <br><br>--
@@ -1127,7 +1129,7 @@ footer {
               </tr>
               <tr>
                 <th scope="row">4</th>
-                <td><h6>Evidencias de Simulacro</h6></td>
+                <td><h6>Informe de Simulacro</h6></td>
                 <td> 
                   
                   <a href="https://drive.google.com/file/d/1IORFkOKD0A-7hgXrIZr7bpq-J7c6uifx/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento

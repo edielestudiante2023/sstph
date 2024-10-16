@@ -838,8 +838,8 @@ footer {
                 <td> 
                   
                   <a href="https://drive.google.com/file/d/1sWfK7za1xm0RDQYgPz9hA9p3NCtn4V2O/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                 <!--  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a href="https://drive.google.com/file/d/1wGCKQDYRgmUtu9j6MbvWxjYoMebQilV_/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Preparación De Brigada - Planeación De Simulacro <br>
+                  <!-- <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -852,8 +852,8 @@ footer {
                 
                 </td> 
                 <td> 16/08/2024
-                 <!--  <br><br>--
-                  <br><br>--
+                  <br><br>23/09/2024
+                  <!-- <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
@@ -1127,7 +1127,7 @@ footer {
               </tr>
               <tr>
                 <th scope="row">4</th>
-                <td><h6>Evidencias de Simulacro</h6></td>
+                <td><h6>Informe de Simulacro</h6></td>
                 <td> 
                   
                   <a href="https://drive.google.com/file/d/1X4YvwJRYXl6MrOrZqRAWTIWTxf7__6hV/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento

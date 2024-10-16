@@ -835,8 +835,8 @@ footer {
                 <td> 
                   
                   <a href="https://drive.google.com/file/d/1mPpG9BTP9oXDgYf7Vrnn6tDhePYl7q8B/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                 <!--  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a href="https://drive.google.com/file/d/1YLqoPSP3YkUrTOJRQuDO0vTD73i-XwRO/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <!-- <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -849,8 +849,8 @@ footer {
                 
                 </td> 
                 <td>22/08/2024
-                 <!--  <br><br>--
-                  <br><br>--
+                  <br><br>16/09/2024
+                  <!-- <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
@@ -1124,7 +1124,7 @@ footer {
               </tr>
               <tr>
                 <th scope="row">4</th>
-                <td><h6>Evidencias de Simulacro</h6></td>
+                <td><h6>Informe de Simulacro</h6></td>
                 <td> 
                   
                   <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento

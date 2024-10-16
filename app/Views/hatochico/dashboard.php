@@ -844,8 +844,8 @@ footer {
                   <a   href="https://drive.google.com/file/d/1K1ITJ8vQ1s_GKS2iiG6ReOKlJD_UfCoY/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="https://drive.google.com/file/d/16M6rVULIXNhla8zLoeD0zyajH4VaVfGT/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="https://drive.google.com/file/d/1t25ILzY4Ws3TK0FL3gkr7P6tPlS1ooMG/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a   href="https://drive.google.com/file/d/1gNW8nLB2J2QorGfllX3CUVdKAMSOxr7N/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <!-- <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -858,8 +858,8 @@ footer {
                   <br><br>19/06/2024
                   <br><br>29/07/2024
                   <br><br>21/08/2024
+                  <br><br>13/09/2024
                   <!-- <br><br>--
-                  <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
@@ -1128,7 +1128,7 @@ footer {
               </tr>
               <tr>
                 <th scope="row">4</th>
-                 <td> <h6>Evidencias de Simulacro</h6></td>
+                 <td> <h6>Informe de Simulacro</h6></td>
                  <td>  
                   
                   <a   href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento

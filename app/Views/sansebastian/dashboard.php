@@ -842,8 +842,8 @@ footer {
                   <a  href="https://drive.google.com/file/d/1ix0B2c8frAjzJApgoWAEup4gpRojBaMN/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="https://drive.google.com/file/d/1JgR0lQ6n0x8MLCdJY2EbU_wHDY47Xkym/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="https://drive.google.com/file/d/1s8veBrkVJxiGyAVLh_gqup2wl3ofOaec/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="https://drive.google.com/file/d/1cuNA2R9va9rNNnSpp4Ao7Tc_EwGbcDzO/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <!-- <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br> -->
@@ -856,8 +856,8 @@ footer {
                   <br><br>17/05/2024
                   <br><br>17/07/2024
                   <br><br>14/08/2024
+                  <br><br>25/09/2024
                   <!-- <br><br>--
-                  <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>-- -->
@@ -874,11 +874,11 @@ footer {
                   <a  href="https://drive.google.com/file/d/1RRBt-2cNd4C-hIaJyiBiTdoGv3_SAeL6/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Peligro biomecánico - pausas activas - posturas - manejo de cargas - movimientos repetitivos - lesiones y enfermedades <br>
                   <a  href="https://drive.google.com/file/d/1CYYeEttUn_82XYOuwRUJnf5EBMbUy5rB/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Peligro químico - almacenamiento - manipulación - etiquetas - hoja de seguridad - EPPs -<br>
                   <a  href="https://drive.google.com/file/d/14rNKii0E1Xr9YwLLRub5RBnI0S7faO_C/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>CURSO 50 HORAS SONIA YANIRA CASTRO SUAREZ <br>
+                  <a  href="https://drive.google.com/file/d/1KdlpW33nAM6S54IgKEBYPaonIy_rFm9W/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Preparación De Brigada - Planeación De Simulacro <br>
                   <!-- <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                 -->
+                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br> -->
+                
                 
                 </td>
                  <td> 06/03/2024
@@ -886,8 +886,8 @@ footer {
                   <br><br>11/07/2024
                   <br><br>11/07/2024
                   <br><br>30/08/2024
+                  <br><br>25/09/2024
                   <!-- <br><br>--
-                  <br><br>--
                   <br><br>--
                   <br><br>-- -->
                   
@@ -1127,7 +1127,7 @@ footer {
               </tr>
               <tr>
                 <th scope="row">4</th>
-                 <td> <h6>Evidencias de Simulacro</h6></td>
+                 <td> <h6>Informe de Simulacro</h6></td>
                  <td>  
                   
                   <a  href="https://drive.google.com/file/d/1qKy4gz9WIODNseGbTryo6uZkM3KNMqhA/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento

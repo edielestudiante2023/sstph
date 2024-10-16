@@ -934,8 +934,8 @@
               <a href="https://drive.google.com/file/d/1cNkTCR942r5lrcp1pJxK9hHdg_4TnGCu/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
               <a href="https://drive.google.com/file/d/1IETjTmaREaQ7irzl119aEh_OBeT7Lqp0/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
               <a href="https://drive.google.com/file/d/1pDDVMPMsGdi9y4D_cX_kqZAe4qUhJbWD/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-              <!-- <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+              <a  href="https://drive.google.com/file/d/1eYubronznhTocYkulk9qTg-Jyc3pRW7M/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <!-- <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br> -->
 
@@ -949,8 +949,8 @@
               <br><br>08/07/2024
               <br><br>23/07/2024
               <br><br>12/08/2024
-              <!-- <br><br>--
-                  <br><br>--
+              <br><br>09/09/2024
+                  <!-- <br><br>--
                   <br><br>--
                   <br><br>-- -->
 
@@ -1265,7 +1265,7 @@
           <tr>
             <th scope="row">4</th>
             <td>
-              <h6>Evidencias de Simulacro</h6>
+              <h6>Informe de Simulacro</h6>
             </td>
             <td>
 

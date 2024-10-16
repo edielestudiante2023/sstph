@@ -1240,7 +1240,7 @@
           <tr>
             <th scope="row">4</th>
             <td>
-              <h6>Evidencias de Simulacro</h6>
+              <h6>Informe de Simulacro</h6>
             </td>
             <td>
 

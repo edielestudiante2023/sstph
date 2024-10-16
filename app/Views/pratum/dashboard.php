@@ -1125,7 +1125,7 @@ footer {
               </tr>
               <tr>
                 <th scope="row">4</th>
-                 <td> <h6>Evidencias de Simulacro</h6></td>
+                 <td> <h6>Informe de Simulacro</h6></td>
                  <td>  
                   
                   <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento

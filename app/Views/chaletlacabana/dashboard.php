@@ -837,24 +837,23 @@ footer {
                   <a  href="https://drive.google.com/file/d/1oTP8iIOYuqwqM7nzrxYAQulp-oWnl1cA/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="https://drive.google.com/file/d/1XtODuf9ApXUZXHcVLCgNg6PahxDOjkGp/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="https://drive.google.com/file/d/1qKax6qL4PoySdn1OhfDwYm3xc0fbtGZf/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a  href="https://drive.google.com/file/d/14rNKii0E1Xr9YwLLRub5RBnI0S7faO_C/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>CURSO 50 HORAS SONIA YANIRA CASTRO SUAREZ <br>
+                  <a  href="https://drive.google.com/file/d/1IdZMGLDA-C8dheHvcVrLgFrGECDcORyc/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <!-- <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br> -->
-                
+                  
                 </td> 
-                 <td>  19/04/2024
+                <td>  19/04/2024
                   <br><br>16/05/2024
                   <br><br>18/07/2024  
                   <br><br>29/08/2024
                   <br><br>30/08/2024
+                  <br><br>21/09/2024
                   <!-- <br><br>--
-                  <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
@@ -866,11 +865,12 @@ footer {
               </tr>
               <tr>
                 <th scope="row">2</th>
-                 <td> <h6>Capacitaciones</h6></td>
-                 <td>  
+                <td> <h6>Capacitaciones</h6></td>
+                <td>  
                   
-                 <a  href="https://drive.google.com/file/d/1obP1vW97MmjZb7_SEdKoqj2w0zh8-oBR/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Certificado Curso 50 Horas - Laura Valentina Caseres Castro <br>
+                  <a  href="https://drive.google.com/file/d/1obP1vW97MmjZb7_SEdKoqj2w0zh8-oBR/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Certificado Curso 50 Horas - Laura Valentina Caseres Castro <br>
                   <a  href="https://drive.google.com/file/d/1jNM6W7Uag2i71c9mq0b4pnEu75qOr7gQ/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Riesgo biomecánico y químico<br>
+                  <a  href="https://drive.google.com/file/d/14rNKii0E1Xr9YwLLRub5RBnI0S7faO_C/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>CURSO 50 HORAS SONIA YANIRA CASTRO SUAREZ <br>
                   <!-- <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -882,6 +882,7 @@ footer {
                 </td>
                  <td> 05/07/2024
                 <br><br>23/07/2024
+                <br><br>30/08/2024
                 <!-- <br><br>--
                 <br><br>--
                 <br><br>--
@@ -1125,13 +1126,13 @@ footer {
               </tr>
               <tr>
                 <th scope="row">4</th>
-                 <td> <h6>Evidencias de Simulacro</h6></td>
+                 <td> <h6>Informe de Simulacro</h6></td>
                  <td>  
                   
-                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/1JRSOLmybMbeC9-oLYuihuuwtxsgfMRiE/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                 <td> --</td>
+                 <td>02/10/2024</td>
               </tr>
               <tr>
                 <th scope="row">5</th>

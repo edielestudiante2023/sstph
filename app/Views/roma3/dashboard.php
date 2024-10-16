@@ -841,8 +841,8 @@ footer {
                   <a href="https://drive.google.com/file/d/1D-OoAO0NhUxFX-p66pIzJSkSrP1Jwd7m/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="https://drive.google.com/file/d/1J3xqx3bJSurooOX1XfMR0FLglIv8Rebb/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="https://drive.google.com/file/d/1aj5IGlJFtflZ4W-m5er20ZzqoPEUxuj1/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a href="https://drive.google.com/file/d/1kcI8iHb3i9Z3QHxSffoG-yhl1sOL6pLT/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <!-- <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -855,6 +855,7 @@ footer {
                   <br><br>21/03/2024
                   <br><br>24/06/2024
                   <br><br>27/08/2024
+                  <br><br>18/09/2024
                   <!-- <br><br>--
                   <br><br>--
                   <br><br>--
@@ -872,6 +873,7 @@ footer {
                 <td> 
                   
                   <a href="https://drive.google.com/file/d/15uzZvVZZrgfHc8KD3fR-5rIbzlfM9ZU2/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a href="https://drive.google.com/file/d/1f7_YI23PMKo5bfxZCeSQYcnwX6FDIGmy/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Preparación De Brigada - Planeación De Simulacro <br>
                   <!-- <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -883,6 +885,7 @@ footer {
                 
                 </td>
                 <td>29/02/2024
+                <td>18/09/2024
                  <!--  <br><br>--
                   <br><br>--
                   <br><br>--
@@ -1127,7 +1130,7 @@ footer {
               </tr>
               <tr>
                 <th scope="row">4</th>
-                <td><h6>Evidencias de Simulacro</h6></td>
+                <td><h6>Informe de Simulacro</h6></td>
                 <td> 
                   
                   <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento

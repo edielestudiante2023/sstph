@@ -836,8 +836,8 @@ footer {
                   <a href="https://drive.google.com/file/d/1haU9V4a76JHg7-ASOXu7crefONoE_g6e/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="https://drive.google.com/file/d/193fC-Gl8ECyq6bcFJ1KpqgcbHrZEnauA/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="https://drive.google.com/file/d/1FGlxbOuJ2NeMBDmp2kNIjWVGhEKFLrtS/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a href="https://drive.google.com/file/d/1U3UVHB9cPmLZvQKuGaPfv2SlzsiCu5fR/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <!-- <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br> -->
                 
                 </td> 
@@ -850,8 +850,8 @@ footer {
                   <br><br>21/06/2024
                   <br><br>31/07/2024
                   <br><br>30/08/2024
+                  <br><br>23/09/2024
                   <!-- <br><br>--
-                  <br><br>--
                   <br><br>-- -->
                   
                 </td>
@@ -1120,7 +1120,7 @@ footer {
               </tr>
               <tr>
                 <th scope="row">4</th>
-                <td><h6>Evidencias de Simulacro</h6></td>
+                <td><h6>Informe de Simulacro</h6></td>
                 <td> 
                   
                   <a href="https://drive.google.com/file/d/1pDfAEpxOzEhVAGk_JWdnWk9yaHqS8d_c/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
@@ -1199,11 +1199,13 @@ footer {
                 <td> 
                   
                   <a href="https://docs.google.com/spreadsheets/d/1UdBhbWhl2AzDOcky15x56Q9TxtO3rYYR/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b> <br>
-                  <a href="https://drive.google.com/file/d/1gMLjFkt5F8-rMgSwj7AMUSaccW_ajS5C/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Inspección Ultima Fumigación
+                  <a href="https://drive.google.com/file/d/1gMLjFkt5F8-rMgSwj7AMUSaccW_ajS5C/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Inspección Ultima Fumigación <br>
+                  <a href="https://drive.google.com/file/d/17yQNGYAtKiYELcbN13TJwFTfGTkXVzfS/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Inspección Ultima Fumigación 13/09/2024 <br>
                 
                 </td>
                 <td>01/01/2024
                   <br><br>02/03/2024
+                  <br><br>13/09/2024
                 </td>
 
               </tr>

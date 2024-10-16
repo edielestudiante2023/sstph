@@ -839,6 +839,7 @@ footer {
                   <a   href="https://drive.google.com/file/d/1SKjvv2SfdULQkbfMTqCSQyONSI5cILsL/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="https://drive.google.com/file/d/1MtO-u3uGc2VLNHlsJOO1cMV6-Uj7LMXT/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="https://drive.google.com/file/d/18sd1rLzkKzrEGRfJkk_JppimN6dg22yx/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a   href="https://drive.google.com/file/d/10k1ouP9Au6lu62vy-S_6wylgwHmp-5bX/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <!-- <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -853,6 +854,7 @@ footer {
                   <br><br>25/06/2024
                   <br><br>23/07/2024
                   <br><br>27/08/2024
+                  <br><br>18/09/2024
                   <!-- <br><br>--
                   <br><br>--
                   <br><br>--
@@ -1125,7 +1127,7 @@ footer {
               </tr>
               <tr>
                 <th scope="row">4</th>
-                 <td> <h6>Evidencias de Simulacro</h6></td>
+                 <td> <h6>Informe de Simulacro</h6></td>
                  <td>  
                   
                   <a   href="https://drive.google.com/file/d/1tyNkRYef6D38rkB11Y_ic1m9o675iGbC/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
@@ -1204,11 +1206,13 @@ footer {
                  <td>  
                   
                   <a   href="https://docs.google.com/spreadsheets/d/1GwEC38sW4qNiXLze5LIaVikupc5rKqeZ/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b> <br>
-                  <a href="https://drive.google.com/file/d/1q4LD7WQqPwUax78PRLulvQSO2WFcDsHj/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Control de Plagas 20240223
+                  <a href="https://drive.google.com/file/d/1q4LD7WQqPwUax78PRLulvQSO2WFcDsHj/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Control de Plagas 20240223 <br>
+                  <a href="https://drive.google.com/file/d/1lXCTcNubh4ZWEy0ii8KeV4VM7tWmZRSd/view?usp=sharing"> </i></a></i><br>Fumigación 11/08/2024 <br>
                 
                 </td>
                  <td> 01/01/2024
                   <br><br>23/02/2024
+                  <br><br>11/08/2024
                  </td>
               </tr>
               <tr>
