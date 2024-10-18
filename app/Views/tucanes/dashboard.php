@@ -993,8 +993,8 @@
               <a  href="https://drive.google.com/file/d/1p-kcK2vIaCWEVi7afCUBWU4feprHuHGu/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
               <a  href="https://drive.google.com/file/d/1y9D6cauFRSAooG6zNPrHFI8lrrptMgf4/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
               <a  href="https://drive.google.com/file/d/1QhSY1jKUnMjr1CGveHjlqBI7NXTJ9-0f/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+              <a  href="https://drive.google.com/file/d/17W9SmtmpYs-0lae0aq5cpBFc4pWYEMvl/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
               <!-- <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-              <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
               <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br> -->
 
             </td>
@@ -1006,8 +1006,8 @@
               <br><br>30/06/2024
               <br><br>31/07/2024
               <br><br>31/08/2024
+              <br><br>30/09/2024
               <!-- <br><br>--
-              <br><br>--
               <br><br>--
               <br><br>--
               <br><br>-- -->
@@ -1326,26 +1326,29 @@
             <td>
 
               <a href="https://docs.google.com/spreadsheets/d/1K4Jw_Dr3YF99gD0aYkkblLP4OP1RbSmN/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b> <br>
-              <a href="https://drive.google.com/file/d/1rg2VSuGjxR3qsjQCVLhzyjMeOqwmzSRn/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Soporte de Fumigación 10/08/2024
-
+              <a href="https://drive.google.com/file/d/1rg2VSuGjxR3qsjQCVLhzyjMeOqwmzSRn/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Fumigacion 10/08/2024
+             
+              
             </td>
             <td> 01/01/2024
               <br><br>10/08/2024
-            </td>
-          </tr>
-          <tr>
-            <th scope="row">5</th>
-            <td>
-              <h6>Agua Potable</h6>
-            </td>
-            <td>
-
-              <a href="https://docs.google.com/spreadsheets/d/1KNA0LJNIB6L_tSziBoVqo1X84vqVwDdu/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b><br>
-              <a href="https://drive.google.com/file/d/1AwB1XTvpTqqsJYGw2dxOWC6nUL0SqJHB/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Lavado de Tanques 20240223
-
-            </td>
-            <td> 01/01/2024
-              <br><br>23/02/2024
+              </td>
+            </tr>
+            <tr>
+              <th scope="row">5</th>
+              <td>
+                <h6>Agua Potable</h6>
+              </td>
+              <td>
+                
+                <a href="https://docs.google.com/spreadsheets/d/1KNA0LJNIB6L_tSziBoVqo1X84vqVwDdu/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b><br>
+                <a href="https://drive.google.com/file/d/1AwB1XTvpTqqsJYGw2dxOWC6nUL0SqJHB/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Lavado de Tanques 20240223
+                
+                <a href="https://drive.google.com/file/d/1rg2VSuGjxR3qsjQCVLhzyjMeOqwmzSRn/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Soporte Lavado de Tanques 10/08/2024
+              </td>
+              <td> 01/01/2024
+                <br><br>23/02/2024
+                <br><br>10/08/2024
             </td>
           </tr>
 

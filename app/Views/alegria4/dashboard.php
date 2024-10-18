@@ -906,12 +906,12 @@ footer {
                   <a href="https://drive.google.com/file/d/1cs2AAzjuJo6U6NZu8hAmf-qw-m_lXCWc/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="https://drive.google.com/file/d/1maRavlb4yBBOo-t6lyPwT1X2s_qB7JLU/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="https://drive.google.com/file/d/1Dw1bl-wQaNeioGsA7yBz_gu7G7QHt0NG/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a href="https://drive.google.com/file/d/1sRGLOuT28lzyC-I_f5tqnisqFjPTJ9oa/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <!-- <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                 -->
+                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br> -->
+                
                 </td>
                 <td>31/01/2024
                   <br><br>28/02/2024
@@ -921,8 +921,8 @@ footer {
                   <br><br>30/06/2024
                   <br><br>31/07/2024
                   <br><br>31/08/2024
+                  <br><br>30/09/2024
                   <!-- <br><br>--
-                  <br><br>--
                   <br><br>--
                   <br><br>-- -->
                 </td>
@@ -1200,14 +1200,12 @@ footer {
                   
                   <a href="https://docs.google.com/spreadsheets/d/1UdBhbWhl2AzDOcky15x56Q9TxtO3rYYR/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b> <br>
                   <a href="https://drive.google.com/file/d/1gMLjFkt5F8-rMgSwj7AMUSaccW_ajS5C/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Inspección Ultima Fumigación <br>
-                  <a href="https://drive.google.com/file/d/17yQNGYAtKiYELcbN13TJwFTfGTkXVzfS/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Inspección Ultima Fumigación 13/09/2024 <br>
-                
+                  
                 </td>
                 <td>01/01/2024
                   <br><br>02/03/2024
-                  <br><br>13/09/2024
                 </td>
-
+                
               </tr>
               <tr>
                 <th scope="row">5</th>
@@ -1216,11 +1214,13 @@ footer {
                   
                   <a href="https://docs.google.com/spreadsheets/d/1mgjUUTX07Mmcvcua8oF0TJes7nKZA-g8/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b> <br>
                   <a href="https://drive.google.com/file/d/1TA-z2yNo-fqnxPvG8ZlrAdBPoomo3pFg/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Soporte Lavado de Tanques 20240302
-                
-                
-
-                <td>01/01/2024
-                  <br><br>02/03/2024
+                  
+                  <a href="https://drive.google.com/file/d/17yQNGYAtKiYELcbN13TJwFTfGTkXVzfS/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Soporte Lavado de Tanques 13/09/2024 <br>
+                  
+                  
+                  <td>01/01/2024
+                    <br><br>02/03/2024
+                    <br><br>13/09/2024
                 </td>
                 
 
