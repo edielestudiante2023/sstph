@@ -939,10 +939,10 @@ footer {
                 <td><h6>Simulacro de Evacuación</h6></td>
                 <td> 
                   
-                  <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a href="https://drive.google.com/file/d/1PdCkxow3y034RSE1vWd15oGMzPzpwh3K/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>--</td>
+                <td>18/10/2024</td>
               </tr>
 
               

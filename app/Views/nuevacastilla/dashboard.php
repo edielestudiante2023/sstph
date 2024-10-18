@@ -1026,10 +1026,10 @@
             </td>
             <td>
 
-              <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+              <a href="https://drive.google.com/file/d/1q9zJ8vgcBJKC90KrnBjmb2vM7b89u8aT/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
 
             </td>
-            <td>--</td>
+            <td>18/10/2024</td>
           </tr>
 
 
