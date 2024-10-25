@@ -845,8 +845,8 @@ footer {
                   <a   href="https://drive.google.com/file/d/16M6rVULIXNhla8zLoeD0zyajH4VaVfGT/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="https://drive.google.com/file/d/1t25ILzY4Ws3TK0FL3gkr7P6tPlS1ooMG/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="https://drive.google.com/file/d/1gNW8nLB2J2QorGfllX3CUVdKAMSOxr7N/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a   href="https://drive.google.com/file/d/1XMQ3HWjvKyuGYgU7cOcplBpnXWx20omx/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <!-- <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br> -->
@@ -859,12 +859,12 @@ footer {
                   <br><br>29/07/2024
                   <br><br>21/08/2024
                   <br><br>13/09/2024
+                  <br><br>21/10/2024
                   <!-- <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
-                  <br><br>-- -->
-                  
+                   -->
                 </td>
               </tr>
               <tr>
@@ -988,10 +988,13 @@ footer {
                  <td> <h6>Dotaciones</h6></td>
                  <td>  
                   
-                  <a   href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a   href="https://drive.google.com/file/d/1KjQgFFHvEnx4iO9InzycOBYPtgi3Lrhi/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>DOTACION TODERO - Servimos integral sas <br>
+                  <a   href="https://drive.google.com/file/d/12d-GXf_nFdnhu-8-5tX3TMH-C7v8zLTy/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>DOTACION ASEADORAS - Servimos integral Sas  <br>
                 
                 </td>
-                 <td> --</td>
+                 <td>24/10/2024
+                  <br><br>24/10/2024
+                 </td>
               </tr>
               <tr>
                 <th scope="row">3</th>
@@ -1048,10 +1051,13 @@ footer {
                  <td> <h6>Dotaciones</h6></td>
                  <td>  
                   
-                  <a   href="https://drive.google.com/file/d/1_JfKvChNPeOAvlRC4-4dM5cXPTOGZTwL/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a   href="https://drive.google.com/file/d/1_JfKvChNPeOAvlRC4-4dM5cXPTOGZTwL/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a   href="https://drive.google.com/file/d/1ZXeE3-wtZ5fns5r_NOGW_KaUnGiKaVYc/view?usp=sharing"> </i></a></i><br>DOTACION VIGILANTES - SINAT <br>
                 
                 </td>
-                 <td>29/07/2024</td>
+                 <td>29/07/2024
+                  <br><br>24/10/2024
+                 </td>
               </tr>
               <tr>
                 <th scope="row">3</th>

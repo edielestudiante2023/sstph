@@ -843,8 +843,8 @@ footer {
                   <a   href="https://drive.google.com/file/d/14d3urW2SpgtzYQTmoKgveqbrPCdCnjPn/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="https://drive.google.com/file/d/1fxqhvmXJCYNYD8A3McorEOzfnwtFFI36/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="https://drive.google.com/file/d/1K5Bkh7A2PaKxLhRfCdl4GTBo3xeYRnnG/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a   href="https://drive.google.com/file/d/1k99HdvNI7wZvO-5oSdMY4AEO8UxZjejy/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <!-- <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a   href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br> -->
                 
                 </td> 
@@ -856,8 +856,8 @@ footer {
                   <br><br>29/07/2024
                   <br><br>26/08/2024
                   <br><br>19/09/2024
+                  <br><br>21/10/2024
                   <!-- <br><br>--
-                  <br><br>--
                   <br><br>-- -->
                   
                 </td>
@@ -1043,10 +1043,13 @@ footer {
                  <td> <h6>Dotaciones</h6></td>
                  <td>  
                   
-                  <a   href="https://drive.google.com/file/d/1ue8GD0xSCTwK521Xwprq6GwwygP5qlvy/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a   href="https://drive.google.com/file/d/1ue8GD0xSCTwK521Xwprq6GwwygP5qlvy/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a   href="https://drive.google.com/file/d/1hoGxQF4FEsLd7zdSVSpqSnH36LvGwe_n/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                 
                 </td>
-                 <td>29/07/2024</td>
+                 <td>29/07/2024
+                  <br><br>24/10/2024
+                 </td>
               </tr>
               <tr>
                 <th scope="row">3</th>

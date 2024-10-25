@@ -783,10 +783,10 @@ footer {
                 <td><h6>Inspección Equipos de Comunicaciones</h6></td>
                 <td> 
                   
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a href="https://drive.google.com/file/d/1D1WON3yuOF7af_CL8bgtfj-OUChJhQCC/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>--</td>
+                <td>23/10/2024</td>
               </tr>
               <tr>
                 <th scope="row">5</th>
@@ -837,8 +837,8 @@ footer {
                   
                   <a href="https://drive.google.com/file/d/1NVAayY13rZibCNhN4vsmXXsxyMBVsxKE/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="https://drive.google.com/file/d/1Kc4QmfCj5gVZmYEfTIEv7AtM_rRAJaxa/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                 <!--  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a href="https://drive.google.com/file/d/1LWIJc4aMRWPLeaSxWQCjJvlCYkY-6EnC/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <!-- <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -852,8 +852,8 @@ footer {
                 </td> 
                 <td> 10/09/2024
                   <br><br>19/09/2024
-                 <!--  <br><br>--
-                  <br><br>--
+                  <br><br>23/10/2024
+                  <!-- <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--

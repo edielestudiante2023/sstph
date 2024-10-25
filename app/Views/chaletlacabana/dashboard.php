@@ -986,10 +986,13 @@ footer {
                  <td> <h6>Dotaciones</h6></td>
                  <td>  
                   
-                  <a  href="https://drive.google.com/file/d/1RTz13icNY43e7K9Y_2Qx2HUo7Ra_Oelk/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/1RTz13icNY43e7K9Y_2Qx2HUo7Ra_Oelk/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="https://drive.google.com/file/d/1sXeJOsN09BGWyFAEWtKIk_afScwX307A/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>DOTACION ASEADORAS - Proservicios SAS
                 
                 </td>
-                 <td>18/07/2024</td>
+                 <td>18/07/2024
+                  <br><br>24/10/2024
+                 </td>
               </tr>
               <tr>
                 <th scope="row">3</th>
@@ -1046,10 +1049,10 @@ footer {
                  <td> <h6>Dotaciones</h6></td>
                  <td>  
                   
-                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/11fEnkMfsHJtIsV0UbbjTPskLpUqOMgdY/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>DOTACION VIGILANTES - Flash seguridad LTDA
                 
                 </td>
-                 <td> --</td>
+                 <td>24/10/2024</td>
               </tr>
               <tr>
                 <th scope="row">3</th>
