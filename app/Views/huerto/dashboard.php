@@ -762,10 +762,10 @@ footer {
                 <td><h6>Inspección Extintores</h6></td>
                 <td> 
                   
-                  <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a href="https://drive.google.com/file/d/1cJTZCBiuJRbjjnGoNOToC_v-JUkT41nR/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>--</td>
+                <td>25/10/2024</td>
               </tr>
               <tr>
                 <th scope="row">3</th>
@@ -839,8 +839,8 @@ footer {
                   
                   <a href="https://drive.google.com/file/d/1sWfK7za1xm0RDQYgPz9hA9p3NCtn4V2O/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="https://drive.google.com/file/d/1wGCKQDYRgmUtu9j6MbvWxjYoMebQilV_/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Preparación De Brigada - Planeación De Simulacro <br>
+                  <a href="https://drive.google.com/file/d/1_SO3tf9BBjxmoM6B2bRceyp9lY8sdwpG/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <!-- <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -853,6 +853,7 @@ footer {
                 </td> 
                 <td> 16/08/2024
                   <br><br>23/09/2024
+                  <br><br>25/10/2024
                   <!-- <br><br>--
                   <br><br>--
                   <br><br>--
@@ -987,10 +988,10 @@ footer {
                 <td><h6>Dotaciones</h6></td>
                 <td> 
                   
-                  <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a href="https://drive.google.com/file/d/1olq2hvmKToqd4tOo-y4rrxoMtkBK1TVl/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>DOTACION TODERO - SERVIOLAN SAS
                 
                 </td>
-                <td>--</td>
+                <td>29/10/2024</td>
               </tr>
               <tr>
                 <th scope="row">3</th>
@@ -1047,10 +1048,10 @@ footer {
                 <td><h6>Dotaciones</h6></td>
                 <td> 
                   
-                  <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a href="https://drive.google.com/file/d/1x40pdRc7IsnTT3iAf6L8wW_BLTRWWM4r/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>DOTACION VIGILANTES - SEVILIN LTDA 
                 
                 </td>
-                <td>--</td>
+                <td>29/10/2024</td>
               </tr>
               <tr>
                 <th scope="row">3</th>
@@ -1195,10 +1196,10 @@ footer {
                 <td><h6>Auditoría Depósito de Basuras</h6></td>
                 <td> 
                   
-                  <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a href="https://drive.google.com/file/d/12FlO_2qmBhbNb2rGi8raQZgbmIzCkP5k/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                   
                 </td>
-                <td>--</td>
+                <td>25/10/2024</td>
               </tr>
               <tr>
                 <th scope="row">4</th>

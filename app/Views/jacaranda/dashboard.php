@@ -423,10 +423,10 @@
             </td>
             <td>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+              <a href="https://drive.google.com/file/d/1ZsX5vQQFijaJbb8nXUwNJnsW9WrrUz1-/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
 
             </td>
-            <td>--</td>
+            <td>01/10/2024</td>
           </tr>
           <tr>
             <th scope="row">2</th>
@@ -474,10 +474,10 @@
             </td>
             <td>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+              <a href="https://drive.google.com/file/d/10vXkvB-fmT6_-3ovVGiSXjsZXWk-RrxT/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
 
             </td>
-            <td>--</td>
+            <td>01/10/2024</td>
           </tr>
           <tr>
             <th scope="row">6</th>
@@ -532,16 +532,16 @@
             </td>
             <td>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política de SST<br>
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política No Alcohol<br>
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política Emergencias<br>
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política EPP´S<br>
+              <a href="https://drive.google.com/file/d/1_acmsgFXpBcpZqQDPT3-QGOOSjeMb0UN/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política de SST<br>
+              <a href="https://drive.google.com/file/d/1hWTy1fuXQz94obExdsOFjzm4O685hFJD/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política No Alcohol<br>
+              <a href="https://drive.google.com/file/d/1eRUpSBToCh7-UevQAR61OOWqhgX_vhIS/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política Emergencias<br>
+              <a href="https://drive.google.com/file/d/1PgrNO9JePQcO7RN2zWlyyPoHbb0Qm8E6/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política EPP´S<br>
 
             </td>
-            <td> --
-              <br><br> --
-              <br><br> --
-              <br><br> --
+            <td> 01/10/2024
+              <br><br> 01/10/2024
+              <br><br> 01/10/2024
+              <br><br> 01/10/2024
             </td>
           </tr>
           <tr>
@@ -551,10 +551,10 @@
             </td>
             <td>
 
-              <a href="#" target="_blank"> <i class="bi bi-file-earmark-bar-graph-fill"></i></a><br>Documento
+              <a href="https://drive.google.com/file/d/1dXNbhMNIC0-s4OHlm93ZM7dOA2_JAXZ2/view?usp=sharing" target="_blank"> <i class="bi bi-file-earmark-bar-graph-fill"></i></a><br>Documento
 
             </td>
-            <td>--</td>
+            <td>01/10/2024</td>
           </tr>
           <tr>
             <th scope="row">3</th>
@@ -665,17 +665,17 @@
             </td>
             <td>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Reg. Higiene y Seg-Ind.
+              <a href="https://drive.google.com/file/d/1CdrhywJegVdHRpUpXG7LpwKozGmUAbWC/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Reg. Higiene y Seg-Ind.
 
               <br>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Decreto 2090 de 2003 <br>
+              <a href="https://drive.google.com/file/d/175A5oM4NfJ0Pm3zMDyklgphXzkeV8mjR/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Decreto 2090 de 2003 <br>
 
               <a href="" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Matriz de Peligros</b>
 
             </td>
-            <td>--
-              <br><br>--
+            <td>01/10/2024
+              <br><br>01/10/2024
               <br><br>--
             </td>
           </tr>
@@ -1393,7 +1393,7 @@
           <a href="https://drive.google.com/file/d/1VdIaSHfpsgIBTZMxyy27KupPsOBQCehf/view?usp=sharing" target="_blank">
             <button type="button" class="btn btn-primary contrato">Acceder al contrato <i class="bi bi-arrow-right-circle-fill"></i></button>
           </a>
-          <a href="#" target="_blank">
+          <a href="https://drive.google.com/file/d/1eDUe03jF21mZBKmGcKf2GcX0bYSzKoEi/view?usp=sharing" target="_blank">
             <button type="button" class="btn btn-primary contrato">Acceder al acuerdo de confidencialidad <i class="bi bi-arrow-right-circle-fill"></i></button>
           </a>
         </div>

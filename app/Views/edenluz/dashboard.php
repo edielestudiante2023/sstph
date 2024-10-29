@@ -782,10 +782,10 @@ footer {
                  <td> <h6>Inspección Equipos de Comunicaciones</h6></td>
                  <td>  
                   
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/1ZRAXDtQjODrtyC3jbiI5HNXvrgnvl2Hh/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                 <td> --</td>
+                 <td>29/10/2024</td>
               </tr>
               <tr>
                 <th scope="row">5</th>
@@ -984,10 +984,13 @@ footer {
                  <td> <h6>Dotaciones</h6></td>
                  <td>  
                   
-                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/1S1dIMC0FC80C4oc6nUvaXd5B9zx-0kbS/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>DOTACION ASEADORAS - Mundo aseos SAS <br>
+                  <a  href="https://drive.google.com/file/d/1HsFhUmJE24vRfkvTvse89gsaNCZsOZ_Y/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>DOTACION TODERO - Mundo Aseo SAS <br>
                 
                 </td>
-                 <td> --</td>
+                 <td> 28/10/2024
+                  <br><br>28/10/2024
+                 </td>
               </tr>
               <tr>
                 <th scope="row">3</th>
@@ -1044,10 +1047,10 @@ footer {
                  <td> <h6>Dotaciones</h6></td>
                  <td>  
                   
-                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/11IIt6dij0VnTUW6LBE11MHfmbhgcLtOe/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>DOTACION VIGILANTES - Brand seguridad
                 
                 </td>
-                 <td> --</td>
+                 <td>29/10/2024</td>
               </tr>
               <tr>
                 <th scope="row">3</th>
@@ -1107,10 +1110,10 @@ footer {
                  <td> <h6>Matriz de Vulnerabilidad por Amenazas</h6></td>
                  <td>  
                   
-                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/1khmwX8iFa24_941uUFloMl9blemfFqWH/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                 <td> --</td>
+                 <td>29/10/2024</td>
               </tr>
               <tr>
                 <th scope="row">3</th>
