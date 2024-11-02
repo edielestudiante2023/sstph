@@ -772,10 +772,10 @@ footer {
                 <td><h6>Inspección Botiquines</h6></td>
                 <td> 
                   
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a href="https://drive.google.com/file/d/14PHwLfNFPN75tZh53HqscjKOUZdGfMl6/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>--</td>
+                <td>28/10/2024</td>
               </tr>
               <tr>
                 <th scope="row">4</th>

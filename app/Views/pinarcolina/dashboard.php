@@ -423,10 +423,10 @@
             </td>
             <td>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+              <a href="https://drive.google.com/file/d/1Qx3fPe2SSj4KY2Y12AZxpv8-LWiW_UHh/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
 
             </td>
-            <td>--</td>
+            <td>30/10/2024</td>
           </tr>
           <tr>
             <th scope="row">2</th>
@@ -474,10 +474,10 @@
             </td>
             <td>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+              <a href="https://drive.google.com/file/d/1X538B2d-QMMEce8jQXzi0oanNAuXHjqH/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
 
             </td>
-            <td>--</td>
+            <td>30/10/2024</td>
           </tr>
           <tr>
             <th scope="row">6</th>
@@ -532,16 +532,16 @@
             </td>
             <td>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política de SST<br>
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política No Alcohol<br>
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política Emergencias<br>
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política EPP´S<br>
+              <a href="https://drive.google.com/file/d/1aWKhnDcw6UfzsxXvVMfjNDxQHyCyAiTy/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política de SST<br>
+              <a href="https://drive.google.com/file/d/1eEyI7sK0IAzRTOFpwSpEOW8b34E0qM2f/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política No Alcohol<br>
+              <a href="https://drive.google.com/file/d/11Z9fEcgI60XfPVQRoG2kgonyCuJ8k8ze/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política Emergencias<br>
+              <a href="https://drive.google.com/file/d/1q-hoZyBytTkF4cgJSUbQ4MA59Lah2i8Y/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Política EPP´S<br>
 
             </td>
-            <td> --
-              <br><br> --
-              <br><br> --
-              <br><br> --
+            <td> 30/10/2024
+              <br><br> 30/10/2024
+              <br><br> 30/10/2024
+              <br><br> 30/10/2024
             </td>
           </tr>
           <tr>
@@ -551,10 +551,10 @@
             </td>
             <td>
 
-              <a href="#" target="_blank"> <i class="bi bi-file-earmark-bar-graph-fill"></i></a><br>Documento
+              <a href="https://drive.google.com/file/d/1Lk6YrrsQfEMYONePkwk31CaREGC5dddH/view?usp=sharing" target="_blank"> <i class="bi bi-file-earmark-bar-graph-fill"></i></a><br>Documento
 
             </td>
-            <td>--</td>
+            <td>30/10/2024</td>
           </tr>
           <tr>
             <th scope="row">3</th>
@@ -665,17 +665,17 @@
             </td>
             <td>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Reg. Higiene y Seg-Ind.
+              <a href="https://drive.google.com/file/d/1a7aQy63YkjnXWkxil-E2AiZX5SJPGP-q/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Reg. Higiene y Seg-Ind.
 
               <br>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Decreto 2090 de 2003 <br>
+              <a href="https://drive.google.com/file/d/1XpV_iEODWJoxpf4SYJzEkXvnvDphUyDl/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-bar-graph-fill"></i></a></i><br>Decreto 2090 de 2003 <br>
 
               <a href="https://docs.google.com/spreadsheets/d/1R-QB98X_8STcjeeYZ2ABnpduqafaRexE/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Matriz de Peligros</b>
 
             </td>
-            <td>--
-              <br><br>--
+            <td>30/10/2024
+              <br><br>30/10/2024
               <br><br>01/10/2024
             </td>
           </tr>
@@ -913,7 +913,7 @@
             </td>
             <td>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+              <a href="https://drive.google.com/file/d/1dsrJnaS-X2TsKAGXPzPH_CU3yvgSv6fM/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
               <!--  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -927,7 +927,7 @@
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br> -->
 
             </td>
-            <td> --
+            <td> 30/10/2024
               <!--  <br><br>--
                   <br><br>--
                   <br><br>--
@@ -1393,7 +1393,7 @@
           <a href="https://drive.google.com/file/d/1QwP5zZgUJoM7GojI0PFBgtKDTI2nV4xJ/view?usp=sharing" target="_blank">
             <button type="button" class="btn btn-primary contrato">Acceder al contrato <i class="bi bi-arrow-right-circle-fill"></i></button>
           </a>
-          <a href="#" target="_blank">
+          <a href="https://drive.google.com/file/d/1oewWyJoa3fuvyFr8n4BUHRVKDmcqAwc7/view?usp=sharing" target="_blank">
             <button type="button" class="btn btn-primary contrato">Acceder al acuerdo de confidencialidad <i class="bi bi-arrow-right-circle-fill"></i></button>
           </a>
         </div>
