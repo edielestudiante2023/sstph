@@ -423,10 +423,10 @@
             </td>
             <td>
 
-              <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+              <a href="https://drive.google.com/file/d/1X2qdKbXl9W3GZ9ApCFS5TAZ-hJXVe1nP/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
 
             </td>
-            <td>--</td>
+            <td>02/11/2024</td>
           </tr>
           <tr>
             <th scope="row">2</th>
