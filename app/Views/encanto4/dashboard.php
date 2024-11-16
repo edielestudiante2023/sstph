@@ -912,8 +912,8 @@ footer {
                   
                   <a href="https://drive.google.com/file/d/16OjxeIfTA3NK23L6tzOUKg4mStYExduJ/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="https://drive.google.com/file/d/1D0qiom22mH6JBDMkiCGk56T3X3Pv64Et/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a href="https://drive.google.com/file/d/1o1OGE9VpivHYn41Gghl1H5cS4ytK5_yl/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <!-- <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -926,8 +926,8 @@ footer {
                 </td>
                 <td>31/07/2024
                   <br><br>30/09/2024
+                  <br><br>31/10/2024
                   <!-- <br><br>--
-                  <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
@@ -1098,11 +1098,11 @@ footer {
                 <td><h6>Plan de Emergencia de la Copropiedad</h6></td>
                 <td> 
                   
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a href="https://drive.google.com/file/d/1_h71jMXxXFDI6paoYvNysofDci6_SQwL/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                   <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Plan de Emergencia Familiar
                 </td>
-                <td>--
+                <td>01/11/2024
                   <br><br>
                 </td>
               </tr>

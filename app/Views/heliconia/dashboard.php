@@ -919,8 +919,8 @@ footer {
                   <a    href="https://drive.google.com/file/d/1xw1KmegYIHJlHstEJVsU7-0yrN8iQBOm/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a    href="https://drive.google.com/file/d/1oUfXv5ARREdum5XqzO0EqbQtRGP3c0i8/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a    href="https://drive.google.com/file/d/1cBLwQHhQCbYKKr6ge9SlUEGuQYADWKzL/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a    href="https://drive.google.com/file/d/1Ozxzhuv42ofmJ3FQGDSDxK1DBBpJLzUc/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <!-- <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a    href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br> -->
                 
                 </td>
@@ -933,8 +933,8 @@ footer {
                   <br><br>31/07/2024
                   <br><br>31/08/2024
                   <br><br>30/09/2024
+                  <br><br>31/10/2024
                   <!-- <br><br>--
-                  <br><br>--
                   <br><br>-- -->
                 </td>
               </tr>
@@ -1061,12 +1061,12 @@ footer {
                  <td> <h6>Auditoria del Proveedor</h6></td>
                  <td>  
                   
-                  <a    href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a    href="https://drive.google.com/file/d/1Uc2qHsvuH-yNBqaS3aQ-gm0KwBoJRGFn/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                 <td> --</td>
+                 <td>16/11/2024</td>
               </tr>
-              <tr>
+              <!-- <tr>
                 <th scope="row">4</th>
                  <td> <h6>Calificación ARL</h6></td>
                  <td>  
@@ -1075,7 +1075,7 @@ footer {
                 
                 </td>
                  <td> --</td>
-              </tr>
+              </tr> -->
           </table>
       </div>
 

@@ -782,10 +782,10 @@ footer {
                 <td><h6>Inspección Equipos de Comunicaciones</h6></td>
                 <td> 
                   
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a href="https://drive.google.com/file/d/1bTxRGE0TcC2lHJVqHaMjZYP2tVlHf989/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                <td>--</td>
+                <td>15/11/2024</td>
               </tr>
               <tr>
                 <th scope="row">5</th>
@@ -908,8 +908,8 @@ footer {
                   
                   <a href="https://drive.google.com/file/d/1ahNIqgk0uhMFVDfikIhN0GDsNl42b7yR/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="https://drive.google.com/file/d/1b1EcgCVTtK_cs2r_UKkrl17YGANs_EXT/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a href="https://drive.google.com/file/d/1szlc9ELQeoSfaZbTh3Zg_0dusWWYjDVX/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <!-- <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -922,8 +922,8 @@ footer {
                 </td>
                 <td>31/08/2024
                   <br><br>30/09/2024
+                  <br><br>31/10/2024
                   <!-- <br><br>--
-                  <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
@@ -939,10 +939,10 @@ footer {
                 <td><h6>Simulacro de Evacuación</h6></td>
                 <td> 
                   
-                  <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a href="https://drive.google.com/file/d/1WxppTQz1SWd1pbfp6eEmMmO3lI5gyXvm/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Certificado del Sistema Municipal de Gestión del Riesgo de Desastres - SMGRD
                 
                 </td>
-                <td>--</td>
+                <td>16/11/2024</td>
               </tr>
 
               
