@@ -1102,14 +1102,14 @@
           <tr>
             <th scope="row">3</th>
             <td>
-              <h6>Exámenes médicos periódicos</h6>
+              <h6>Auditoría del proveedor</h6>
             </td>
             <td>
 
-              <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+              <a href="https://drive.google.com/file/d/1p-jUt3Wr00WYFUoxt5FwXV_vkxHvCMxq/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
 
             </td>
-            <td> --</td>
+            <td>22/11/2024</td>
           </tr>
           <tr>
             <th scope="row">4</th>
@@ -1172,14 +1172,14 @@
           <tr>
             <th scope="row">3</th>
             <td>
-              <h6>Exámenes médicos periódicos</h6>
+              <h6>Evaluación del Proveedor</h6>
             </td>
             <td>
 
-              <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+              <a href="https://drive.google.com/file/d/1MexN2dGmyLkjOcO20a3x2w_aR-aOKxVO/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
 
             </td>
-            <td> --</td>
+            <td>18/11/2024</td>
           </tr>
           <tr>
             <th scope="row">4</th>

@@ -950,8 +950,8 @@
             <td>
 
               <a href="https://drive.google.com/file/d/1HzZs8L7YdwEwUrcrkgrGDgcnEvel8N0x/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Preparación De Brigada - Planeación De Simulacro <br>
-              <!--    <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                 <a href="https://drive.google.com/file/d/1JanNRXlk2GTuIycHFGp_qxMC7yOLgiUP/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <!-- <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -961,8 +961,8 @@
 
             </td>
             <td>30/09/2024
-              <!-- <br><br>--
-                  <br><br>--
+              <br><br>22/11/2024
+                  <!-- <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
@@ -1128,7 +1128,7 @@
           </tr>
         </thead>
         <tbody>
-          <tr>
+          <!-- <tr>
             <th scope="row">1</th>
             <td>
               <h6>Certificado Seguridad Social Año Anterior</h6>
@@ -1139,7 +1139,7 @@
 
             </td>
             <td>--</td>
-          </tr>
+          </tr> -->
           <tr>
             <th scope="row">2</th>
             <td>
@@ -1155,15 +1155,15 @@
           <tr>
             <th scope="row">3</th>
             <td>
-              <h6>Exámenes médicos periódicos</h6>
+              <h6>Auditoría del Proveedor</h6>
             </td>
             <td>
 
-              <a href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+              <a href="https://drive.google.com/file/d/1a-o3brguFs2dPZSWFI7vDvY_g9H1Ae0m/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
 
             </td>
-            <td>--</td>
-          </tr>
+            <td>25/11/2024</td>
+          <!-- </tr>
           <tr>
             <th scope="row">4</th>
             <td>
@@ -1175,7 +1175,7 @@
 
             </td>
             <td>--</td>
-          </tr>
+          </tr> -->
       </table>
     </div>
 

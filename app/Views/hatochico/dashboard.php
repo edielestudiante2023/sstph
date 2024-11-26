@@ -1064,10 +1064,10 @@ footer {
                  <td> <h6>Auditoria del Proveedor</h6></td>
                  <td>  
                   
-                  <a   href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a   href="https://drive.google.com/file/d/1K8NvTK4kQQd4zJVea0WZjBQNwr5K9GJo/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                 <td> --</td>
+                 <td>25/11/2024</td>
               </tr>
               <tr>
                 <th scope="row">4</th>
