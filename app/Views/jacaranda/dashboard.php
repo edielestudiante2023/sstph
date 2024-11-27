@@ -950,8 +950,8 @@
             <td>
 
               <a href="https://drive.google.com/file/d/1iuRCHzN479FAlLGcoWprrBXfxj04KwAE/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Preparación De Brigada - Planeación De Simulacro <br>
-              <!--    <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                 <a href="https://drive.google.com/file/d/1t7u2L-x4TmL0cR-TgXYqMJmg415NjF9F/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <!-- <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -961,8 +961,8 @@
 
             </td>
             <td>27/09/2024
-              <!-- <br><br>--
-                  <br><br>--
+              <br><br>27/11/2024
+                <!--   <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--

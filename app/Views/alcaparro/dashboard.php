@@ -873,8 +873,8 @@ footer {
                   
                   <a href="https://drive.google.com/file/d/1urvYLz6kZeNZeaXsiMey-3FAc95SRPNq/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Preparación De Brigada - Planeación De Simulacro <br>
                   <a href="https://drive.google.com/file/d/1zi-jHdqNW7p6fGVMNXVgIXw1bLXTf1NS/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>50 HORAS CRISTINA SHIRLEY CARDENAS SAAVEDRA<br>
+                  <a href="https://drive.google.com/file/d/1aMJcM81C-2eiSyZ9_dPGQY5GLtET_hl6/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <!-- <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -884,8 +884,8 @@ footer {
                 </td>
                 <td>13/09/2024
                   <br><br>16/11/2024
-                  <!-- <br><br>--
-                  <br><br>--
+                  <br><br>27/11/2024
+                 <!--  <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
