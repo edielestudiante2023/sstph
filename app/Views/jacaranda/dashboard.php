@@ -853,7 +853,7 @@
             </td>
             <td>
 
-              <a href="https://drive.google.com/file/d/1yfaGN8aDdh7zLD9ZBD2qngJP7LuahWvl/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+              <a href="https://drive.google.com/file/d/1LLl1v5Q2WN1Rmfs6gowfiRLSRlCcdO2Y/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
 
             </td>
             <td>18/11/2024</td>
@@ -877,7 +877,7 @@
             </td>
             <td>
 
-              <a href="https://drive.google.com/file/d/1N8hSZ1hiKUy6IVeC1x_h6IK6vN8W8iyZ/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+              <a href="https://drive.google.com/file/d/1IHlv13FSk_JLZhvNeKIMcVOk0cIf-m6Q/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
 
             </td>
             <td>18/11/2024</td>
@@ -913,9 +913,9 @@
             </td>
             <td>
 
-              <a href="https://drive.google.com/file/d/1Gb-g_Ur9pwGsqmnQWymMF63vul01zTIb/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-               <a href="https://drive.google.com/file/d/1L3QJnbZsA_iHGSY4yjFqLqDADeHDAc4_/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-              <a href="https://drive.google.com/file/d/1FYhiqNkHqyTFWidyyYjTXAEtuhB4fHP1/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+              <a href="https://drive.google.com/file/d/1wrUshGxxTTAshKGOyjsjbgVoPDcrF659/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+               <a href="https://drive.google.com/file/d/1QRjfX0LXpW8rBmvvLF4n87P-Fpisrxgh/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+              <a href="https://drive.google.com/file/d/1-RCvkxNmusMpq3XHYFLfvZaLdvF91U78/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
               <!-- <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
               <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
               <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -949,8 +949,8 @@
             </td>
             <td>
 
-              <a href="https://drive.google.com/file/d/1iuRCHzN479FAlLGcoWprrBXfxj04KwAE/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Preparación De Brigada - Planeación De Simulacro <br>
-                 <a href="https://drive.google.com/file/d/1t7u2L-x4TmL0cR-TgXYqMJmg415NjF9F/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+              <a href="https://drive.google.com/file/d/1Ccki7dCmG6cUr2HQSQ3JEvPaj_ajR2io/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Preparación De Brigada - Planeación De Simulacro <br>
+                 <a href="https://drive.google.com/file/d/1t7u2L-x4TmL0cR-TgXYqMJmg415NjF9F/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Inducción Virtual <br>
                   <!-- <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -991,8 +991,8 @@
             <td>
 
 
-              <a href="https://drive.google.com/file/d/1KpFMIlf2eB_soI3TtEFOK8VGriAj6_-I/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-              <a href="https://drive.google.com/file/d/1WWvfzLwm1CRRJ6M-7ohVlUtyxIujHGa9/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+              <a href="https://drive.google.com/file/d/1-xZf6GLX27OSGm47RzJQAlMbEqXbdzYr/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+              <a href="https://drive.google.com/file/d/1sCsslDbiImmqdnHmnexup2cZhP-UCWyS/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
               <!-- <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
               <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
               <a href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
@@ -1220,7 +1220,7 @@
             </td>
             <td>
 
-              <a href="https://drive.google.com/file/d/1DY0CU-CeovwFbZXvO56kvukWqL1jM5ez/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+              <a href="https://drive.google.com/file/d/1gI7CmmaPxbZ4uAofHVocANIoWrvj-dK0/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
 
             </td>
             <td>18/11/2024</td>
@@ -1232,7 +1232,7 @@
             </td>
             <td>
 
-              <a href="https://drive.google.com/file/d/1AgrS9UDv8BMQv3Y9Osbxgi3SA568v3OL/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+              <a href="https://drive.google.com/file/d/1dD87zatszx2GpvlzDtuc4cZ35zmdPfoC/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
 
             </td>
             <td>18/11/2024</td>
@@ -1244,7 +1244,7 @@
             </td>
             <td>
 
-              <a href="https://drive.google.com/file/d/1Sna4HOHu_v15z4P-xeOpkx3dVY9aQg79/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+              <a href="https://drive.google.com/file/d/1UswOfYf68K-Y7cfRi_GQ0ojMMF-7wKpp/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
 
             </td>
             <td>02/10/2024</td>
@@ -1253,6 +1253,9 @@
             <th scope="row">5</th>
             <td>
               <h6>Brigadistas de la Copropiedad</h6>
+
+
+
             </td>
             <td>
 
