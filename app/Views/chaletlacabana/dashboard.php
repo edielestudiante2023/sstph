@@ -1043,8 +1043,8 @@ footer {
                 
                 </td>
                  <td> --</td>
-              </tr>
-              <tr>
+              <!-- </tr>
+              <tr> -->
                 <th scope="row">2</th>
                  <td> <h6>Dotaciones</h6></td>
                  <td>  
@@ -1059,12 +1059,12 @@ footer {
                  <td> <h6>Auditoria del Proveedor</h6></td>
                  <td>  
                   
-                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/1zHtdwyZqDrBBO7oib0WnBUTt7VSohNdd/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                 <td> --</td>
+                 <td>10/12/2024</td>
               </tr>
-              <tr>
+              <!-- <tr>
                 <th scope="row">4</th>
                  <td> <h6>Calificación ARL</h6></td>
                  <td>  
@@ -1073,7 +1073,7 @@ footer {
                 
                 </td>
                  <td> --</td>
-              </tr>
+              </tr> -->
           </table>
       </div>
 

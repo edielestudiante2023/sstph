@@ -793,10 +793,10 @@ footer {
                  <td> <h6>Inspección Gabinetes Contra Incendio</h6></td>
                  <td>  
                   
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/1dWx9ArSKd63h2OVGaIq6gvYidf_wsRyK/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                 <td> --</td>
+                 <td>29/11/2024</td>
               </tr>
               <tr>
                 <th scope="row">6</th>
@@ -807,6 +807,16 @@ footer {
                 
                 </td>
                  <td> --</td>
+              </tr>
+              <tr>
+                <th scope="row">6</th>
+                 <td> <h6>Inspección Locativa</h6></td>
+                 <td>  
+                  
+                  <a  href="https://drive.google.com/file/d/1rPx-OwCAP81s8nR8qHDzDslQEU9RLZXY/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                
+                </td>
+                 <td>29/11/2024</td>
               </tr>
               
               
@@ -842,12 +852,12 @@ footer {
                   <a  href="https://drive.google.com/file/d/14Tf1iLgIFOhAJb2R7ms_kKLT87Q0heYf/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="https://drive.google.com/file/d/1YKPLipwYSE297_WjlDgy5x4p4IyAxNQ7/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="https://drive.google.com/file/d/1YPZJqMPF9BvO-RWGyyQvv2AEq6go8viv/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="https://drive.google.com/file/d/1caGMKfuUT_tsxcH7t_WZraF3Yf8O57Cp/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <!-- <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                 -->
+                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br> -->
+                
                 </td> 
                  <td>  26/01/2024
                   <br><br>06/03/2024
@@ -856,8 +866,8 @@ footer {
                   <br><br>22/06/2024
                   <br><br>17/07/2024
                   <br><br>11/09/2024
+                  <br><br>29/11/2024
                   <!-- <br><br>--
-                  <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>-- -->                  
@@ -943,10 +953,10 @@ footer {
                  <td> <h6>Simulacro de Evacuación</h6></td>
                  <td>  
                   
-                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/1sBQSM4Y3FMKAR75TD6uB4jzVsLFWYkZr/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                 <td> --</td>
+                 <td>02/10/2024</td>
               </tr>
 
               
@@ -973,7 +983,7 @@ footer {
               </tr>
             </thead>
             <tbody>
-              <tr>
+              <!-- <tr>
                 <th scope="row">1</th>
                  <td> <h6>Certificado Seguridad Social Año Anterior</h6></td>
                  <td>  
@@ -982,13 +992,13 @@ footer {
                 
                 </td>
                  <td> --</td>
-              </tr>
+              </tr> -->
               <tr>
                 <th scope="row">2</th>
                  <td> <h6>Dotaciones</h6></td>
                  <td>  
                   
-                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/1l7gas0JI490mpUCGTT_0KMHFBjdoseir/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>DOTACION ASEADORAS - SERVIOLAM SAS 
                 
                 </td>
                  <td> --</td>
@@ -1003,7 +1013,7 @@ footer {
                 </td>
                  <td> --</td>
               </tr>
-              <tr>
+             <!--  <tr>
                 <th scope="row">4</th>
                  <td> <h6>Calificación ARL</h6></td>
                  <td>  
@@ -1012,7 +1022,7 @@ footer {
                 
                 </td>
                  <td> --</td>
-              </tr>
+              </tr> -->
           </table>
       </div>
 
@@ -1048,10 +1058,10 @@ footer {
                  <td> <h6>Dotaciones</h6></td>
                  <td>  
                   
-                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/1NOqf8Rqys5jPE3EqY2IZK1SHzHE0VQin/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>DOTACION VIGILANTES - ALDABA SAS 
                 
                 </td>
-                 <td> --</td>
+                 <td>29/11/2024</td>
               </tr>
               <tr>
                 <th scope="row">3</th>
@@ -1196,10 +1206,10 @@ footer {
                  <td> <h6>Auditoría Depósito de Basuras</h6></td>
                  <td>  
                   
-                  <a  href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/1r50h0hABChN_INqll-eqM7hScQPVEZuE/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                 <td> --</td>
+                 <td>29/12/2024</td>
               </tr>
               <tr>
                 <th scope="row">4</th>
