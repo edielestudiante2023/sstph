@@ -12,13 +12,13 @@ class UserSeeder extends Seeder
 		$user_object = new UserModel();
 
 		$user_object->insertBatch([
-			 /* [
-			 	"name" => "CONJUNTO RESIDENCIAL PINAR DE LA COLINA 1",
-			 	"email" => "pinarcolina1@gmail.com",
-			 	"phone_no" => "3229408784",
-			 	"role" => "pinarcolina",
-			 	"password" => password_hash("900072254", PASSWORD_DEFAULT)
-			 ],
+			 [
+			 	"name" => "CONJUNTO RESIDENCIAL EL TRIUNFO 1",
+			 	"email" => "conjuntoresidencialtriunfo1@gmail.com",
+			 	"phone_no" => "3504173465",
+			 	"role" => "triunfo1",
+			 	"password" => password_hash("900983988", PASSWORD_DEFAULT)
+			 ]/* ,
 			 [
 			 	"name" => "SAUCO CONJUNTO RESIDENCIAL",
 			 	"email" => "crsauco@gmail.com",

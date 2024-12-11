@@ -139,5 +139,8 @@ $routes->group("sauco", ["filter" => "auth"], function ($routes) {
 $routes->group("pinarcolina", ["filter" => "auth"], function ($routes) {
     $routes->get("/", "PinarcolinaController::index");
 });
+$routes->group("triunfo1", ["filter" => "auth"], function ($routes) {
+    $routes->get("/", "Triunfo1Controller::index");
+});
 
 $routes->get('logout', 'UserController::logout');
