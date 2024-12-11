@@ -1218,10 +1218,12 @@ footer {
                   
                   <a  href="https://docs.google.com/spreadsheets/d/1gIN0qwa5xOPx8jJWWYqcLe3r6Xu_4Tjm/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b> <br>
                   <a  href="https://drive.google.com/file/d/1ROAEZ2LOyC5h9luifMZJF2OvwJjiwxys/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Fumigacion hecha 22/11/2023
+                  <a  href="https://drive.google.com/file/d/1mFdygA5X5dimMBtc3XloA0RepJjt6RHi/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Fumigacion hecha 24/06/2024
                 
                 </td>
                  <td> 01/03/2024
                   <br><br>29/07/2024
+                  <br><br>11/12/2024
                  </td>
               </tr>
               <tr>
@@ -1231,10 +1233,12 @@ footer {
                   
                   <a  href="https://docs.google.com/spreadsheets/d/1fBiPYRJVnu2jMX2nxjruw_-wWcgM2oju/edit?usp=sharing&ouid=115340831198935978161&rtpof=true&sd=true" target="_blank"><i class="bi bi-file-earmark-excel-fill"></i></a></i><br> <b style="color:green">Hoja de Cálculo Online</b> <br>
                   <a  href="https://drive.google.com/file/d/1H2XyMFSQbCsdHsow0XIbpoiQME78MIqR/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Lavado de Tanques 22/11/2023
+                  <a  href="https://drive.google.com/file/d/17Ibi3Vy7fctcGDon5-ZN9qsHQ-EbAsqi/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Lavado de Tanques 24/07/2024
                  
                 </td>
                  <td> 01/03/2024
                  <br><br>29/07/2024
+                 <br><br>11/12/2024
                  </td>
               </tr>
              

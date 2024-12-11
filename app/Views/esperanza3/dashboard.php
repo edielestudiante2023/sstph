@@ -847,8 +847,8 @@ footer {
                   <a  href="https://drive.google.com/file/d/1UswzyCNURsDcPl5hBLeds01eeWOQKY51/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="https://drive.google.com/file/d/1VN0r7OLTMwCVTYxSiBPi977o7_6CriN3/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="https://drive.google.com/file/d/1LKQztZ_65u-E7YFa1mfnJE5j7cNO5LI7/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
+                  <a  href="https://drive.google.com/file/d/1i8AI5MithCJI20dBjWicHf-A5s3ZoIo4/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <!-- <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
-                  <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br>
                   <a  href="#" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento <br> -->
@@ -861,8 +861,8 @@ footer {
                   <br><br>20/08/2024
                   <br><br>02/09/2024
                   <br><br>25/10/2024
+                  <br><br>11/12/2024
                   <!-- <br><br>--
-                  <br><br>--
                   <br><br>--
                   <br><br>--
                   <br><br>--
@@ -1137,9 +1137,12 @@ footer {
                  <td>  
                   
                   <a  href="https://drive.google.com/file/d/168Qd2m7cW6GshksUi9nX6oEOwmwySWYM/view?usp=drive_link" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a  href="https://drive.google.com/file/d/1fnAb3qePFmF1qfVx6Nz1zbTxKnmC9clZ/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Reporte de oficina de Gestión del Riesgo
                 
                 </td>
-                 <td>02/10/2024</td>
+                 <td>02/10/2024
+                  <br><br>11/12/2024
+                 </td>
               </tr>
               <tr>
                 <th scope="row">5</th>
