@@ -1248,8 +1248,8 @@ footer {
             </h5>
           </div>
           <div class="col-sm-6 col-lg-6">
-            <h5 style="color: aquamarine;">Su contrato actual vence el (31/10/2024)</h5>
-            <a  href="https://drive.google.com/file/d/1d3pco0TwYzeDDE5UHWKHh-xzaxqyqatW/view?usp=sharing" target="_blank">
+            <h5 style="color: aquamarine;">Su contrato actual vence el (15/11/2025)</h5>
+            <a  href="https://drive.google.com/file/d/1Opn2pBFVaJY3TxvX9jTVatLSOL9vGmOl/view?usp=sharing" target="_blank">
               <button type="button" class="btn btn-primary contrato">Acceder al contrato <i class="bi bi-arrow-right-circle-fill"></i></button>
             </a>
           </div>
