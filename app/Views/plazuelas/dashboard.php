@@ -1028,7 +1028,7 @@ footer {
               </tr>
             </thead>
             <tbody>
-              <tr>
+              <!-- <tr>
                 <th scope="row">1</th>
                  <td> <h6>Certificado Seguridad Social Año Anterior</h6></td>
                  <td>  
@@ -1037,7 +1037,7 @@ footer {
                 
                 </td>
                  <td> --</td>
-              </tr>
+              </tr> -->
               <tr>
                 <th scope="row">2</th>
                  <td> <h6>Dotaciones</h6></td>
@@ -1056,12 +1056,12 @@ footer {
                  <td> <h6>Auditoria del Proveedor</h6></td>
                  <td>  
                   
-                  <a   href="" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
+                  <a   href="https://drive.google.com/file/d/1rn_CfkUGsF5YlV5yZ8QATyDeP4joGR8a/view?usp=sharing" target="_blank"><i class="bi bi-file-earmark-arrow-down-fill"> </i></a></i><br>Documento
                 
                 </td>
-                 <td> --</td>
+                 <td>16/12/2024</td>
               </tr>
-              <tr>
+              <!-- <tr>
                 <th scope="row">4</th>
                  <td> <h6>Calificación ARL</h6></td>
                  <td>  
@@ -1070,7 +1070,7 @@ footer {
                 
                 </td>
                  <td> --</td>
-              </tr>
+              </tr> -->
           </table>
       </div>
 
